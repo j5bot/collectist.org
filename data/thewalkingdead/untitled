@@ -1,0 +1,31 @@
+,
+		{
+			"id": "tv-series-1",
+			"name": "TV: Series 1",
+			"images": "/images/twd/tvac1/twd-loose-",
+			"imagetype": ".jpg",
+			"prefix": "tv1",
+			"start": 1,
+			"end": 5,
+			"offset": 11
+		},
+		{
+			"id": "tv-series-2",
+			"name": "TV: Series 2",
+			"images": "/images/twd/tvac2/twd-loose-",
+			"imagetype": ".jpg",
+			"prefix": "tv2",
+			"start": 1,
+			"end": 8,
+			"offset": 16
+		},
+		{
+			"id": "tv-series-3",
+			"name": "TV: Series 3",
+			"images": "/images/twd/tvac3/twd-loose-",
+			"imagetype": ".jpg",
+			"prefix": "tv3",
+			"start": 1,
+			"end": 11,
+			"offset": 24
+		}

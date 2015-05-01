@@ -1,0 +1,168 @@
+{
+	"items": [
+		{
+			"name": "Officer Rick Grimes",
+			"series": "cmc1",
+			"number": "1"
+		},
+		{
+			"name": "Michonne",
+			"series": "cmc1",
+			"number": "2"
+		},
+		{
+			"name": "Zombie Lurker",
+			"series": "cmc1",
+			"number": "3"
+		},
+		{
+			"name": "Zombie Roamer",
+			"series": "cmc1",
+			"number": "4"
+		},
+		{
+			"name": "Bloody Rick Grimes",
+			"series": "cmc1",
+			"number": "5"
+		},
+		{
+			"name": "B & W Rick Grimes",
+			"series": "cmc1",
+			"number": "6"
+		},
+		{
+			"name": "B & W Zombie Lurker",
+			"series": "cmc1",
+			"number": "7"
+		},
+		{
+			"name": "B & W Zombie Roamer",
+			"series": "cmc1",
+			"number": "8"
+		},
+		{
+			"name": "Bloody Poncho Michonne",
+			"series": "cmc1",
+			"number": "9"
+		},
+		{
+			"name": "B & W Bloody Rick Grimes",
+			"series": "cmc1",
+			"number": "10"
+		},
+		{
+			"name": "B & W Bloody Michonne",
+			"series": "cmc1",
+			"number": "11"
+		},
+
+		{
+			"name": "Deputy Rick Grimes",
+			"series": "tv1",
+			"number": "1",
+			"description": "Rick Grimes dressed in his deputy's uniform."
+		},
+		{
+			"name": "Daryl Dixon",
+			"series": "tv1",
+			"number": "2"
+		},
+		{
+			"name": "Zombie Walker",
+			"series": "tv1",
+			"number": "3"
+		},
+		{
+			"name": "Zombie Biter",
+			"series": "tv1",
+			"number": "4"
+		},
+		{
+			"name": "B & W Bloody Rick Grimes",
+			"series": "tv1",
+			"number": "5"
+		},
+
+		{
+			"name": "Deputy Rick Grimes",
+			"series": "tv2",
+			"number": "1"
+		},
+		{
+			"name": "Shane Walsh",
+			"series": "tv2",
+			"number": "2"
+		},
+		{
+			"name": "Bicycle Girl Zombie",
+			"series": "tv2",
+			"number": "3"
+		},
+		{
+			"name": "Well Zombie",
+			"series": "tv2",
+			"number": "4"
+		},
+		{
+			"name": "RV Zombie",
+			"series": "tv2",
+			"number": "5"
+		},
+		{
+			"name": "B & W Bicycle Girl Zombie",
+			"series": "tv2",
+			"number": "6"
+		},
+		{
+			"name": "B & W Well Zombie",
+			"series": "tv2",
+			"number": "7"
+		},
+		{
+			"name": "B & W RV Zombie",
+			"series": "tv2",
+			"number": "8"
+		},
+
+		{
+			"name": "Michonne",
+			"series": "tv3",
+			"number": "1"
+		},
+		{
+			"name": "Pet Zombie #1",
+			"series": "tv3",
+			"number": "2"
+		},
+		{
+			"name": "Pet Zombie #2",
+			"series": "tv3",
+			"number": "3"
+		},
+		{
+			"name": "Merle Dixon",
+			"series": "tv3",
+			"number": "4"
+		},
+		{
+			"name": "Autopsy Zombie",
+			"series": "tv3",
+			"number": "5"
+		},
+		{
+			"name": "B & W Michonne",
+			"series": "tv3",
+			"number": "6"
+		},
+		{
+			"name": "B & W Pet Zombie #1",
+			"series": "tv3",
+			"number": "7"
+		},
+		{
+			"name": "B & W Pet Zombie #2",
+			"series": "tv3",
+			"number": "8"
+		}
+	]
+}

@@ -1,0 +1,80 @@
+<script type="text/template" id="main-template">
+	<article class="series" data-bind="foreach: { data: series, as: 'serieslist' }">
+		<div data-bind="visible: $root.isCurrent(serieslist.id)">
+			<div class="series-heading">
+				<h2 data-bind="text: name">Series Name</h2>
+				<h3 data-bind="text: serieslist.count()">10</h3>
+			</div>
+			<ol class="series-item-list" data-bind="template: { name: serieslist.template(), foreach: itemsection, as: 'item' }"></ol>
+		</div>
+	</article>
+</script>
+
+<script type="text/template" id="sites-template">
+	<ul class="sites-menu" data-bind="foreach: { data: sitelist }">
+		<li><a data-bind="text: title, attr: { href: url }">Site</a></li>
+	</ul>
+</script>
+
+<script type="text/template" id="menu-template">
+	<ul class="series-menu" data-bind="foreach: { data: series, as: 'seriesmenu' }">
+		<li><a data-bind="text: name, attr: { href: '/series/' + seriesmenu.id() }">Series</a></li>
+	</ul>
+</script>
+
+<script type="text/template" id="gogos-item-template">
+	<li class="series-item-list-item">
+		<article class="base">
+			<label>
+				<input type="checkbox" data-bind="seriesitem: { serieslist: serieslist, index: $index }" /><i class="custom-checkbox"></i><img class="main-image" src="" data-bind="attr: { src: serieslist.primaryImage(item.number) }" /> <div class="number" data-bind="text: number">1</div>
+			</label>
+			<label>
+				<input type="checkbox" data-bind="seriesitem: { serieslist: serieslist, index: $index, offset: 1, sticker: true }" /><i class="sticker custom-checkbox"></i>
+				<div class="name" data-bind="text: name">Mosh</div>
+			</label>
+		</article>
+		<ol class="series-sub-list" start="2" data-bind="foreach: { data: item.colors, as: 'color' }">
+			<li class="series-sub-list-item"><label><input type="checkbox" data-bind="seriesitem: { serieslist: serieslist, index: $parentContext.$index, offset: $index()+1, colors: true }" /><i class="custom-checkbox"></i> <img class="colors" src="" data-bind="attr: { src: serieslist.secondaryImage(item.number, $index), title: color }" /></label></li>
+		</ol>
+	</li>
+</script>
+
+<script type="text/template" id="gogos-nocolors-item-template">
+	<li class="series-item-list-item nocolors-item">
+		<article class="base">
+			<label>
+				<input type="checkbox" data-bind="seriesitem: { serieslist: serieslist, index: $index }" /><i class="custom-checkbox"></i><img class="main-image" src="" data-bind="attr: { src: serieslist.primaryImage(item.number) }" /> <div class="number" data-bind="text: number">1</div>
+			</label>
+			<label>
+				<input type="checkbox" data-bind="seriesitem: { serieslist: serieslist, index: $index, offset: 1, sticker: true }" /><i class="sticker custom-checkbox"></i>
+				<div class="name" data-bind="text: name">Mosh</div>
+			</label>
+		</article>
+	</li>
+</script>
+
+<script type="text/template" id="thewalkingdead-item-template">
+	<li class="series-item-list-item">
+		<article class="base">
+			<label>
+				<input type="checkbox" data-bind="seriesitem: { serieslist: serieslist, index: $index }" /><i class="custom-checkbox"></i><img class="main-image" src="" data-bind="attr: { src: serieslist.primaryImage(item.number) }" /> <div class="number" data-bind="text: number">1</div>
+			</label>
+			<label>
+				<input type="checkbox" data-bind="seriesitem: { serieslist: serieslist, index: $index, offset: 1, sticker: true }" /><i class="sticker custom-checkbox"></i>
+				<div class="name" data-bind="text: name">Mosh</div>
+			</label>
+		</article>
+	</li>
+</script>
+
+<script type="text/template" id="gogo-template">
+	<div class="tooltip">
+		<summary><h2></h2></summary>
+		<details open="true">
+			<dl>
+				<dt></dt>
+				<dd></dd>
+			</dl>
+		</details>
+	</div>
+</script>

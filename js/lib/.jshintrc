@@ -1,0 +1,42 @@
+/* JSHint Resource Config .jshintrc */
+{
+	// Enforcing options
+	"bitwise": false,			// true: forbid use of bitwise operators
+	"camelcase": false,		// true: force all variables to camelCase or UPPER_CASE
+	"curly": false,			// true: force using curly braces around loops and conditionals
+	"eqeqeq": false,			// prohibit the use of ==, !=
+	"forin": false,			// true: require hasOwnProperty check on for in loops
+	"immed": false,			// true: force use of parens around immediate function invocations
+	"latedef": false,			// true: force declaration of variable before use
+	"newcap": false,			// true: capitalize the names of constructor functions
+	"noarg": false,			// true: prohibit arguments.caller and arguments.callee
+	"noempty": false,			// true: prohibit empty blocks
+	"nonew": false,			// true: prohibit use of new w/o assignment
+	"plusplus": false,		// true: prohibit ++ and --
+	"quotmark": false,		// true: enforce one style or the other (i.e. pick it and stick it)
+	"undef": false,			// true: prohibit use of undefined vars
+	"unused": false,			// true: warns when unused variables are defined
+	"strict": false,			// true: force use of strict mode
+	"trailing": false,		// true: prohibit trailing whitespace
+
+	// Relaxing options
+	"asi": true,				// false: require semicolons
+	"boss": true,				// true: allow assignments where comparisons are expected
+	"debug": true,			// allow debugger statements
+	"eqnull": true,			// don't allow == null (which eq also on undefined)
+	"es5": false,				// true: code uses es5 syntax
+	"esnext": false,			// true: code uses es6 syntax
+	"evil": true,				// true: allow eval
+	"funcscope": true,		// false: warn about declaring vars inside of control structures
+	"globalstrict": true,		// true: suppress warnings about global strict mode
+	"iterator": true,			// true: suppress warning about __iterator__ property
+	"smarttabs": true,		// suppress warnings about mixed tabs and spaces for alignment
+	"shadow": true,			// suppress warnings about redeclaring variable that has been declared in outer scope
+	"sub": true,				// relax warnings about using [] notation where . notation could be used
+
+	// Environments:
+	"browser": true,			// assume browser objects
+	"devel": true,			// assume console, alert, etc.
+	"jquery": true,			// assume $, jQuery objects
+	"nonstandard": true		// assume non-standard but accepted such as escape and unescape
+}

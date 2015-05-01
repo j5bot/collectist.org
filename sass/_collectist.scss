@@ -1,0 +1,341 @@
+$navbartextcolor: #000;
+$navbarbgcolor: #fce3cd;
+$navbargradientcolorhigh: tint(#ff9300, 50);
+$navbargradientcolorlow: #dba000;
+
+$appbgcolor: rgba(255,255,255,0.7);
+$appbordercolor: rgba(100,80,40,0.3);
+$appshadowcolor: rgba(100,60,20,0.8);
+
+$menuitembgcolor: rgba(255,255,255,0.9);
+$menuitemshadowcolor: rgba(160,120,80,0.8);
+$menubgcolor: rgba(255,250,230,0.9);
+$menushadowcolor: $appshadowcolor;
+
+$appborderradius: 40px;
+$menuborderradius: 20px;
+
+$addthislogintoolboxbgcolor: rgba(255,250,240,0.95);
+
+@import url(http://fonts.googleapis.com/css?family=Orbitron:400,500);
+
+.row { max-width: 100%; }
+
+#application {
+	background-color: $bodybgcolor;
+	background-repeat: repeat;
+	background-image: url(/images/bg/cardboard-repeating-light.jpg);
+
+	*, h2, h3 {
+		font-family: Orbitron, Helvetica, sans-serif;
+	}
+}
+
+header {
+	position: static;
+	min-height: 82px;
+	width: 100%;
+
+	line-height: 22px;
+	font-size: 1.2em;
+	padding-left: 180px;
+	background-color: $navbarbgcolor;
+	@include background-image(linear-gradient(top, $navbarbgcolor 62%, $navbargradientcolorhigh 100%));
+
+	color: $navbartextcolor;
+
+	> a {
+		display: block;
+		padding-top: 28px;
+		color: $navbartextcolor;
+	}
+	> a:hover {
+		color: $navbartextcolor;
+	}
+
+	.make-link {
+		display: none;
+		position: absolute;
+		top: 0px;
+		left: 180px;
+		width: 100px;
+		cursor: pointer;
+	}
+
+	.logo {
+		position: fixed;
+		top: 10px;
+		left: 15px;
+		z-index: 50;
+	}
+}
+
+footer {
+	background-color: $navbarbgcolor;
+	color: $navbartextcolor;
+
+	font-size: emCalc(12px);
+	margin-bottom: 0px;
+	padding: 5px;
+	text-align: center;
+}
+
+#addthis_login_toolbox {
+	position: absolute;
+	top: -10px;
+	right: 20px;
+	z-index: 51;
+
+	text-align: center;
+
+	> a {
+		display: inline-block;
+	}
+
+	.ssi-button {
+		background-image: none;
+		width: 92px;
+		height: 52px;
+		float: none;
+		display: inline-block;
+	}
+}
+
+#addthis_login_facebook {
+	background-image: url(/images/facebook-connect.png);
+	background-repeat: no-repeat;
+	width: 89px;
+	height: 52px;
+}
+#addthis_login_google {
+	background-image: url(/images/google-connect.png);
+	width: 89px;
+	height: 50px;
+}
+
+.share-container {
+	position: fixed;
+	top: 140px;
+	left: 0px;
+	width: 16.6667%;
+	z-index: 51;
+}
+
+#addthis_share_toolbox {
+	text-align: right;
+
+	> a {
+		float: none;
+		display: inline-block;
+		padding-left: 0px;
+		padding-bottom: 0px;
+
+		&:last-of-type span { margin-right: 0px; }
+	}
+
+	.at300b:hover, .at300bs:hover {
+		opacity: 1;
+	}
+}
+
+.walkthrough {
+	display: none;
+	position: absolute;
+	z-index: 51;
+	cursor: pointer;
+	max-width: 10000px;
+}
+
+#login-pow {
+	top: 30px;
+	right: 100px;
+}
+
+#checklist-arrow {
+	top: 300px;
+	left: 50%;
+	margin-left: -125px;
+	margin-top: -143px;
+}
+
+#share-bubble {
+	top: 0px;
+	right: -170px;
+}
+
+
+.atm-f {
+	height: 24px !important;
+}
+
+#at_auth {
+	height: auto;
+	line-height: auto;
+}
+
+#menu-container {
+	padding: 75px 0px 10px 25px;
+	position: relative;
+}
+#menu {
+	background-color: $menubgcolor;
+	text-align: right;
+	position: fixed;
+	left: 10px;
+	padding: 27px 0px 10px 10px;
+	@include border-left-radius($menuborderradius);
+	@include box-shadow($menushadowcolor 0px 10px 15px);
+
+	li {
+		width: 100%;
+		padding: 3px 20px 0px 30px;
+		border: solid 1px $menuitemshadowcolor;
+		border-width: 1px 0px 1px 1px;
+		@include border-left-radius($menuborderradius);
+		margin: 0px 0px 5px 0px;
+		background-color: $menuitembgcolor;
+
+		@include box-shadow(inset $menuitemshadowcolor 1px 0 5px 1px);
+
+		a {
+			display: block;
+			font-weight: bold;
+			color: $menushadowcolor;
+		}
+	}
+}
+#app-container {
+	padding: 20px 25px 10px 0px;
+}
+#app {
+	position: relative;
+	min-height: 600px;
+	background-color: $appbgcolor;
+	@include border-radius($appborderradius);
+	@include box-shadow($appshadowcolor 0px 5px 20px);
+	border: double 12px $appbordercolor;
+}
+
+.collection-title {
+	letter-spacing: 0.2em;
+	font-size: 1.2em;
+}
+
+.collectist-primary {
+	letter-spacing: 0.2em;
+
+	&.first:before {
+		content: " :: ";
+	}
+}
+
+.collectist-secondary {
+	font-size: 0.6em;
+	letter-spacing: 0em;
+	text-transform: uppercase;
+
+	&:before {
+		content: " / ";
+	}
+	&:after {
+		content: " / ";
+	}
+}
+
+@media #{$screen} {
+	.site-title { font-size: 0.8em; }
+	header { padding-left: 95px; }
+	header > a { padding-top: 10px; }
+	header .logo { position: absolute; width: 73px; height: 63px; }
+	.collectist-header { font-size: 0.8em; white-space: nowrap; }
+
+	.login-container {
+		position: relative;
+		top: 0px;
+		height: 52px;
+		margin-bottom: -42px;
+		width: 100%;
+		text-align: right;
+	}
+	#addthis_login_toolbox {
+		background-color: $addthislogintoolboxbgcolor;
+		padding: 4px;
+		width: 200px;
+		border: solid 3px $appbordercolor;
+		border-radius: 8px;
+	}
+	.share-container {
+		position: absolute;
+		top: 50px;
+		left: 20px;
+		width: 40px;
+	}
+	#login-pow { right: 60px; width: 141px; height: 122px; }
+	#checklist-arrow { margin-left: -62px; width: 125px; height: 142px; }
+	#share-bubble { right: 30px; left: 30px; width: 116px; width: 78px; }
+	#menu-container { position: static; float: none; width: 100%; padding-top: 20px; }
+	#menu {
+		position: static; float: none; width: 100%;
+		li {
+			text-align: center;
+			margin-right: 15px;
+			width: auto;
+			min-width: 250px;
+			display: inline-block;
+			@include border-right-radius($menuborderradius);
+			a { display: inline-block; }
+		}
+	}
+	#app-container {
+		position: relative;
+		float: none;
+		margin: auto;
+		padding-top: 0px; padding-left: 35px;
+	}
+	#app { float: none; }
+}
+
+@media #{$medium} {
+	header { padding-left: 180px; }
+	header > a { white-space: nowrap; padding-top: 28px; }
+	.site-title { font-size: 1em; }
+	.collectist-header { font-size: 1em; }
+	header .logo { position: fixed; width: 146px; height: 127px; }
+	.login-container { width: auto; position: static; margin-bottom: 0px; top: auto; height: 0px; }
+	#addthis_login_toolbox {
+		position: absolute; top: -10px; margin-bottom: 0px; left: auto;
+		background-color: transparent;
+		border-width: 0px;
+	}
+	.share-container {
+		position: fixed;
+		top: 140px;
+		left: 0px;
+		width: 16.66667%;
+	}
+	#login-pow { width: 284px; height: 245px; right: 100px; }
+	#checklist-arrow { margin-left: -125px; width: 251px; height: 284px; }
+	#share-bubble { left: auto; right: -170px; width: 232px; height: 157px; }
+	#addthis_share_toolbox {
+		margin-right: 10px;
+	}
+	#menu-container { float: left; width: 16.66667%; padding-top: 70px; }
+	#menu {
+		position: fixed; width: 16.66667%;
+		li {
+			text-align: right;
+			margin-right: 0px;
+			width: 100%;
+			min-width: auto;
+			display: block;
+			@include border-right-radius(0);
+			a { display: block; }
+		}
+	}
+	#app-container {
+		position: static;
+		float: right;
+		width: 83.33333%;
+		padding-top: 20px; padding-left: 0px;
+	}
+}

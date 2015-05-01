@@ -1,0 +1,14 @@
+{
+	"title": "GOGOs CRAZY BONES",
+	"default": "series-1",
+	"stylesheet": "/stylesheets/gogos/styles.css",
+	"facebook": {
+		"apikey": "381461265303365"
+	},
+	"google": {
+		"apikey": "289048085265.apps.googleusercontent.com"
+	},
+	"twitter": {
+		"template": "See my {{title}} @collectist! {{url}}"
+	}
+}

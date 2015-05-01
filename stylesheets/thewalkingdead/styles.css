@@ -1,0 +1,10 @@
+.base { position: static; }
+
+@media only screen { .series-item-list-item { width: 181px; }
+  .base { height: 300px; }
+  .main-image { width: 175px; }
+  .name { width: 175px; } }
+@media only screen and (min-width: 90em) { .series-item-list-item { width: 356px; }
+  .base { height: 600px; }
+  .main-image { width: auto; }
+  .name { width: 350px; } }

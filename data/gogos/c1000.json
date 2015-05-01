@@ -1,0 +1,1281 @@
+{
+    "teams": [
+	    "Spain (Spanje)",
+	    "Germany (Duitsland)",
+	    "Argentina (Argentinie)",
+	    "England (Engeland)",
+	    "South Africa (Zuid Afrika)",
+	    "Brazil (Brazilie)", "Italy (Italie)",
+	    "France (Frankrijk)",
+	    "Holland"
+    ],
+    "powers": {
+        "first": "verdedigen",
+        "second": "aanvallen",
+        "third": "samenspel",
+        "fourth": "kracht",
+        "fifth": "techniek"
+    },
+    "items": [{
+            "name": "Orro",
+            "team": "Spain (Spanje)",
+            "number": 1,
+            "role": "keeper",
+            "description": "Keep a close eye on every rush hour with his eagle eyes. Calculates the speed and trajectory of a ball in a millisecond.",
+            "ability": "eagle eye",
+            "game": "penalty",
+            "fanOf": "HIDU",
+            "powers": {
+                "first": "sprongkracht",
+                "second": "balvastheid",
+                "third": "strafschopstopper"
+            }
+        }, {
+            "name": "Cyro",
+            "team": "Spain (Spanje)",
+            "number": 2,
+            "role": "defender",
+            "description": "mainstay of keeper Orro. Forms an impenetrable block and protect the goal against the most insidious penalties",
+            "ability": "Impervious BLOCK",
+            "game": "ATTACK",
+            "fanOf": "Gule",
+            "powers": {
+                "first": "AFSTOPPEN",
+                "second": "bal veroveren",
+                "third": "TEGENAANVAL"
+            }
+        }, {
+            "name": "Pallis",
+            "team": "Spain (Spanje)",
+            "number": 3,
+            "role": "CAPTAIN",
+            "description": "As a born leader. Strict and demanding of his teammates. Executes the performance of his team to great heights.",
+            "ability": "astute LEADER",
+            "game": "penalty",
+            "fanOf": "RUGR",
+            "powers": {
+                "first": "lef",
+                "second": "MOTIVATIE",
+                "third": "LEIDERSCHAP"
+            }
+        }, {
+            "name": "Ganaz",
+            "team": "Spain (Spanje)",
+            "number": 4,
+            "role": "ATTACKER",
+            "description": "Heartwarming attacker. Often runs to the public as if everyone wants his arms close .",
+            "ability": "AUDIENCE FAVOURITE",
+            "game": "NUMBERS",
+            "fanOf": "ARGH",
+            "powers": {
+                "first": "DRIBBELEN",
+                "second": "CREATIVITEIT",
+                "third": "SCHOTKRACHT"
+            }
+        }, {
+            "name": "Barru",
+            "team": "Spain (Spanje)",
+            "number": 5,
+            "role": "LEGEND",
+            "description": "A former rugby player and football legend. His nickname is \"The Pickpocket\". He makes everybody the ball stealing.",
+            "ability": "steal",
+            "game": "GOAL GOAL 2",
+            "fanOf": "Musta",
+            "powers": {
+                "first": "BEKENDHEID",
+                "second": "INVLOED",
+                "third": "PERFECTIE"
+            }
+        }, {
+            "name": "Bombo",
+            "team": "Spain (Spanje)",
+            "number": 6,
+            "role": "SUPPORTER",
+            "description": "Football fanatic. Not miss a game. Profit or loss: he makes all the fans excited.",
+            "ability": "ENTHUSIASM",
+            "game": "GOAL GOAL 2",
+            "fanOf": "Raby",
+            "powers": {
+                "first": "GANGMAKER",
+                "second": "AANMOEDIGEN",
+                "third": "VOETBALPASSIE"
+            }
+        }, {
+            "name": "Silba",
+            "team": "Spain (Spanje)",
+            "number": 7,
+            "role": "ARBITRATION",
+            "description": "Creates a party of any race. Flute cheerful and honest.",
+            "ability": "loud buzz",
+            "game": "ATTACK",
+            "fanOf": "onca",
+            "powers": {
+                "first": "KRACHT",
+                "second": "GEZAG",
+                "third": "VASTBERADENHEID"
+            }
+        }, {
+            "name": "Bala",
+            "team": "Spain (Spanje)",
+            "number": 8,
+            "role": "FOOTBALL",
+            "description": "Ball with special effects. If he gets a kick, he goes in all directions except the side that the opponent expects.",
+            "ability": "SPECIAL EFFECTS",
+            "game": "NUMBERS",
+            "fanOf": "NICCO",
+            "powers": {
+                "first": "EFFECT",
+                "second": "SNELHEID",
+                "third": "PRECISIE"
+            }
+        }, {
+            "name": "Gaw",
+            "team": "Spain (Spanje)",
+            "number": 9,
+            "role": "COACH",
+            "description": "a nuisance by some players. Yet his yelling gets the best out of each player.",
+            "ability": "DEMANDING",
+            "game": "ATTACK",
+            "fanOf": "Baral",
+            "powers": {
+                "first": "TACTIEK",
+                "second": "TRAINING",
+                "third": "INVLOED"
+            }
+        }, {
+            "name": "Lin",
+            "team": "Spain (Spanje)",
+            "number": 10,
+            "role": "MASCOT",
+            "description": "See more quickly than other hazardous activities during the match and warned his team before.",
+            "ability": "OVERVIEW",
+            "game": "penalty",
+            "fanOf": "Zaya",
+            "powers": {
+                "first": "PLEZIER",
+                "second": "opvallend",
+                "third": "GELUKSBRENGER"
+            }
+        }, {
+            "name": "Bhau",
+            "team": "Germany (Duitsland)",
+            "number": 11,
+            "role": "keeper",
+            "description": "An angry eyes and a face of thunder is. He hunts every rush the fright.",
+            "ability": "terrify",
+            "game": "penalty",
+            "fanOf": "RAUS",
+            "powers": {
+                "first": "sprongkracht",
+                "second": "balvastheid",
+                "third": "strafschopstopper"
+            }
+        }, {
+            "name": "Raus",
+            "team": "Germany (Duitsland)",
+            "number": 12,
+            "role": "DEFENDER",
+            "description": "A wall of a player. Uses his body to throw players in the field. Only very brave opponents a chance.",
+            "ability": "NOT PASS",
+            "game": "GOAL GOAL 2",
+            "fanOf": "BHAU",
+            "powers": {
+                "first": "AFSTOPPEN",
+                "second": "BAL VEROVEREN",
+                "third": "TEGENAANVAL"
+            }
+        }, {
+            "name": "Fro-Zen",
+            "team": "Germany (Duitsland)",
+            "number": 13,
+            "role": "CAPTAIN",
+            "description": "His inspired leadership creates a determined and focused team .",
+            "ability": "unprecedented MOTIVATION",
+            "game": "NUMBERS",
+            "fanOf": "KNIN",
+            "powers": {
+                "first": "LEF",
+                "second": "MOTIVATIE",
+                "third": "LEIDERSCHAP"
+            }
+        }, {
+            "name": "Dyn",
+            "team": "Germany (Duitsland)",
+            "number": 14,
+            "role": "ATTACKER",
+            "description": "Elusive attacker. Passes unnoticed every defender. Moves so fast that her hair on fire.",
+            "ability": "LIGHTNING FAST",
+            "game": "penalty",
+            "fanOf": "LOO",
+            "powers": {
+                "first": "DRIBBELEN",
+                "second": "CREATIVITEIT",
+                "third": "SCHOTKRACHT"
+            }
+        }, {
+            "name": "Kiquen",
+            "team": "Germany (Duitsland)",
+            "number": 15,
+            "role": "LEGEND",
+            "description": "Habitually to suspend play for hours by the ball high. To the annoyance of the opponent.",
+            "ability": "ball up",
+            "game": "ATTACK",
+            "fanOf": "Milar",
+            "powers": {
+                "first": "BEKENDHEID",
+                "second": "INVLOED",
+                "third": "PERFECTIE"
+            }
+        }, {
+            "name": "Buck",
+            "team": "Germany (Duitsland)",
+            "number": 16,
+            "role": "SUPPORTER",
+            "description": "Could the outcome of a game may affect by focusing on the outcome.",
+            "ability": "Illusionist",
+            "game": "ATTACK",
+            "fanOf": "Bilin",
+            "powers": {
+                "first": "GANGMAKER",
+                "second": "AANMOEDIGEN",
+                "third": "VOETBALPASSIE"
+            }
+        }, {
+            "name": "Forf",
+            "team": "Germany (Duitsland)",
+            "number": 17,
+            "role": "divide",
+            "description": "Hank and confident. Speak to him and you get a yellow card or worse ...",
+            "ability": "HARD slice",
+            "game": "NUMBERS",
+            "fanOf": "VUVU",
+            "powers": {
+                "first": "KRACHT",
+                "second": "GEZAG",
+                "third": "VASTBERADENHEID"
+            }
+        }, {
+            "name": "Dowah",
+            "team": "Germany (Duitsland)",
+            "number": 18,
+            "role": "FOOTBALL",
+            "description": "Can themselves into multiple, smaller balls. This makes almost every keeper no chance.",
+            "ability": "Elusive",
+            "game": "penalty",
+            "fanOf": "Bonar",
+            "powers": {
+                "first": "EFFECT",
+                "second": "SNELHEID",
+                "third": "PRECISIE"
+            }
+        }, {
+            "name": "Milar",
+            "team": "Germany (Duitsland)",
+            "number": 19,
+            "role": "COACH",
+            "description": "Looks like an absent-minded scientist. Creates impressive team setups. One \"problem\": nobody understands.",
+            "ability": "GENIAL TACTICS",
+            "game": "GOAL GOAL 2",
+            "fanOf": "KIQUEN",
+            "powers": {
+                "first": "TACTIEK",
+                "second": "TRAINING",
+                "third": "INVLOED"
+            }
+        }, {
+            "name": "Lyu",
+            "team": "Germany (Duitsland)",
+            "number": 20,
+            "role": "MASCOT",
+            "description": "The symbol of perseverance and determination .",
+            "ability": "COURAGE",
+            "game": "ATTACK",
+            "fanOf": "LEFA",
+            "powers": {
+                "first": "PLEZIER",
+                "second": "OPVALLEND",
+                "third": "GELUKSBRENGER"
+            }
+        }, {
+            "name": "Ribas",
+            "team": "Argentina (Argentinie)",
+            "number": 21,
+            "role": "keeper",
+            "description": "Jumps on top of the ball, as if springs in his shoes down.",
+            "ability": "CRICKET JUMP",
+            "game": "GOAL GOAL 2",
+            "fanOf": "GARETY",
+            "powers": {
+                "first": "sprongkracht",
+                "second": "balvastheid",
+                "third": "strafschopstopper"
+            }
+        }, {
+            "name": "Kavuk",
+            "team": "Argentina (Argentinie)",
+            "number": 22,
+            "role": "DEFENDER",
+            "description": "Great tackle technique. Craters in the lawn, but never touched a peak .",
+            "ability": "TACKLES PERFECT",
+            "game": "NUMBERS",
+            "fanOf": "LOTA",
+            "powers": {
+                "first": "AFSTOPPEN",
+                "second": "BAL VEROVEREN",
+                "third": "TEGENAANVAL"
+            }
+        }, {
+            "name": "Litty",
+            "team": "Argentina (Argentinie)",
+            "number": 23,
+            "role": "CAPTAIN",
+            "description": "Striking her compartment. Wherefore, not headlines, but raises unprecedented footwork.",
+            "ability": "Elusive",
+            "game": "ATTACK",
+            "fanOf": "Grog",
+            "powers": {
+                "first": "LEF",
+                "second": "MOTIVATIE",
+                "third": "LEIDERSCHAP"
+            }
+        }, {
+            "name": "Dibre",
+            "team": "Argentina (Argentinie)",
+            "number": 24,
+            "role": "ATTACKER",
+            "description": "moves so deftly that the ball stuck to his shoe looks. Passes defenders like nobody's.",
+            "ability": "100% ball control",
+            "game": "NUMBERS",
+            "fanOf": "FADIGO",
+            "powers": {
+                "first": "DRIBBELEN",
+                "second": "CREATIVITEIT",
+                "third": "SCHOTKRACHT"
+            }
+        }, {
+            "name": "Tiba",
+            "team": "Argentina (Argentinie)",
+            "number": 25,
+            "role": "LEGEND",
+            "description": "Small in size but is a beast when the opponents he would steal the ball .",
+            "ability": "fanatic",
+            "game": "penalty",
+            "fanOf": "Bronc",
+            "powers": {
+                "first": "BEKENDHEID",
+                "second": "INVLOED",
+                "third": "PERFECTIE"
+            }
+        }, {
+            "name": "Wiki",
+            "team": "Argentina (Argentinie)",
+            "number": 26,
+            "role": "SUPPORTER",
+            "description": "Determined to fans and players to boost competition in difficult moments.",
+            "ability": "OPTIMISM",
+            "game": "ATTACK",
+            "fanOf": "CRACK",
+            "powers": {
+                "first": "GANGMAKER",
+                "second": "AANMOEDIGEN",
+                "third": "VOETBALPASSIE"
+            }
+        }, {
+            "name": "Caian",
+            "team": "Argentina (Argentinie)",
+            "number": 27,
+            "role": "ARBITRATION",
+            "description": "Ever footballer, but not good enough. Now referee very hard especially flute. Not popular among players.",
+            "ability": "permeable ALL SOUND",
+            "game": "GOAL GOAL 2",
+            "fanOf": "PITON",
+            "powers": {
+                "first": "KRACHT",
+                "second": "GEZAG",
+                "third": "VASTBERADENHEID"
+            }
+        }, {
+            "name": "Lota-",
+            "team": "Argentina (Argentinie)",
+            "number": 28,
+            "role": "FOOTBALL",
+            "description": "When it needs it's like a cannonball. Through walls and can make the opponent confused.",
+            "ability": "out loud",
+            "game": "penalty",
+            "fanOf": "KAVUK",
+            "powers": {
+                "first": "EFFECT",
+                "second": "SNELHEID",
+                "third": "PRECISIE"
+            }
+        }, {
+            "name": "Onca",
+            "team": "Argentina (Argentinie)",
+            "number": 29,
+            "role": "coach",
+            "description": "Remember only one thing: football. Always keeps his head cool .",
+            "ability": "CONCENTRATION",
+            "game": "NUMBERS",
+            "fanOf": "Silba",
+            "powers": {
+                "first": "TACTIEK",
+                "second": "TRAINING",
+                "third": "INVLOED"
+            }
+        }, {
+            "name": "Nicco",
+            "team": "Argentina (Argentinie)",
+            "number": 30,
+            "role": "MASCOT",
+            "description": "Is so proud of his team. Thinks he's the best and coolest mascot in existence.",
+            "ability": "PRIDE",
+            "game": "ATTACK",
+            "fanOf": "BALA",
+            "powers": {
+                "first": "PLEZIER",
+                "second": "OPVALLEND",
+                "third": "GELUKSBRENGER"
+            }
+        }, {
+            "name": "Zille",
+            "team": "England (Engeland)",
+            "number": 31,
+            "role": "keeper",
+            "description": "notched her entire life. If she touches the ball, let them not let go of the ball .",
+            "ability": "clamp",
+            "game": "NUMBERS",
+            "fanOf": "BALTA",
+            "powers": {
+                "first": "sprongkracht",
+                "second": "balvastheid",
+                "third": "strafschopstopper"
+            }
+        }, {
+            "name": "Hidu",
+            "team": "England (Engeland)",
+            "number": 32,
+            "role": "DEFENDER",
+            "description": "Do not look where the ball is. Before a ball is touched, she already knows what she reaches.",
+            "ability": "FORECAST GIFTS",
+            "game": "penalty",
+            "fanOf": "Orro",
+            "powers": {
+                "first": "AFSTOPPEN",
+                "second": "BAL VEROVEREN",
+                "third": "TEGENAANVAL"
+            }
+        }, {
+            "name": "Shi-U",
+            "team": "England (Engeland)",
+            "number": 33,
+            "role": "CAPTAIN",
+            "description": "is everywhere and nowhere, in the defense and on offense. Always takes his team in tow.",
+            "ability": "WALKING MIRACLE",
+            "game": "ATTACK",
+            "fanOf": "DOINEL",
+            "powers": {
+                "first": "LEF",
+                "second": "MOTIVATIE",
+                "third": "LEIDERSCHAP"
+            }
+        }, {
+            "name": "Rugr",
+            "team": "England (Engeland)",
+            "number": 34,
+            "role": "ATTACKER",
+            "description": "Rock Star and goaltje thief. Excellent player who scores the conveyor.",
+            "ability": "GOALGETTER",
+            "game": "NUMBERS",
+            "fanOf": "PALLIS",
+            "powers": {
+                "first": "DRIBBELEN",
+                "second": "CREATIVITEIT",
+                "third": "SCHOTKRACHT"
+            }
+        }, {
+            "name": "Cassu",
+            "team": "England (Engeland)",
+            "number": 35,
+            "role": "LEGEND",
+            "description": "The story of the ball boy who dreamed of a career as a professional footballer. His dream came.",
+            "ability": "Perseverance",
+            "game": "GOAL GOAL 2",
+            "fanOf": "CaCO",
+            "powers": {
+                "first": "BEKENDHEID",
+                "second": "INVLOED",
+                "third": "PERFECTIE"
+            }
+        }, {
+            "name": "Gram",
+            "team": "England (Engeland)",
+            "number": 36,
+            "role": "SUPPORTER",
+            "description": "One of the grass, where he grew up. Disrupts the play of the opponent.",
+            "ability": "KEEPERS SHOUTING down",
+            "game": "penalty",
+            "fanOf": "PIN GOL",
+            "powers": {
+                "first": "GANGMAKER",
+                "second": "AANMOEDIGEN",
+                "third": "VOETBALPASSIE"
+            }
+        }, {
+            "name": "Whiskey",
+            "team": "England (Engeland)",
+            "number": 37,
+            "role": "ARBITRATION",
+            "description": "Speaks 8 languages ​​and is therefore popular among players. Everyone listens to him .",
+            "ability": "ORIGINAL WHISTLE SOUND",
+            "game": "ATTACK",
+            "fanOf": "DENITI",
+            "powers": {
+                "first": "KRACHT",
+                "second": "GEZAG",
+                "third": "VASTBERADENHEID"
+            }
+        }, {
+            "name": "Flambe",
+            "team": "England (Engeland)",
+            "number": 38,
+            "role": "FOOTBALL",
+            "description": "ball of ice. Fast attackers, difficult to control for defenders and goalies.",
+            "ability": "COOL BLOODY GOALS",
+            "game": "GOAL GOAL 2",
+            "fanOf": "JARUM",
+            "powers": {
+                "first": "EFFECT",
+                "second": "SNELHEID",
+                "third": "PRECISIE"
+            }
+        }, {
+            "name": "Baral",
+            "team": "England (Engeland)",
+            "number": 39,
+            "role": "COACH",
+            "description": "Former pro football player who many claimed. Now a coach who knows how to win .",
+            "ability": "EXPERIENCE",
+            "game": "NUMBERS",
+            "fanOf": "GAW",
+            "powers": {
+                "first": "TACTIEK",
+                "second": "TRAINING",
+                "third": "INVLOED"
+            }
+        }, {
+            "name": "Hapo",
+            "team": "England (Engeland)",
+            "number": 40,
+            "role": "MASCOT",
+            "description": "It has miles traveled to get where she is today. Nobody is smarter than they are therefore.",
+            "ability": "KNOW MUCH",
+            "game": "penalty",
+            "fanOf": "Ceron",
+            "powers": {
+                "first": "PLEZIER",
+                "second": "OPVALLEND",
+                "third": "GELUKSBRENGER"
+            }
+        }, {
+            "name": "Balta",
+            "team": "South Africa (Zuid Afrika)",
+            "number": 41,
+            "role": "keeper",
+            "description": "Secret weapon: her attire. If the ball is not to keep, she puts her hair like a peacock. And covered the whole goal and there is no ball through.",
+            "ability": "PEACOCK DEFENSE",
+            "game": "GOAL GOAL 2",
+            "fanOf": "Zille",
+            "powers": {
+                "first": "sprongkracht",
+                "second": "balvastheid",
+                "third": "strafschopstopper"
+            }
+        }, {
+            "name": "Toddy",
+            "team": "South Africa (Zuid Afrika)",
+            "number": 42,
+            "role": "DEFENDER",
+            "description": "Wider than wide. Do not waste the effort to advocate forcefully overthrow. The only thing that works is a lot of technique .",
+            "ability": "IS LIKE A HOUSE",
+            "game": "penalty",
+            "fanOf": "Litty",
+            "powers": {
+                "first": "AFSTOPPEN",
+                "second": "BAL VEROVEREN",
+                "third": "TEGENAANVAL"
+            }
+        }, {
+            "name": "Fadigo",
+            "team": "South Africa (Zuid Afrika)",
+            "number": 43,
+            "role": "CAPTAIN",
+            "description": "tired and sluggish. Makes his slow passes over well with those nine times out of 10 goals for care.",
+            "ability": "sublime PASSES",
+            "game": "ATTACK",
+            "fanOf": "DIBREL",
+            "powers": {
+                "first": "LEF",
+                "second": "MOTIVATIE",
+                "third": "LEIDERSCHAP"
+            }
+        }, {
+            "name": "Musta-",
+            "team": "South Africa (Zuid Afrika)",
+            "number": 44,
+            "role": "ATTACKER",
+            "description": "feared for his Gogolezo: a dribble with a twist of 360 degrees. Each defender gets completely lost the plot.",
+            "ability": "GOGOLEZO DRIBBLE",
+            "game": "NUMBERS",
+            "fanOf": "BARRU",
+            "powers": {
+                "first": "DRIBBELEN",
+                "second": "CREATIVITEIT",
+                "third": "SCHOTKRACHT"
+            }
+        }, {
+            "name": "Tchiro",
+            "team": "South Africa (Zuid Afrika)",
+            "number": 45,
+            "role": "LEGEND",
+            "description": "His nickname is 'the waiter'. Presents the ball perfectly and with unprecedented mastery.",
+            "ability": "ERROR",
+            "game": "penalty",
+            "fanOf": "Abidi",
+            "powers": {
+                "first": "BEKENDHEID",
+                "second": "INVLOED",
+                "third": "PERFECTIE"
+            }
+        }, {
+            "name": "Oleh",
+            "team": "South Africa (Zuid Afrika)",
+            "number": 46,
+            "role": "SUPPORTER",
+            "description": "Makes a great football party. Is at every game. His team travels around everywhere.",
+            "ability": "DOG WEDDING",
+            "game": "NUMBERS",
+            "fanOf": "MUH",
+            "powers": {
+                "first": "GANGMAKER",
+                "second": "AANMOEDIGEN",
+                "third": "VOETBALPASSIE"
+            }
+        }, {
+            "name": "Bato",
+            "team": "South Africa (Zuid Afrika)",
+            "number": 47,
+            "role": "ARBITRATION",
+            "description": "Is faster than many players. May therefore well see what happens and therefore is almost never wrong.",
+            "ability": "CONDITION",
+            "game": "ATTACK",
+            "fanOf": "Morera",
+            "powers": {
+                "first": "KRACHT",
+                "second": "GEZAG",
+                "third": "VASTBERADENHEID"
+            }
+        }, {
+            "name": "Balita",
+            "team": "South Africa (Zuid Afrika)",
+            "number": 48,
+            "role": "FOOTBALL",
+            "description": "Smart and fast. Miss his sense of precision are rarely objective.",
+            "ability": "GAME INSIGHT",
+            "game": "GOAL GOAL 2",
+            "fanOf": "DESO",
+            "powers": {
+                "first": "EFFECT",
+                "second": "SNELHEID",
+                "third": "PRECISIE"
+            }
+        }, {
+            "name": "Morera",
+            "team": "South Africa (Zuid Afrika)",
+            "number": 49,
+            "role": "COACH",
+            "description": "Have an eye for talented players. His players look up to him .",
+            "ability": "Talent spotting",
+            "game": "penalty",
+            "fanOf": "Bato",
+            "powers": {
+                "first": "TACTIEK",
+                "second": "TRAINING",
+                "third": "INVLOED"
+            }
+        }, {
+            "name": "Muh",
+            "team": "South Africa (Zuid Afrika)",
+            "number": 50,
+            "role": "MASCOT",
+            "description": "Discovered by Oleh on the savannah of South Africa. Brings the team luck and speed.",
+            "ability": "lucky charms",
+            "game": "GOAL",
+            "fanOf": "Oleh",
+            "powers": {
+                "first": "PLEZIER",
+                "second": "OPVALLEND",
+                "third": "GELUKSBRENGER"
+            }
+        }, {
+            "name": "Bonar",
+            "team": "Brazil (Brazilie)",
+            "number": 51,
+            "role": "keeper",
+            "description": "So fanatical that he eats the ball if necessary. Opponents are so scared that they dare not score .",
+            "ability": "Frightening",
+            "game": "penalty",
+            "fanOf": "DOWAH",
+            "powers": {
+                "first": "sprongkracht",
+                "second": "balvastheid",
+                "third": "strafschopstopper"
+            }
+        }, {
+            "name": "Monte",
+            "team": "Brazil (Brazilie)",
+            "number": 52,
+            "role": "DEFENDER",
+            "description": "Also known as \"The Rock\". Rolls the ball and his opponent down",
+            "ability": "ROLLING STONE",
+            "game": "ATTACK",
+            "fanOf": "GUMO",
+            "powers": {
+                "first": "AFSTOPPEN",
+                "second": "BAL VEROVEREN",
+                "third": "TEGENAANVAL"
+            }
+        }, {
+            "name": "Crack",
+            "team": "Brazil (Brazilie)",
+            "number": 53,
+            "role": "CAPTAIN",
+            "description": "A piece of muscle. Threatening a goal for the opponent, he hits so hard on the pitch that a quake occurs .",
+            "ability": "ATTACKERS waylay",
+            "game": "GOAL GOAL 2",
+            "fanOf": "WIKI",
+            "powers": {
+                "first": "LEF",
+                "second": "MOTIVATIE",
+                "third": "LEIDERSCHAP"
+            }
+        }, {
+            "name": "Knin",
+            "team": "Brazil (Brazilie)",
+            "number": 54,
+            "role": "ATTACKER",
+            "description": "lazy. Is only when he really sees a good chance. Never disappoints.",
+            "ability": "ALWAYS SCORES",
+            "game": "NUMBERS",
+            "fanOf": "FRO-ZEN",
+            "powers": {
+                "first": "DRIBBELEN",
+                "second": "CREATIVITEIT",
+                "third": "SCHOTKRACHT"
+            }
+        }, {
+            "name": "Kike",
+            "team": "Brazil (Brazilie)",
+            "number": 55,
+            "role": "LEGEND",
+            "description": "His helicopter fuss is legendary. He floats in the air, turning fast laps ... and gives the ball a powerful kick.",
+            "ability": "HELICOPTER wrap",
+            "game": "ATTACK",
+            "fanOf": "DRICS",
+            "powers": {
+                "first": "BEKENDHEID",
+                "second": "INVLOED",
+                "third": "PERFECTIE"
+            }
+        }, {
+            "name": "Drics",
+            "team": "Brazil (Brazilie)",
+            "number": 56,
+            "role": "SUPPORTER",
+            "description": "Is that so crazy soccer ball on his head grow. If the players see it, they get more confident.",
+            "ability": "GIVES CONFIDENCE",
+            "game": "GOAL GOAL 2",
+            "fanOf": "Kike",
+            "powers": {
+                "first": "GANGMAKER",
+                "second": "AANMOEDIGEN",
+                "third": "VOETBALPASSIE"
+            }
+        }, {
+            "name": "Pito",
+            "team": "Brazil (Brazilie)",
+            "number": 57,
+            "role": "ARBITRATION",
+            "description": "Loves samba and beautiful football. Sometimes attracts players to the technical .",
+            "ability": "THE SAMBA WHISTLE",
+            "game": "penalty",
+            "fanOf": "POMME",
+            "powers": {
+                "first": "KRACHT",
+                "second": "GEZAG",
+                "third": "VASTBERADENHEID"
+            }
+        }, {
+            "name": "Gumo",
+            "team": "Brazil (Brazilie)",
+            "number": 58,
+            "role": "FOOTBALL",
+            "description": "A ball history. Played in major competitions and has so many secrets soccer.",
+            "ability": "KNOW THE SECRETS FOOTBALL",
+            "game": "NUMBERS",
+            "fanOf": "MONTE",
+            "powers": {
+                "first": "EFFECT",
+                "second": "SNELHEID",
+                "third": "PRECISIE"
+            }
+        }, {
+            "name": "Caco",
+            "team": "Brazil (Brazilie)",
+            "number": 59,
+            "role": "coach",
+            "description": "He looks at all the games and know exactly how he must defeat an opponent.",
+            "ability": "TECHNICAL ANALYSIS",
+            "game": "GOAL GOAL 2",
+            "fanOf": "CASSU",
+            "powers": {
+                "first": "TACTIEK",
+                "second": "TRAINING",
+                "third": "INVLOED"
+            }
+        }, {
+            "name": "Zaya",
+            "team": "Brazil (Brazilie)",
+            "number": 60,
+            "role": "MASCOT",
+            "description": "Uses his tail to the ball to juggle. Entertained the audience and will not be popular with some opponents.",
+            "ability": "JUGGLING",
+            "game": "ATTACK",
+            "fanOf": "LIN",
+            "powers": {
+                "first": "PLEZIER",
+                "second": "OPVALLEND",
+                "third": "GELUKSBRENGER"
+            }
+        }, {
+            "name": "Loo",
+            "team": "Italy (Italie)",
+            "number": 61,
+            "role": "keeper",
+            "description": "The largest penalty ever stopper. Has never passed in a penalty shootout.",
+            "ability": "PENALTY KILLER",
+            "game": "GOAL GOAL 2",
+            "fanOf": "DYN",
+            "powers": {
+                "first": "sprongkracht",
+                "second": "balvastheid",
+                "third": "strafschopstopper"
+            }
+        }, {
+            "name": "Gule",
+            "team": "Italy (Italie)",
+            "number": 62,
+            "role": "DEFENDER",
+            "description": "Defends by attacking. Is sometimes invisible to his opponents.",
+            "ability": "INVISIBLE",
+            "game": "penalty",
+            "fanOf": "Cyro",
+            "powers": {
+                "first": "AFSTOPPEN",
+                "second": "BAL VEROVEREN",
+                "third": "TEGENAANVAL"
+            }
+        }, {
+            "name": "R-San",
+            "team": "Italy (Italie)",
+            "number": 63,
+            "role": "CAPTAIN",
+            "description": "Secret weapon Scarpo. Gets through his headphones direct instructions of his coach .",
+            "ability": "STRATEGIC AND FAST",
+            "game": "NUMBERS",
+            "fanOf": "SCARPO",
+            "powers": {
+                "first": "LEF",
+                "second": "MOTIVATIE",
+                "third": "LEIDERSCHAP"
+            }
+        }, {
+            "name": "Argh",
+            "team": "Italy (Italie)",
+            "number": 64,
+            "role": "ATTACKER",
+            "description": "Loves scoring ... and cheer. Will be welcomed by the team winning.",
+            "ability": "WINNER OF MIND",
+            "game": "ATTACK",
+            "fanOf": "GANAZ",
+            "powers": {
+                "first": "DRIBBELEN",
+                "second": "CREATIVITEIT",
+                "third": "SCHOTKRACHT"
+            }
+        }, {
+            "name": "Tiopo",
+            "team": "Italy (Italie)",
+            "number": 65,
+            "role": "LEGEND",
+            "description": "talk too much and therefore sometimes forget how good she is. Only when her mouth was taped, she is one of the best players in the world.",
+            "ability": "rounder",
+            "game": "GOAL TO GOAL",
+            "fanOf": "BURI-GO",
+            "powers": {
+                "first": "BEKENDHEID",
+                "second": "INVLOED",
+                "third": "PERFECTIE"
+            }
+        }, {
+            "name": "Dalle",
+            "team": "Italy (Italie)",
+            "number": 66,
+            "role": "SUPPORTER",
+            "description": "Laughs and is always cheerful. Loves soccer and creates a good atmosphere in the stands.",
+            "ability": "PACIFIC",
+            "game": "NUMBERS",
+            "fanOf": "BOLERAGE",
+            "powers": {
+                "first": "GANGMAKER",
+                "second": "AANMOEDIGEN",
+                "third": "VOETBALPASSIE"
+            }
+        }, {
+            "name": "Piton",
+            "team": "Italy (Italie)",
+            "number": 67,
+            "role": "ARBITRATION",
+            "description": "Have a keen eye for everything that happens. Often sends players on the field.",
+            "ability": "NOISE CAUSE",
+            "game": "penalty",
+            "fanOf": "CAIAN",
+            "powers": {
+                "first": "KRACHT",
+                "second": "GEZAG",
+                "third": "VASTBERADENHEID"
+            }
+        }, {
+            "name": "Pomm",
+            "team": "Italy (Italie)",
+            "number": 68,
+            "role": "FOOTBALL",
+            "description": "Changes of form immediately if he gets a kick from the opponent. Soft, hard, flexible, heavy, light, it will never recognize .",
+            "ability": "Metamorphosis",
+            "game": "ATTACK",
+            "fanOf": "Pito",
+            "powers": {
+                "first": "EFFECT",
+                "second": "SNELHEID",
+                "third": "PRECISIE"
+            }
+        }, {
+            "name": "Scarpo",
+            "team": "Italy (Italie)",
+            "number": 69,
+            "role": "COACH",
+            "description": "You know everything about football and its players. Is strict and sends its players in the field.",
+            "ability": "Leadership",
+            "game": "NUMBERS",
+            "fanOf": "R-SAN",
+            "powers": {
+                "first": "TACTIEK",
+                "second": "TRAINING",
+                "third": "INVLOED"
+            }
+        }, {
+            "name": "Ceron",
+            "team": "Italy (Italie)",
+            "number": 70,
+            "role": "MASCOT",
+            "description": "Has a nose for goal. Can not score himself, but gives the team a lot of scoring power .",
+            "ability": "GIVES STRENGTH RATING",
+            "game": "GOAL GOAL 2",
+            "fanOf": "Hapo",
+            "powers": {
+                "first": "PLEZIER",
+                "second": "OPVALLEND",
+                "third": "GELUKSBRENGER"
+            }
+        }, {
+            "name": "Deso",
+            "team": "France (Frankrijk)",
+            "number": 71,
+            "role": "keeper",
+            "description": "No. 1 in the world. Keep balls, but is also known as excellent penalty taker.",
+            "ability": "KEEPER Scoring",
+            "game": "penalty",
+            "fanOf": "Balita",
+            "powers": {
+                "first": "sprongkracht",
+                "second": "balvastheid",
+                "third": "strafschopstopper"
+            }
+        }, {
+            "name": "Capot",
+            "team": "France (Frankrijk)",
+            "number": 72,
+            "role": "DEFENDER",
+            "description": "Always Walks with his head bandaged. Notorious for his relentlessly hard .",
+            "ability": "HARD HEAD",
+            "game": "ATTACK",
+            "fanOf": "Bessat",
+            "powers": {
+                "first": "AFSTOPPEN",
+                "second": "BAL VEROVEREN",
+                "third": "TEGENAANVAL"
+            }
+        }, {
+            "name": "Doinel",
+            "team": "France (Frankrijk)",
+            "number": 73,
+            "role": "CAPTAIN",
+            "description": "The seventh son of a professional footballer, who is also the seventh son of a professional footballer. Ever scored seven times in a match .",
+            "ability": "FAMILY TALENT",
+            "game": "ATTACK",
+            "fanOf": "SHI-U",
+            "powers": {
+                "first": "LEF",
+                "second": "MOTIVATIE",
+                "third": "LEIDERSCHAP"
+            }
+        }, {
+            "name": "Garety",
+            "team": "France (Frankrijk)",
+            "number": 74,
+            "role": "ATTACKER",
+            "description": "Dribbles everywhere in between, even between the legs. Everyone is trying too quickly to even the dividing.",
+            "ability": "PANNA KING",
+            "game": "NUMBERS",
+            "fanOf": "RIBAS",
+            "powers": {
+                "first": "DRIBBELEN",
+                "second": "CREATIVITEIT",
+                "third": "SCHOTKRACHT"
+            }
+        }, {
+            "name": "Bessat",
+            "team": "France (Frankrijk)",
+            "number": 75,
+            "role": "LEGEND",
+            "description": "An artist with the ball. Plays mostly with his head. Can hundred meters far .",
+            "ability": "KOPARTIEST",
+            "game": "GOAL GOAL 2",
+            "fanOf": "Capot",
+            "powers": {
+                "first": "BEKENDHEID",
+                "second": "INVLOED",
+                "third": "PERFECTIE"
+            }
+        }, {
+            "name": "Raby",
+            "team": "France (Frankrijk)",
+            "number": 76,
+            "role": "SUPPORTER",
+            "description": "Popular for its dance, the Tango! The infectious rhythm brings everyone in a festive mood.",
+            "ability": "Exciting DANCE",
+            "game": "penalty",
+            "fanOf": "Bombo",
+            "powers": {
+                "first": "GANGMAKER",
+                "second": "AANMOEDIGEN",
+                "third": "VOETBALPASSIE"
+            }
+        }, {
+            "name": "Fifuh",
+            "team": "France (Frankrijk)",
+            "number": 77,
+            "role": "ARBITRATION",
+            "description": "Has its own rules and making jokes. His sporting events, are always .",
+            "ability": "CREATING HARMONY",
+            "game": "GOAL GOAL 2",
+            "fanOf": "Of Par",
+            "powers": {
+                "first": "KRACHT",
+                "second": "GEZAG",
+                "third": "VASTBERADENHEID"
+            }
+        }, {
+            "name": "Asfer",
+            "team": "France (Frankrijk)",
+            "number": 78,
+            "role": "FOOTBALL",
+            "description": "A ball accelerates as his coach wants. Therefore unpredictable for opponents.",
+            "ability": "Remote Control",
+            "game": "NUMBERS",
+            "fanOf": "Dudi",
+            "powers": {
+                "first": "EFFECT",
+                "second": "SNELHEID",
+                "third": "PRECISIE"
+            }
+        }, {
+            "name": "Dudi",
+            "team": "France (Frankrijk)",
+            "number": 79,
+            "role": "COACH",
+            "description": "Changes always good player at the right time. Wins so often in the last minute.",
+            "ability": "TACTICAL BILLS",
+            "game": "ATTACK",
+            "fanOf": "ASFER",
+            "powers": {
+                "first": "TACTIEK",
+                "second": "TRAINING",
+                "third": "INVLOED"
+            }
+        }, {
+            "name": "Lefa",
+            "team": "France (Frankrijk)",
+            "number": 80,
+            "role": "MASCOT",
+            "description": "Brings happiness, but also cooling. With his trunk he provides a refreshing fountain.",
+            "ability": "good luck",
+            "game": "GOAL GOAL 2",
+            "fanOf": "LYU",
+            "powers": {
+                "first": "PLEZIER",
+                "second": "OPVALLEND",
+                "third": "GELUKSBRENGER"
+            }
+        }, {
+            "name": "Of par",
+            "team": "Holland",
+            "number": 81,
+            "role": "keeper",
+            "description": "Keeper of high caliber. Always keeps his cool. Has many high-speed rescues to his credit.",
+            "ability": "FAST RESCUE OPERATIONS",
+            "game": "GOAL GOAL 2",
+            "fanOf": "FIFUH",
+            "powers": {
+                "first": "sprongkracht",
+                "second": "balvastheid",
+                "third": "strafschopstopper"
+            }
+        }, {
+            "name": "Deniti",
+            "team": "Holland",
+            "number": 82,
+            "role": "DEFENDER",
+            "description": "very strong in defense, but dreams of a position as a central midfielder. As two-legged play it often shines on the offensive.",
+            "ability": "bipedalism",
+            "game": "NUMBERS",
+            "fanOf": "WHISE",
+            "powers": {
+                "first": "AFSTOPPEN",
+                "second": "BAL VEROVEREN",
+                "third": "TEGENAANVAL"
+            }
+        }, {
+            "name": "Bolerage",
+            "team": "Holland",
+            "number": 83,
+            "role": "CAPTAIN",
+            "description": "Let many hearts beat faster. With its beautiful hakballetjes he gets the audience on the benches.",
+            "ability": "HAKBALLETJES",
+            "game": "ATTACK",
+            "fanOf": "DALLE",
+            "powers": {
+                "first": "LEF",
+                "second": "MOTIVATIE",
+                "third": "LEIDERSCHAP"
+            }
+        }, {
+            "name": "Buri-Go",
+            "team": "Holland",
+            "number": 84,
+            "role": "ATTACKER",
+            "description": "Headers given added impetus and impact through his great head of hair. Sometimes they disappear just as hard in his hair and then disappearing into the goal.",
+            "ability": "DISAPPEARING TRICKS",
+            "game": "ATTACK",
+            "fanOf": "TIOPO",
+            "powers": {
+                "first": "DRIBBELEN",
+                "second": "CREATIVITEIT",
+                "third": "SCHOTKRACHT"
+            }
+        }, {
+            "name": "Abidi",
+            "team": "Holland",
+            "number": 85,
+            "role": "LEGEND",
+            "description": "Let the most impossible tricks seen on the field. This is the most technical player on the planet .",
+            "ability": "TRUCENDOOS",
+            "game": "penalty",
+            "fanOf": "TCHIRO",
+            "powers": {
+                "first": "BEKENDHEID",
+                "second": "INVLOED",
+                "third": "PERFECTIE"
+            }
+        }, {
+            "name": "Bilin",
+            "team": "Holland",
+            "number": 86,
+            "role": "SUPPORTER",
+            "description": "Aanvalluh! She is captain of the best fans in the world: the Orange fans. Builds parties like no other that can .",
+            "ability": "ATMOSPHERE MAKER",
+            "game": "penalty",
+            "fanOf": "BOK",
+            "powers": {
+                "first": "GANGMAKER",
+                "second": "AANMOEDIGEN",
+                "third": "VOETBALPASSIE"
+            }
+        }, {
+            "name": "Vuvu",
+            "team": "Holland",
+            "number": 87,
+            "role": "ARBITRATION",
+            "description": "his whistle echoes through the stadium. Has so much experience that everyone has respect for him .",
+            "ability": "STORMY SOUND",
+            "game": "NUMBERS",
+            "fanOf": "FORF",
+            "powers": {
+                "first": "KRACHT",
+                "second": "GEZAG",
+                "third": "VASTBERADENHEID"
+            }
+        }, {
+            "name": "Pin-Gol",
+            "team": "Holland",
+            "number": 88,
+            "role": "FOOTBALL",
+            "description": "ball so quickly that no player can change the opponent can follow .",
+            "ability": "Match",
+            "game": "GOAL GOAL 2",
+            "fanOf": "GRAM",
+            "powers": {
+                "first": "EFFECT",
+                "second": "SNELHEID",
+                "third": "PRECISIE"
+            }
+        }, {
+            "name": "Bronc",
+            "team": "Holland",
+            "number": 89,
+            "role": "COACH",
+            "description": "The best coach you can have: have all won prizes. Will always keep winning.",
+            "ability": "WINNER OF MIND",
+            "game": "NUMBERS",
+            "fanOf": "TIBA",
+            "powers": {
+                "first": "TACTIEK",
+                "second": "TRAININGS",
+                "third": "INVLOED"
+            }
+        }, {
+            "name": "Jarum",
+            "team": "Holland",
+            "number": 90,
+            "role": "MASCOT",
+            "description": "Strongest of all the mascots. Does everything a team needs, strength, speed and luck. Roars the players to gain.",
+            "ability": "BRULE PROFIT",
+            "game": "ATTACK",
+            "fanOf": "Flambe",
+            "powers": {
+                "first": "PLEZIER",
+                "second": "OPVALLEND",
+                "third": "GELUKSBRENGER"
+            }
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+@import "foundation/foundation-global"; // *always required
+@import "../colors";
+
+.base {
+	position: static;
+}
+
+@media #{$screen} {
+	.series-item-list-item { width: 181px; }
+	.base { height: 300px; }
+	.main-image { width: 175px; }
+	.name { width: 175px; }
+}
+
+@media #{$large} {
+	.series-item-list-item { width: 356px; }
+	.base { height: 600px; }
+	.main-image { width: auto; }
+	.name { width: 350px; }
+}

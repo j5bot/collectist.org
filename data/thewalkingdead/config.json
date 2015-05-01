@@ -1,0 +1,14 @@
+{
+	"title": "The WALKING DEAD",
+	"default": "tv-series-3",
+	"stylesheet": "/stylesheets/thewalkingdead/styles.css",
+	"facebook": {
+		"apikey": "381461265303365"
+	},
+	"google": {
+		"apikey": "289048085265.apps.googleusercontent.com"
+	},
+	"twitter": {
+		"template": "See my {{title}} @collectist! {{url}}"
+	}
+}

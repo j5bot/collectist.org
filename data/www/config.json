@@ -1,0 +1,17 @@
+{
+	"title": "COLLECTIST CENTRAL",
+	"default": "",
+	"sitelist": [
+		{ "title": "GOGOs CRAZY BONES", "url": "http://gogos.collectist.org" },
+		{ "title": "The WALKING DEAD", "url": "http://thewalkingdead.collectist.org" }
+	],
+	"facebook": {
+		"apikey": "381461265303365"
+	},
+	"google": {
+		"apikey": "289048085265.apps.googleusercontent.com"
+	},
+	"twitter": {
+		"template": "See my {{title}} @collectist! {{url}}"
+	}
+}

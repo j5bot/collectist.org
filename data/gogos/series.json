@@ -1,0 +1,74 @@
+{
+	"series": [
+		{
+			"id": "series-1",
+			"name": "Series 1",
+			"colors": 4,
+			"stickers": true,
+			"images": "/images/s1/gogo",
+			"prefix": "s1",
+			"start": 1,
+			"end": 80,
+			"offset": 0
+		},
+		{
+			"id": "series-1-wanted",
+			"name": "Series 1: Wanted",
+			"colors": 0,
+			"stickers": true,
+			"images": "/images/s1/wanted-gogo",
+			"prefix": "s1w",
+			"start": 1,
+			"end": 20,
+			"offset": 80,
+			"template": "gogos-nocolors-item-template"
+		},
+		{
+			"id": "series-2-evolution",
+			"name": "Series 2: Evolution",
+			"images": "/images/s2/gogo",
+			"prefix": "s2",
+			"colors": 5,
+			"stickers": true,
+			"start": 1,
+			"end": 80,
+			"offset": 100
+		},
+		{
+			"id": "series-3-explorer",
+			"name": "Series 3: Explorer",
+			"colors": 5,
+			"stickers": true,
+			"images": "/images/s3/gogo",
+			"prefix": "s3",
+			"start": 1,
+			"end": 80,
+			"offset": 211
+		},
+		{
+			"id": "tins-and-limited",
+			"name": "Tins & Limited",
+			"colors": 0,
+			"stickers": false,
+			"images": "/images/le/gogo",
+			"prefix": "le",
+			"start": 1,
+			"end": 31,
+			"offset": 180,
+			"template": "gogos-nocolors-item-template"
+		},
+		{
+			"id": "c1000-football",
+			"name": "Soccer Gogos",
+			"description": "Voetbal Gogos released in Holland through the C1000 supermarket chain, celebrating the 2010 Soccer World Cup.",
+			"colors": 0,
+			"stickers": false,
+			"images": "/images/voetbal/gogo",
+			"prefix": "vb",
+			"start": 1,
+			"end": 90,
+			"offset": 292,
+			"template": "gogos-nocolors-item-template"			
+		}
+	]
+}

@@ -1,0 +1,181 @@
+h1 {
+	color: #ffffff;
+	@include text-shadow($textshadowcolor 5px 5px 3px);
+}
+
+h1, input[type=button] {
+	font-style: italic;
+}
+
+p {
+	font-size: 10px;
+	font-family: Helvetica,sans-serif;
+}
+
+.series-menu {
+	list-style-type: none;
+	margin-right: -1px;
+}
+
+.series-item-list {
+	margin-top: 40px;
+	text-align: center;
+}
+		
+.series {
+	margin: 0px;
+	padding: 0px;
+
+	h2 {
+		position: absolute;
+		top: -8px;
+		left: 0px;
+		height: 50px;
+		padding: 10px 10px 10px 40px;
+		width: 100%;
+		
+		@include border-top-radius($appborderradius - 10);
+		background-color: $seriestitlebgcolor;
+		color: #fff;
+	}
+
+	h3 {
+		position: absolute;
+		top: -30px;
+		left: -20px;
+		padding: 12px 8px 6px;
+		background-color: $seriescountbgcolor;
+		border: solid 1px $seriescountbordercolor;
+		@include border-radius(1000px);
+
+		font-family: Helvetica, Arial, sans-serif;
+	}
+
+	a {
+		font-size: 18px;
+		line-height: 18px;
+	}
+
+	p {
+		text-align: left;
+		padding: 15px;
+	}
+
+	ol {
+		padding: 0px !important;
+	}
+
+	input[type=checkbox] {
+		display: none;
+	}
+
+	.custom-checkbox {
+		position: absolute;
+		top: 5px;
+		left: 5px;
+		z-index: 3;
+
+		background: url(/images/checkbox-unchecked-small.png) no-repeat bottom left;
+		height: 20px;
+		width: 25px;
+	}
+
+	input[type=checkbox]:checked + .custom-checkbox {
+		background-image: url(/images/checkbox-checked-small.png);
+	}
+}
+
+/* list item */
+.series-item-list-item {
+	background-color: $itembgcolor;
+	position: relative;
+	display: inline-block;
+	border: solid 3px $itembordercolor;
+	@include border-radius($itemborderradius);
+	margin: 5px;
+	
+	@include box-shadow($itemshadowcolor 5px 5px 3px);
+}
+
+.series-sub-list-item {
+		background-color: transparent;
+		
+		position: relative;
+		display: inline-block;
+		border: solid 0px transparent;
+		
+		border-radius: 0px;
+		border-top-left-radius: 0px;
+		border-bottom-left-radius: 0px;
+		
+		margin: 0px;
+		float: left;
+		list-style-type: none;
+		width: auto;
+		height: 53px;
+		
+		@include box-shadow(none);
+}
+
+.checklist {
+	margin: 8px;
+	padding: 0px;
+	padding-top: 5px;
+	padding-bottom: 8px;
+	background-color: $checklistbgcolor;
+	border: solid 1px $checklistbordercolor;
+	@include border-radius($checklistborderradius);
+
+	> li {
+		line-height: 0px;
+		font-size: 0px;
+	}
+}
+
+img.colors {
+	margin-left: 25px;
+	width: 35px;
+}
+
+.base {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+
+	display: block;
+	overflow: hidden;
+	@include border-left-radius($checklistborderradius);
+}
+
+.name {
+	position: absolute;
+	bottom: 0px;
+	left: 0px;
+	padding-right: 8px;
+	text-align: right;
+	background-color: $namebgcolor;
+	color: $nametextcolor;
+	@include border-bottom-left-radius($checklistborderradius);
+	line-height: 34px;
+	font-size: 19px;
+	z-index: 1;
+}
+
+.number {
+	font-size: 20px;
+	text-align: right;
+	position: absolute;
+	top: 0px;
+	right: 0px;
+	padding-right: 3px;
+	padding-left: 5px;
+	height: 30px;
+	
+	border-bottom-left-radius: 5px;
+	
+	opacity: 0.7;
+	background-color: $numberbgcolor;
+	color: $numbertextcolor;
+	line-height: 34px;
+	z-index: 1;
+}

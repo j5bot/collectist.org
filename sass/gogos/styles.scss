@@ -1,0 +1,20 @@
+.series-item-list-item {
+	width: 238px;
+	&.nocolors-item {
+		width: 181px;
+	}
+}
+.base {
+	position: absolute;
+	height: 212px;
+}
+.nocolors-item .base {
+	position: static;
+}
+.main-image { width: 175px; }
+.name { width: 175px; }
+.series-sub-list { margin-left: 176px; height: 212px; }
+
+.custom-checkbox.sticker { bottom: 10px; top: auto; }
+
+@import "colors";

@@ -1,0 +1,4542 @@
+{
+    "items": [{
+            "name": "Mosh",
+            "game": "K.O",
+            "ability": "Magic smile",
+            "level": "",
+            "series": "1",
+            "number": "1",
+            "description": "Super kind. All the other Gogo&#039;s want to be friends with Mosh",
+            "colors": [
+                    "light green",
+                    "dark green",
+                    "dark blue",
+                    "purple",
+                    "blue green"
+            ]
+        }, {
+            "name": "Nasako",
+            "game": "Battle",
+            "ability": "Double fast hook",
+            "level": "",
+            "series": "1",
+            "number": "2",
+            "description": "Always cool because he has a special scoring technique",
+            "colors": [
+                    "gray",
+                    "red",
+                    "green",
+                    "black",
+                    "yellow"
+            ]
+        }, {
+            "name": "Sato",
+            "game": "Battle",
+            "ability": "K O punch",
+            "level": "",
+            "series": "1",
+            "number": "3",
+            "description": "Ready for the fight. Where&#039;s the ring?",
+            "colors": [
+                    "yellow",
+                    "magenta",
+                    "dark orange",
+                    "orange/yellow",
+                    "red"
+            ]
+        }, {
+            "name": "Okori",
+            "game": "Scoring",
+            "ability": "Eating",
+            "level": "",
+            "series": "1",
+            "number": "4",
+            "description": "Nobody knows what he eats, but whatever it is, it isn&#039;t doing hime any good",
+            "colors": [
+                    "blue green",
+                    "light green",
+                    "purple",
+                    "dark green",
+                    "dark blue"
+            ]
+        }, {
+            "name": "Tori",
+            "game": "Scoring",
+            "ability": "Jumps walls",
+            "level": "",
+            "series": "1",
+            "number": "5",
+            "description": "Clever and fun. He likes to be the boss",
+            "colors": [
+                    "black",
+                    "red",
+                    "green",
+                    "orange",
+                    "gray"
+            ]
+        }, {
+            "name": "Helly",
+            "game": "On line",
+            "ability": "Continuous sprint",
+            "level": "",
+            "series": "1",
+            "number": "6",
+            "description": "The fastest Gogo. His helmet helps him to go breathtakingly fast",
+            "colors": [
+                    "orange",
+                    "yellow",
+                    "red",
+                    "orange/yellow",
+                    "magenta"
+            ]
+        }, {
+            "name": "Skull",
+            "game": "Basket",
+            "ability": "Spooky Skills",
+            "level": "",
+            "series": "1",
+            "number": "7",
+            "description": "He looks mysterioius and when you least expect it he&#039;ll do something funny to make you jump.",
+            "colors": [
+                    "white",
+                    "blue",
+                    "magenta",
+                    "pale yellow",
+                    "pale gray"
+            ]
+        }, {
+            "name": "Angiru",
+            "game": "Basket",
+            "ability": "Keeps secrets",
+            "level": "",
+            "series": "1",
+            "number": "8",
+            "description": "Tell Angiru your secrets and they will be safe forever",
+            "colors": [
+                    "red",
+                    "orange/yellow",
+                    "magenta",
+                    "orange",
+                    "yellow"
+            ]
+        }, {
+            "name": "Umu",
+            "game": "In flight",
+            "ability": "Intelligent swimming",
+            "level": "",
+            "series": "1",
+            "number": "9",
+            "description": "Likes to visit the swimming pool every day to think up new ideas",
+            "colors": [
+                    "magenta",
+                    "orange",
+                    "orange/yellow",
+                    "red",
+                    "yellow"
+            ]
+        }, {
+            "name": "Aiko",
+            "game": "In flight",
+            "ability": "Wonder nose",
+            "level": "",
+            "series": "1",
+            "number": "10",
+            "description": "The Gogo with the best sense of smell. Can detect a smell from a mile away",
+            "colors": [
+                    "yellow",
+                    "red",
+                    "magenta",
+                    "orange",
+                    "orange/yellow"
+            ]
+        }, {
+            "name": "Ichiro",
+            "game": "Bowling",
+            "ability": "DAGGER EYES",
+            "level": "",
+            "series": "1",
+            "number": "11",
+            "description": "Don&#039;t stare into his eyes. You&#039;ll be overcome by his great mental power",
+            "colors": [
+                    "yellow",
+                    "magenta",
+                    "orange",
+                    "red",
+                    "orange/yellow"
+            ]
+        }, {
+            "name": "Nuclos",
+            "game": "K.O",
+            "ability": "Pollution-reduction",
+            "level": "",
+            "series": "1",
+            "number": "12",
+            "description": "Absorbs pollution and leaves the air really clean.",
+            "colors": [
+                    "magenta",
+                    "red",
+                    "orange",
+                    "yellowhttp://www.facebook.com/note.php?note_id=163672093702727",
+                    "orange/yellow"
+            ]
+        }, {
+            "name": "Boy",
+            "game": "Basket",
+            "ability": "Sensory space radar",
+            "level": "",
+            "series": "1",
+            "number": "13",
+            "description": "The best blindfolded runner. He never falls over",
+            "colors": [
+                    "red",
+                    "orange/yellow",
+                    "magenta",
+                    "orange",
+                    "yellow"
+            ]
+        }, {
+            "name": "Neko",
+            "game": "On line",
+            "ability": "Flame catcher",
+            "level": "",
+            "series": "1",
+            "number": "14",
+            "description": "Uses its body to protect the other Gogo&#039;s from fire",
+            "colors": [
+                    "orange",
+                    "yellow",
+                    "magenta",
+                    "orange/yellow",
+                    "red"
+            ]
+        }, {
+            "name": "Hazard",
+            "game": "K.O",
+            "ability": "Courage",
+            "level": "",
+            "series": "1",
+            "number": "15",
+            "description": "When faced with danger, it just grits its teeth and carries on.",
+            "colors": [
+                    "orange",
+                    "yellow",
+                    "magenta",
+                    "orange/yellow",
+                    "red"
+            ]
+        }, {
+            "name": "Sun",
+            "game": "K.O",
+            "ability": "Happy ray",
+            "level": "",
+            "series": "1",
+            "number": "16",
+            "description": "Fires a ray of optimism at every Gogo in its path",
+            "colors": [
+                    "pink",
+                    "yellow",
+                    "orange",
+                    "orange/yellow",
+                    "red"
+            ]
+        }, {
+            "name": "Hiro",
+            "game": "In flight",
+            "ability": "Electric ideas",
+            "level": "",
+            "series": "1",
+            "number": "17",
+            "description": "Solves problems with electrifying 500W ideas",
+            "colors": [
+                    "red",
+                    "magenta",
+                    "orange/yellow",
+                    "orange",
+                    "yellow"
+            ]
+        }, {
+            "name": "Aka",
+            "game": "Bowling",
+            "ability": "Hammer head",
+            "level": "",
+            "series": "1",
+            "number": "18",
+            "description": "Can collide with 100 Gogo&#039;s without getting any bumps or bruises",
+            "colors": [
+                    "orange/yellow",
+                    "yellow",
+                    "red",
+                    "orange",
+                    "magenta"
+            ]
+        }, {
+            "name": "Molly",
+            "game": "K.O",
+            "ability": "Micro-anger",
+            "level": "",
+            "series": "1",
+            "number": "19",
+            "description": "Getting angry is no problem - because it lasts less than 1 second!",
+            "colors": [
+                    "yellow",
+                    "orange/yellow",
+                    "red",
+                    "orange",
+                    "magenta"
+            ]
+        }, {
+            "name": "Nari",
+            "game": "In flight",
+            "ability": "Concentration",
+            "level": "",
+            "series": "1",
+            "number": "20",
+            "description": "Don&#039;t try and stare out Nari - you will lose.",
+            "colors": [
+                    "orange",
+                    "orange/yellow",
+                    "red",
+                    "yellow",
+                    "magenta"
+            ]
+        }, {
+            "name": "Simi",
+            "game": "Battle",
+            "ability": "Power Smiles",
+            "level": "",
+            "series": "1",
+            "number": "21",
+            "description": "Smiling charges up his powers. He smiles and then shoots away",
+            "colors": [
+                    "red",
+                    "orange/yellow",
+                    "orange",
+                    "yellow",
+                    "magenta"
+            ]
+        }, {
+            "name": "Codi",
+            "game": "In flight",
+            "ability": "Quick connection",
+            "level": "",
+            "series": "1",
+            "number": "22",
+            "description": "Always connected. Ask it anything and the data will be downloaded",
+            "colors": [
+                    "orange/yellow",
+                    "orange",
+                    "red",
+                    "yellow",
+                    "magenta"
+            ]
+        }, {
+            "name": "Hiraku",
+            "game": "Bowling",
+            "ability": "Boarding",
+            "level": "",
+            "series": "1",
+            "number": "23",
+            "description": "The most daring pirate - endless adventures",
+            "colors": [
+                    "magenta",
+                    "orange",
+                    "red",
+                    "yellow",
+                    "orange/yellow"
+            ]
+        }, {
+            "name": "Rufus",
+            "game": "In flight",
+            "ability": "X-Vision",
+            "level": "",
+            "series": "1",
+            "number": "24",
+            "description": "Sees things the other Gogo&#039;s can&#039;t using the powers of planet X",
+            "colors": [
+                    "green",
+                    "light green",
+                    "dark blue",
+                    "blue green",
+                    "purple"
+            ]
+        }, {
+            "name": "Temp",
+            "game": "On line",
+            "ability": "Weather forecasting",
+            "level": "",
+            "series": "1",
+            "number": "25",
+            "description": "Is the water really cold? What time is it going to rain? Just ask Temp",
+            "colors": [
+                    "brown",
+                    "black",
+                    "orange",
+                    "green",
+                    "gray"
+            ]
+        }, {
+            "name": "Pibi",
+            "game": "Basket",
+            "ability": "Double brain",
+            "level": "",
+            "series": "1",
+            "number": "26",
+            "description": "Organises ideas in both sides of its head. Need ideas, speak to Pibi",
+            "colors": [
+                    "white",
+                    "magenta",
+                    "pale yellow",
+                    "pale blue",
+                    "pale gray"
+            ]
+        }, {
+            "name": "Dare",
+            "game": "Battle",
+            "ability": "photogenic ",
+            "level": "",
+            "series": "1",
+            "number": "27",
+            "description": "The best looking Gogo. He always looks his best"
+        }, {
+            "name": "Danko",
+            "game": "Bowling",
+            "ability": "cute and cuddly",
+            "level": "",
+            "series": "1",
+            "number": "28",
+            "description": "Feline, fast, agile and well behaved",
+            "colors": [
+                    "orange",
+                    "yellow",
+                    "red",
+                    "orange/yellow",
+                    "magenta"
+            ]
+        }, {
+            "name": "Mc Toy",
+            "game": "In flight",
+            "ability": "No mistakes",
+            "level": "",
+            "series": "1",
+            "number": "29",
+            "description": "Always careful and questioning. Never makes a wrong move",
+            "colors": [
+                    "blue",
+                    "green",
+                    "purple",
+                    "light green",
+                    "blue"
+            ]
+        }, {
+            "name": "Gaiji",
+            "game": "Battle",
+            "ability": "Battle Helmet",
+            "level": "",
+            "series": "1",
+            "number": "30",
+            "description": "Takes control of the situation. An expert in crowd control",
+            "colors": [
+                    "blue",
+                    "green",
+                    "purple",
+                    "light green",
+                    "light blue"
+            ]
+        }, {
+            "name": "Lessi",
+            "game": "K.O",
+            "ability": "Shock-absorber",
+            "level": "",
+            "series": "1",
+            "number": "31",
+            "description": "Sometimes feels a little low, you might need to perk him up",
+            "colors": [
+                    "dark green",
+                    "dark blue",
+                    "green",
+                    "light blue",
+                    "purple"
+            ]
+        }, {
+            "name": "Pop",
+            "game": "On line",
+            "ability": "Top rhythm",
+            "level": "",
+            "series": "1",
+            "number": "32",
+            "description": "Loves music and dances non-stop",
+            "colors": [
+                    "light green",
+                    "dark blue",
+                    "dark green",
+                    "blue green",
+                    "purple"
+            ]
+        }, {
+            "name": "DJ-Imon",
+            "game": "Battle",
+            "ability": "Mental strength",
+            "level": "",
+            "series": "1",
+            "number": "33",
+            "description": "Absorbs ideas through its star",
+            "colors": [
+                    "purple",
+                    "blue green",
+                    "dark green",
+                    "dark blue",
+                    "light green"
+            ]
+        }, {
+            "name": "Jelly",
+            "game": "Battle",
+            "ability": "Super warrior ",
+            "level": "",
+            "series": "1",
+            "number": "34",
+            "description": "Brave enough for any battle",
+            "colors": [
+                    "dark blue",
+                    "purple",
+                    "light green",
+                    "blue green",
+                    "light green"
+            ]
+        }, {
+            "name": "Sumon",
+            "game": "Bowling",
+            "ability": "Mouth-cage",
+            "level": "",
+            "series": "1",
+            "number": "35",
+            "description": "Traps his enemies inside his huge powerful jaws",
+            "colors": [
+                    "green",
+                    "blue green",
+                    "light green",
+                    "dark blue",
+                    "purple"
+            ]
+        }, {
+            "name": "Cho",
+            "game": "Battle",
+            "ability": "Energy",
+            "level": "",
+            "series": "1",
+            "number": "36",
+            "description": "Races ahead at full speed and that&#039;s why he doesn&#039;t have any teeth left",
+            "colors": [
+                    "dark blue",
+                    "blue green",
+                    "dark green",
+                    "purple",
+                    "light green"
+            ]
+        }, {
+            "name": "Raysun",
+            "game": "Bowling",
+            "ability": "Sun Ray",
+            "level": "",
+            "series": "1",
+            "number": "37",
+            "description": "Has a great time bringing sunshine into the Gogo&#039;s world",
+            "colors": [
+                    "light green",
+                    "dark blue",
+                    "blue green",
+                    "dark green",
+                    "purple"
+            ]
+        }, {
+            "name": "Fist",
+            "game": "Basket",
+            "ability": "Ultimate Grip",
+            "level": "",
+            "series": "1",
+            "number": "38",
+            "description": "Holds a secret strength inside his fist",
+            "colors": [
+                    "purple",
+                    "light blue",
+                    "dark green",
+                    "dark blue",
+                    "light green"
+            ]
+        }, {
+            "name": "Zar-Zar",
+            "game": "Basket",
+            "ability": "Cunning",
+            "level": "",
+            "series": "1",
+            "number": "39",
+            "description": "Pretends not to understand but knows much more than you think..",
+            "colors": [
+                    "green",
+                    "dark blue",
+                    "light green",
+                    "blue green",
+                    "purple"
+            ]
+        }, {
+            "name": "Hayato",
+            "game": "Basket",
+            "ability": "Super wink",
+            "level": "",
+            "series": "1",
+            "number": "40",
+            "description": "Wants 20 mirrors nearby to keep an eye on everything",
+            "colors": [
+                    "dark green",
+                    "blue green",
+                    "purple",
+                    "light green",
+                    "dark blue"
+            ]
+        }, {
+            "name": "Bigu",
+            "game": "K.O",
+            "ability": "Fun-orders",
+            "level": "",
+            "series": "1",
+            "number": "41",
+            "description": "Stands tall and upright. Gives fun orders to the troops",
+            "colors": [
+                    "light blue",
+                    "purple",
+                    "light green",
+                    "blue",
+                    "green"
+            ]
+        }, {
+            "name": "Ojaru",
+            "game": "In flight",
+            "ability": "flying ears",
+            "level": "",
+            "series": "1",
+            "number": "42",
+            "description": "Badly sewn together but strong enough to hold the secret of flight",
+            "colors": [
+                    "purple",
+                    "blue",
+                    "light green",
+                    "blue green",
+                    "green"
+            ]
+        }, {
+            "name": "Speed",
+            "game": "On line",
+            "ability": "Panoramic view",
+            "level": "",
+            "series": "1",
+            "number": "43",
+            "description": "Turns his head with supersonic speed and always sees the world around him",
+            "colors": [
+                    "blue",
+                    "purple",
+                    "light green",
+                    "blue green",
+                    "green"
+            ]
+        }, {
+            "name": "Tremi",
+            "game": "Battle",
+            "ability": "Laughter mask",
+            "level": "",
+            "series": "1",
+            "number": "44",
+            "description": "Appearances can be deceptive. Not as grumpy as he looks",
+            "colors": [
+                    "purple",
+                    "blue",
+                    "light green",
+                    "blue green",
+                    "green"
+            ]
+        }, {
+            "name": "B-Boy",
+            "game": "Basket",
+            "ability": "Popcorn attack",
+            "level": "",
+            "series": "1",
+            "number": "45",
+            "description": "Eats a lot of popcorn to improve bouncing power",
+            "colors": [
+                    "blue green",
+                    "dark blue",
+                    "dark green",
+                    "purple",
+                    "light green"
+            ]
+        }, {
+            "name": "Mochi",
+            "game": "On line",
+            "ability": "Guaranteed good luck",
+            "level": "",
+            "series": "1",
+            "number": "46",
+            "description": "A lucky charm amongst the Gogo&#039;s family",
+            "colors": [
+                    "mustard yellow",
+                    "black",
+                    "olive green",
+                    "dark gray",
+                    "brick red"
+            ]
+        }, {
+            "name": "Popus",
+            "game": "Bowling",
+            "ability": "Earth eater",
+            "level": "",
+            "series": "1",
+            "number": "47",
+            "description": "Digs long tunnels to move around without anyone knowing he is there",
+            "colors": [
+                    "brown",
+                    "green",
+                    "black",
+                    "mustard yellow",
+                    "gray"
+            ]
+        }, {
+            "name": "Tube",
+            "game": "On line",
+            "ability": "Rec &amp; Play",
+            "level": "",
+            "series": "1",
+            "number": "48",
+            "description": "Thanks to gramophone-ears, it hears everything and can play it all back",
+            "colors": [
+                    "green",
+                    "black",
+                    "gray",
+                    "red",
+                    "orange"
+            ]
+        }, {
+            "name": "Cubic",
+            "game": "K.O",
+            "ability": "Repairs everything",
+            "level": "",
+            "series": "1",
+            "number": "49",
+            "description": "A robot Gogo who is an expert mechanic",
+            "colors": [
+                    "gray",
+                    "olive green",
+                    "brick red",
+                    "mustard yellow",
+                    "black"
+            ]
+        }, {
+            "name": "B-King",
+            "game": "Battle",
+            "ability": "Magic horns",
+            "level": "",
+            "series": "1",
+            "number": "50",
+            "description": "When he sits down to think, he acts like a tribal chief",
+            "colors": [
+                    "black",
+                    "brick red",
+                    "gray",
+                    "olive green",
+                    "mustard yellow"
+            ]
+        }, {
+            "name": "Croc",
+            "game": "Scoring",
+            "ability": "Check mate",
+            "level": "",
+            "series": "1",
+            "number": "51",
+            "description": "Croc is a chequered crocodile. In other words, a crocodile chess master",
+            "colors": [
+                    "light green",
+                    "black",
+                    "gray",
+                    "brick red",
+                    "mustard yellow"
+            ]
+        }, {
+            "name": "Ufus",
+            "game": "Scoring",
+            "ability": "Flying bounce",
+            "level": "",
+            "series": "1",
+            "number": "52",
+            "description": "With its rubber ninja body, it can fly long distances between bounces",
+            "colors": [
+                    "yellow",
+                    "black",
+                    "gray",
+                    "brick red",
+                    "olive green"
+            ]
+        }, {
+            "name": "Egbot",
+            "game": "Basket",
+            "ability": "Electric jump",
+            "level": "",
+            "series": "1",
+            "number": "53",
+            "description": "Communicates through waves, thanks to its electromagnetic mouth",
+            "colors": [
+                    "gray",
+                    "black",
+                    "brick red",
+                    "olive green",
+                    "mustard yellow"
+            ]
+        }, {
+            "name": "H-83",
+            "game": "K.O",
+            "ability": "Throws stars",
+            "level": "",
+            "series": "1",
+            "number": "54",
+            "description": "A strong shell makes it super resistant",
+            "colors": [
+                    "black",
+                    "brick red",
+                    "mustard yellow",
+                    "olive green",
+                    "gray"
+            ]
+        }, {
+            "name": "Atori",
+            "game": "K.O",
+            "ability": "Giga memory",
+            "level": "",
+            "series": "1",
+            "number": "55",
+            "description": "Keeps all his knowledge safe inside and then closes the zip",
+            "colors": [
+                    "brown",
+                    "gray",
+                    "mustard yellow",
+                    "olive green",
+                    "black"
+            ]
+        }, {
+            "name": "B-Ball",
+            "game": "Basket",
+            "ability": "Throwing balls",
+            "level": "",
+            "series": "1",
+            "number": "56",
+            "description": "If the sport has a ball, he is the master",
+            "colors": [
+                    "mustard yellow",
+                    "brown",
+                    "gray",
+                    "olive green",
+                    "black"
+            ]
+        }, {
+            "name": "Usuzi",
+            "game": "Battle",
+            "ability": "Clamp-click",
+            "level": "",
+            "series": "1",
+            "number": "57",
+            "description": "If something goes wrong, he is very nervous until a solution is found",
+            "colors": [
+                    "olive green",
+                    "black",
+                    "mustard yellow",
+                    "brick red",
+                    "gray"
+            ]
+        }, {
+            "name": "Eco",
+            "game": "Basket",
+            "ability": "4x4 race",
+            "level": "",
+            "series": "1",
+            "number": "58",
+            "description": "Can travel over any obstacle or difficult terrain using four arms",
+            "colors": [
+                    "olive green",
+                    "black",
+                    "mustard yellow",
+                    "brick red",
+                    "gray"
+            ]
+        }, {
+            "name": "Oh!",
+            "game": "In flight",
+            "ability": "Surprise, oh!",
+            "level": "",
+            "series": "1",
+            "number": "59",
+            "description": "Loves to surprise all the other Gogo&#039;s",
+            "colors": [
+                    "black",
+                    "olive green",
+                    "mustard yellow",
+                    "gray",
+                    "brick red"
+            ]
+        }, {
+            "name": "Alkaline",
+            "game": "Battle",
+            "ability": "Charges batteries",
+            "level": "",
+            "series": "1",
+            "number": "60",
+            "description": "Ultra-turbo power. Mega max - Full blast energy",
+            "colors": [
+                    "gray",
+                    "brick red",
+                    "olive green",
+                    "mustard yellow",
+                    "black"
+            ]
+        }, {
+            "name": "Awa-Shima",
+            "game": "K.O",
+            "ability": "Graffiti-flash",
+            "level": "",
+            "series": "1",
+            "number": "61",
+            "description": "Always ready for action, but don&#039;t bother him for anything else",
+            "colors": [
+                    "mustard yellow",
+                    "black",
+                    "brick red",
+                    "olive green",
+                    "gray"
+            ]
+        }, {
+            "name": "Ghost",
+            "game": "Basket",
+            "ability": "Frightening whisper",
+            "level": "",
+            "series": "1",
+            "number": "62",
+            "description": "Dark mystery. Not everyone dares look him in the face",
+            "colors": [
+                    "brown",
+                    "black",
+                    "olive green",
+                    "mustard yellow",
+                    "gray"
+            ]
+        }, {
+            "name": "Tut",
+            "game": "K.O",
+            "ability": "Healing",
+            "level": "",
+            "series": "1",
+            "number": "63",
+            "description": "The curious Mummy. Can remove a tiny bit of bandage to see what&#039;s going on",
+            "colors": [
+                    "pale yellow",
+                    "magenta",
+                    "light blue",
+                    "white",
+                    "light gray"
+            ]
+        }, {
+            "name": "Matsue",
+            "game": "In flight",
+            "ability": "Soft fringe",
+            "level": "",
+            "series": "1",
+            "number": "64",
+            "description": "Very proud of his super cool hair cut",
+            "colors": [
+                    "light blue",
+                    "pale yellow",
+                    "light gray",
+                    "white",
+                    "pink"
+            ]
+        }, {
+            "name": "Akita",
+            "game": "On line",
+            "ability": "Antena horn",
+            "level": "",
+            "series": "1",
+            "number": "65",
+            "description": "Friend and loyal companion. You can count on Akita",
+            "colors": [
+                    "light gray",
+                    "light blue",
+                    "pink",
+                    "white",
+                    "pale yellow"
+            ]
+        }, {
+            "name": "Shizuoka",
+            "game": "K.O",
+            "ability": "Gogo alert",
+            "level": "",
+            "series": "1",
+            "number": "66",
+            "description": "With just one cry, he can get all the Gogo&#039;s attention",
+            "colors": [
+                    "light gray",
+                    "light blue",
+                    "pink",
+                    "white",
+                    "pale yellow"
+            ]
+        }, {
+            "name": "Miyake",
+            "game": "On line",
+            "ability": "Rudder-shaped crest",
+            "level": "",
+            "series": "1",
+            "number": "67",
+            "description": "Cuts through the water at amazing speed",
+            "colors": [
+                    "light gray",
+                    "pale yellow",
+                    "light blue",
+                    "pink",
+                    "white"
+            ]
+        }, {
+            "name": "Fujichick",
+            "game": "In flight",
+            "ability": "Instant landing",
+            "level": "",
+            "series": "1",
+            "number": "68",
+            "description": "Flies fast and high, but lands soft and smooth",
+            "colors": [
+                    "pink",
+                    "light blue",
+                    "pale yellow",
+                    "light gray",
+                    "white"
+            ]
+        }, {
+            "name": "Tsu",
+            "game": "Bowling",
+            "ability": "Big Gulp",
+            "level": "",
+            "series": "1",
+            "number": "69",
+            "description": "Juices, cold drinks, he always has a drink handy. A thirsty Gogo.",
+            "colors": [
+                    "pale yellow",
+                    "light blue",
+                    "light gray",
+                    "pink",
+                    "white"
+            ]
+        }, {
+            "name": "Kokubu",
+            "game": "Bowling",
+            "ability": "Friend viser",
+            "level": "",
+            "series": "1",
+            "number": "70",
+            "description": "The life and soul of any party. Invited to every occasion",
+            "colors": [
+                    "pale yellow",
+                    "light blue",
+                    "light gray",
+                    "pink",
+                    "white"
+            ]
+        }, {
+            "name": "Izumi",
+            "game": "On line",
+            "ability": "Motorbike racing",
+            "level": "",
+            "series": "1",
+            "number": "71",
+            "description": "Loves speed and never gets off his motorbike",
+            "colors": [
+                    "light blue",
+                    "white",
+                    "pink",
+                    "light gray",
+                    "pale yellow"
+            ]
+        }, {
+            "name": "Ako",
+            "game": "Battle",
+            "ability": "Martial Arts",
+            "level": "",
+            "series": "1",
+            "number": "72",
+            "description": "The ultimate minder. 50 special moves ready to go",
+            "colors": [
+                    "white",
+                    "light blue",
+                    "pink",
+                    "light gray",
+                    "pale yellow"
+            ]
+        }, {
+            "name": "Kami-Kami",
+            "game": "Scoring",
+            "ability": "super bite",
+            "level": "",
+            "series": "1",
+            "number": "73",
+            "description": "Brushes his teeth before playing any game. Always fresh and minty",
+            "colors": [
+                    "light blue",
+                    "pink",
+                    "white",
+                    "light gray",
+                    "pale yellow"
+            ]
+        }, {
+            "name": "Sago",
+            "game": "Scoring",
+            "ability": "Self-moulding ",
+            "level": "",
+            "series": "1",
+            "number": "74",
+            "description": "Changes shape to fit into any space.",
+            "colors": [
+                    "light blue",
+                    "pink",
+                    "light gray",
+                    "white",
+                    "pale yellow"
+            ]
+        }, {
+            "name": "Vampa",
+            "game": "Scoring",
+            "ability": "low-level flying ",
+            "level": "",
+            "series": "1",
+            "number": "75",
+            "description": "Not seen much during the day. He moves in the dark",
+            "colors": [
+                    "pink",
+                    "light blue",
+                    "pale yellow",
+                    "light gray",
+                    "white"
+            ]
+        }, {
+            "name": "Misha",
+            "game": "Scoring",
+            "ability": "Makes you sleepy",
+            "level": "",
+            "series": "1",
+            "number": "76",
+            "description": "Cute and cuddly, the best sleeping companion around",
+            "colors": [
+                    "pink",
+                    "light blue",
+                    "pale yellow",
+                    "light gray",
+                    "white"
+            ]
+        }, {
+            "name": "Yuza",
+            "game": "K.O",
+            "ability": "Weight lifting",
+            "level": "",
+            "series": "1",
+            "number": "77",
+            "description": "As strong as a rock. Arms like granite",
+            "colors": [
+                    "pale yellow",
+                    "light blue",
+                    "white",
+                    "pink",
+                    "light gray"
+            ]
+        }, {
+            "name": "Tan Chia",
+            "game": "Battle",
+            "ability": "free fighting ",
+            "level": "",
+            "series": "1",
+            "number": "78",
+            "description": "Wants to be the Gogo&#039;s hero. Always ready for action",
+            "colors": [
+                    "light gray",
+                    "light blue",
+                    "pink",
+                    "white",
+                    "pale yellow"
+            ]
+        }, {
+            "name": "Kolo",
+            "game": "Bowling",
+            "ability": "Space Flight",
+            "level": "",
+            "series": "1",
+            "number": "79",
+            "description": "Futuristic Gogo who loves technology. Floats through space guided by the stars.",
+            "colors": [
+                    "white",
+                    "pink",
+                    "light gray",
+                    "light blue",
+                    "pale yellow"
+            ]
+        }, {
+            "name": "Evi",
+            "game": "In flight",
+            "ability": "Attack of laughter",
+            "level": "",
+            "series": "1",
+            "number": "80",
+            "description": "Although it tries to frighten its friends, it makes them laugh more than anything",
+            "colors": [
+                    "pink",
+                    "light blue",
+                    "pale yellow",
+                    "white",
+                    "light gray"
+            ]
+        }, {
+            "name": "Angiru MW",
+            "game": "Basket",
+            "ability": "Keeps secrets",
+            "level": "",
+            "series": "1",
+            "number": "8",
+            "description": "Tell Angiru your secrets and they will be safe forever"
+        }, {
+            "name": "Ichiro MW",
+            "game": "Bowling",
+            "ability": "DAGGER EYES",
+            "level": "",
+            "series": "1",
+            "number": "11",
+            "description": "Don&#039;t stare into his eyes. You&#039;ll be overcome by his great mental power"
+        }, {
+            "name": "Hiraku MW",
+            "game": "Bowling",
+            "ability": "Boarding",
+            "level": "",
+            "series": "1",
+            "number": "23",
+            "description": "The most daring pirate - endless adventures"
+        }, {
+            "name": "B-Boy MW",
+            "game": "Basket",
+            "ability": "Popcorn attack",
+            "level": "",
+            "series": "1",
+            "number": "45",
+            "description": "Eats a lot of popcorn to improve bouncing power"
+        }, {
+            "name": "Fist MW",
+            "game": "Basket",
+            "ability": "Ultimate Grip",
+            "level": "",
+            "series": "1",
+            "number": "38",
+            "description": "Holds a secret strength inside his fist"
+        }, {
+            "name": "Skull W",
+            "game": "Basket",
+            "ability": "Spooky Skills",
+            "level": "",
+            "series": "1",
+            "number": "7",
+            "description": "He looks mysterioius and when you least expect it he&#039;ll do something funny to make you jump."
+        }, {
+            "name": "Hazard W",
+            "game": "K.O",
+            "ability": "Courage",
+            "level": "",
+            "series": "1",
+            "number": "15",
+            "description": "When faced with danger, it just grits its teeth and carries on. "
+        }, {
+            "name": "Codi W",
+            "game": "In flight",
+            "ability": "Quick connection",
+            "level": "",
+            "series": "1",
+            "number": "22",
+            "description": "Always connected. Ask it anything and the data will be downloaded"
+        }, {
+            "name": "Mc Toy W",
+            "game": "In flight",
+            "ability": "No mistakes",
+            "level": "",
+            "series": "1",
+            "number": "29",
+            "description": "Always careful and questioning. Never makes a wrong move"
+        }, {
+            "name": "Cho W",
+            "game": "Battle",
+            "ability": "Energy",
+            "level": "",
+            "series": "1",
+            "number": "36",
+            "description": "Races ahead at full speed and that&#039;s why he doesn&#039;t have any teeth left"
+        }, {
+            "name": "Tremi W",
+            "game": "Battle",
+            "ability": "Laughter mask",
+            "level": "",
+            "series": "1",
+            "number": "44",
+            "description": "Appearances can be deceptive. Not as grumpy as he looks"
+        }, {
+            "name": "Tube W",
+            "game": "On line",
+            "ability": "Rec &amp; Play",
+            "level": "",
+            "series": "1",
+            "number": "48",
+            "description": "Thanks to gramophone-ears, it hears everything and can play it all back"
+        }, {
+            "name": "Ufus W",
+            "game": "Scoring",
+            "ability": "Flying bounce",
+            "level": "",
+            "series": "1",
+            "number": "52",
+            "description": "With its rubber ninja body, it can fly long distances between bounces"
+        }, {
+            "name": "Egbot W",
+            "game": "Basket",
+            "ability": "Electric jump",
+            "level": "",
+            "series": "1",
+            "number": "53",
+            "description": "Communicates through waves, thanks to its electromagnetic mouth"
+        }, {
+            "name": "Atori W",
+            "game": "K.O",
+            "ability": "Giga memory",
+            "level": "",
+            "series": "1",
+            "number": "55",
+            "description": "Keeps all his knowledge safe inside and then closes the zip"
+        }, {
+            "name": "Usuzi W",
+            "game": "Battle",
+            "ability": "Clamp-click",
+            "level": "",
+            "series": "1",
+            "number": "57",
+            "description": "If something goes wrong, he is very nervous until a solution is found"
+        }, {
+            "name": "Oh! W",
+            "game": "In flight",
+            "ability": "Surprise, oh!",
+            "level": "",
+            "series": "1",
+            "number": "59",
+            "description": "Loves to surprise all the other Gogo&#039;s"
+        }, {
+            "name": "Awa-Shima W",
+            "game": "K.O",
+            "ability": "Graffiti-flash",
+            "level": "",
+            "series": "1",
+            "number": "61",
+            "description": "Always ready for action, but don&#039;t bother him for anything else"
+        }, {
+            "name": "Tut W",
+            "game": "K.O",
+            "ability": "Healing",
+            "level": "",
+            "series": "1",
+            "number": "63",
+            "description": "The curious Mummy. Can remove a tiny bit of bandage to see what&#039;s going on"
+        }, {
+            "name": "Kokubu W",
+            "game": "Bowling",
+            "ability": "Friend viser",
+            "level": "",
+            "series": "1",
+            "number": "70",
+            "description": "The life and soul of any party. Invited to every occasion"
+        }, {
+            "name": "Moshi",
+            "skip-color": 4,
+            "game": "K.O.",
+            "ability": "Peacemaker",
+            "level": "15",
+            "series": "2",
+            "number": "1",
+            "description": "Avoids confrontation. Always brings goodness and peace.",
+            "colors": [
+                    "pink glitter",
+                    "purple glitter",
+                    "yellow glitter",
+                    "red glitter",
+                    "blue glitter"
+            ]
+        }, {
+            "name": "Nasoki",
+            "skip-color": 1,
+            "game": "Bowling",
+            "ability": "Joker",
+            "level": "11",
+            "series": "2",
+            "number": "2",
+            "description": "Tries to make everyone laugh. Sometimes his looks scare the others a little bit!",
+            "colors": [
+                    "yellow",
+                    "green",
+                    "orange",
+                    "blue",
+                    "red"
+            ]
+        }, {
+            "name": "Satori",
+            "skip-color": 4,
+            "game": "Basket",
+            "ability": "Watchful eye",
+            "level": "12",
+            "series": "2",
+            "number": "3",
+            "description": "Always watchful in case action is needed.",
+            "colors": [
+                    "blue",
+                    "red",
+                    "green",
+                    "pink",
+                    "black"
+            ]
+        }, {
+            "name": "Oky",
+            "skip-color": 3,
+            "game": "Bowling",
+            "ability": "Fungus Fury",
+            "level": "13",
+            "series": "2",
+            "number": "4",
+            "description": "Maybe some indigestion gave him a mushroom face.",
+            "colors": [
+                    "pink glitter",
+                    "purple glitter",
+                    "yellow glitter",
+                    "blue glitter",
+                    "red glitter"
+            ]
+        }, {
+            "name": "Racetor",
+            "skip-color": 1,
+            "game": "Scoring",
+            "ability": "Numeric memory",
+            "level": "9",
+            "series": "2",
+            "number": "5",
+            "description": "He loves sports and can calculate how to win any race.",
+            "colors": [
+                    "orange",
+                    "blue",
+                    "red",
+                    "yellow",
+                    "green"
+            ]
+        }, {
+            "name": "Heled",
+            "skip-color": 4,
+            "game": "K.O.",
+            "ability": "Mental dexterity",
+            "level": "8",
+            "series": "2",
+            "number": "6",
+            "description": "He robotized his brain to think super fast.",
+            "colors": [
+                    "red",
+                    "black",
+                    "green",
+                    "blue",
+                    "purple"
+            ]
+        }, {
+            "name": "Sker",
+            "skip-color": 3,
+            "game": "In flight",
+            "ability": "Curiosity",
+            "level": "10",
+            "series": "2",
+            "number": "7",
+            "description": "He&#039;s naive and everything seems weird to him.",
+            "colors": [
+                    "yellow glitter",
+                    "pink glitter",
+                    "red glitter",
+                    "clear glitter",
+                    "green glitter"
+            ]
+        }, {
+            "name": "Angor",
+            "skip-color": 3,
+            "game": "In flight",
+            "ability": "Insomnia",
+            "level": "6",
+            "series": "2",
+            "number": "8",
+            "description": "Night misteries are no secret to Angor.",
+            "colors": [
+                    "blue",
+                    "red",
+                    "black",
+                    "purple",
+                    "green"
+            ]
+        }, {
+            "name": "Tai-Umu",
+            "skip-color": 1,
+            "game": "Bowling",
+            "ability": "Star scream",
+            "level": "13",
+            "series": "2",
+            "number": "9",
+            "description": "With the points of his mouth-star he chews the hardest things.",
+            "colors": [
+                    "green",
+                    "blue",
+                    "red",
+                    "black",
+                    "purple"
+            ]
+        }, {
+            "name": "Koku-Chan",
+            "skip-color": 3,
+            "game": "In flight",
+            "ability": "Manic hair",
+            "level": "13",
+            "series": "2",
+            "number": "10",
+            "description": "He must go to the barber everyday because his hair grows while he plays.",
+            "colors": [
+                    "purple",
+                    "green",
+                    "black",
+                    "red",
+                    "blue"
+            ]
+        }, {
+            "name": "Chiru",
+            "skip-color": 1,
+            "game": "Basket",
+            "ability": "Counting sheep",
+            "level": "8",
+            "series": "2",
+            "number": "11",
+            "description": "The moon reflects in his eyes when he&#039;s sleepy.",
+            "colors": [
+                    "pink",
+                    "blue",
+                    "black",
+                    "green",
+                    "red"
+            ]
+        }, {
+            "name": "Nuchan",
+            "skip-color": 2,
+            "game": "On Line",
+            "ability": "Action planning",
+            "level": "11",
+            "series": "2",
+            "number": "12",
+            "description": "Serious and thoughtful. He looks like the chief Gogo.",
+            "colors": [
+                    "black",
+                    "blue",
+                    "purple",
+                    "green",
+                    "red"
+            ]
+        }, {
+            "name": "Om-Poh",
+            "skip-color": 5,
+            "game": "Battle",
+            "ability": "Multiple faces",
+            "level": "10",
+            "series": "2",
+            "number": "13",
+            "description": "Uses spells to play better. Sometimes it works.",
+            "colors": [
+                    "purple",
+                    "blue",
+                    "black",
+                    "green",
+                    "red"
+            ]
+        }, {
+            "name": "Nebub",
+            "skip-color": 3,
+            "game": "On Line",
+            "ability": "Firefighting",
+            "level": "9",
+            "series": "2",
+            "number": "14",
+            "description": "Concentrates the water supply to put out any fire.",
+            "colors": [
+                    "blue",
+                    "purple",
+                    "green",
+                    "red",
+                    "black"
+            ]
+        }, {
+            "name": "Hazer",
+            "skip-color": 5,
+            "game": "Battle",
+            "ability": "Unintentional humour",
+            "level": "11",
+            "series": "2",
+            "number": "15",
+            "description": "His game style is funny and he goes crazy watching others play.",
+            "colors": [
+                    "green",
+                    "black",
+                    "purple",
+                    "blue",
+                    "red"
+            ]
+        }, {
+            "name": "Sunon",
+            "skip-color": 1,
+            "game": "Battle",
+            "ability": "Ticklish",
+            "level": "12",
+            "series": "2",
+            "number": "16",
+            "description": "Ticklish all over his body. Nobody can even stand close to him.",
+            "colors": [
+                    "blue",
+                    "red",
+                    "green",
+                    "purple",
+                    "black"
+            ]
+        }, {
+            "name": "Hiroki",
+            "skip-color": 2,
+            "game": "On Line",
+            "ability": "Bravery ",
+            "level": "14",
+            "series": "2",
+            "number": "17",
+            "description": "Never afraid of new games. Always on the front line.",
+            "colors": [
+                    "red",
+                    "green",
+                    "black",
+                    "blue",
+                    "purple"
+            ]
+        }, {
+            "name": "Akone",
+            "skip-color": 1,
+            "game": "Scoring",
+            "ability": "Invisible karate chop",
+            "level": "13",
+            "series": "2",
+            "number": "18",
+            "description": "The masters made him into a Kung Fu hero.",
+            "colors": [
+                    "red",
+                    "blue",
+                    "black",
+                    "purple",
+                    "green"
+            ]
+        }, {
+            "name": "Sully",
+            "skip-color": 1,
+            "game": "Basket",
+            "ability": "Force concentrator",
+            "level": "10",
+            "series": "2",
+            "number": "19",
+            "description": "The energy of the stars is always with him...or so he says.",
+            "colors": [
+                    "red", "black", "green", "purple", "blue"
+            ]
+        }, {
+            "name": "Narion",
+            "skip-color": 1,
+            "game": "Battle",
+            "ability": "Particle searcher",
+            "level": "8",
+            "series": "2",
+            "number": "20",
+            "description": "He shows himself in darkness thanks to his luminiscent glasses.",
+            "colors": [
+                    "pink", "black", "red", "blue", "green"
+            ]
+        }, {
+            "name": "Simsei",
+            "skip-color": 4,
+            "game": "Basket",
+            "ability": "Walking Freezer",
+            "level": "4",
+            "series": "2",
+            "number": "21",
+            "description": "His mouth is a freezer but he&#039;s always shivering.",
+            "colors": [
+                    "purple",
+                    "black",
+                    "red",
+                    "blue",
+                    "green"
+            ]
+        }, {
+            "name": "Doki",
+            "skip-color": 1,
+            "game": "Basket",
+            "ability": "Sweet gobbler",
+            "level": "12",
+            "series": "2",
+            "number": "22",
+            "description": "He has an incredibly sweet tooth. When he&#039;s not playing he&#039;s hunting for sweets.",
+            "colors": [
+                    "pink", "black", "red", "green", "blue"
+            ]
+        }, {
+            "name": "Hirchan",
+            "skip-color": 2,
+            "game": "Scoring",
+            "ability": "Treasure finder",
+            "level": "5",
+            "series": "2",
+            "number": "23",
+            "description": "No hook and no eye patch but this pirate is still sailing the high seas.",
+            "colors": [
+                    "purple",
+                    "black",
+                    "red",
+                    "green",
+                    "blue"
+            ]
+        }, {
+            "name": "Rufistar",
+            "skip-color": 1,
+            "game": "Battle",
+            "ability": "Hell raiser",
+            "level": "11",
+            "series": "2",
+            "number": "24",
+            "description": "He&#039;s the main attraction at any party. Creates fun for everyone.",
+            "colors": [
+                    "red glitter",
+                    "purple glitter",
+                    "yellow glitter",
+                    "blue glitter",
+                    "pink glitter"
+            ]
+        }, {
+            "name": "Temsei",
+            "skip-color": 5,
+            "game": "Scoring",
+            "ability": "Fixer fantastic",
+            "level": "11",
+            "series": "2",
+            "number": "25",
+            "description": "He&#039;s a real handyman. He can fix anything... except his own shoelaces!",
+            "colors": [
+                    "brown",
+                    "yellow",
+                    "blue",
+                    "orange",
+                    "red"
+            ]
+        }, {
+            "name": "Pilhy",
+            "skip-color": 3,
+            "game": "In flight",
+            "ability": "Electric play",
+            "level": "14",
+            "series": "2",
+            "number": "26",
+            "description": "He&#039;s got a positive pole, a negative pole and he&#039;s fully charged.",
+            "colors": [
+                    "clear glitter",
+                    "green glitter",
+                    "yellow glitter",
+                    "orange glitter",
+                    "pink glitter"
+            ]
+        }, {
+            "name": "Doro",
+            "skip-color": 3,
+            "game": "Basket",
+            "ability": "Valiant ideas",
+            "level": "10",
+            "series": "2",
+            "number": "27",
+            "description": "Restless and playful. He gets nervous when nobody plays.",
+            "colors": [
+                    "purple",
+                    "black",
+                    "red",
+                    "green",
+                    "blue"
+            ]
+        }, {
+            "name": "Danoki",
+            "skip-color": 5,
+            "game": "In flight",
+            "ability": "Camouflage",
+            "level": "12",
+            "series": "2",
+            "number": "28",
+            "description": "Loves to lurk around corners and hide from others.",
+            "colors": [
+                    "purple",
+                    "black",
+                    "red",
+                    "green",
+                    "blue"
+            ]
+        }, {
+            "name": "Mc-Mask",
+            "skip-color": 4,
+            "game": "On Line",
+            "ability": "Imagination",
+            "level": "9",
+            "series": "2",
+            "number": "29",
+            "description": "His head is always in the clouds. He&#039;s a dreamer.",
+            "colors": [
+                    "red glitter",
+                    "purple glitter",
+                    "yellow glitter",
+                    "blue glitter",
+                    "pink glitter"
+            ]
+        }, {
+            "name": "Gaisor",
+            "skip-color": 2,
+            "game": "Battle",
+            "ability": "Laser Order",
+            "level": "10",
+            "series": "2",
+            "number": "30",
+            "description": "Firm and fair. He likes to be in command of every situation.",
+            "colors": [
+                    "purple glitter",
+                    "red glitter",
+                    "blue glitter",
+                    "yellow glitter",
+                    "pink glitter"
+            ]
+        }, {
+            "name": "Lessei",
+            "skip-color": 3,
+            "game": "K.O.",
+            "ability": "Rotating neck",
+            "level": "15",
+            "series": "2",
+            "number": "31",
+            "description": "Moves his head to the rhythm of any music."
+        }, {
+            "name": "Popo",
+            "skip-color": 3,
+            "game": "Bowling",
+            "ability": "Lucky star",
+            "level": "12",
+            "series": "2",
+            "number": "32",
+            "description": "Doesn&#039;t like too many bumps but with his lucky star he is a very skilful player."
+        }, {
+            "name": "Imooki",
+            "skip-color": 1,
+            "game": "Basket",
+            "ability": "Voice recorder",
+            "level": "11",
+            "series": "2",
+            "number": "33",
+            "description": "A voice in his earphones tells him the rules of every game. He&#039;s got such a terrible memory."
+        }, {
+            "name": "Jezo",
+            "skip-color": 4,
+            "game": "Battle",
+            "ability": "Macromodesty",
+            "level": "6",
+            "series": "2",
+            "number": "34",
+            "description": "A long losing streak has made this once confident Gogo suddenly very modest."
+        }, {
+            "name": "Sumi",
+            "skip-color": 4,
+            "game": "Scoring",
+            "ability": "Hugs",
+            "level": "13",
+            "series": "2",
+            "number": "35",
+            "description": "Full of encouragement. Sumi welcomes everyone with open arms."
+        }, {
+            "name": "Shoon",
+            "skip-color": 1,
+            "game": "On Line",
+            "ability": "Speed bumps",
+            "level": "10",
+            "series": "2",
+            "number": "36",
+            "description": "Evolution has made him safety conscious. He likes to slow everyone down."
+        }, {
+            "name": "Sunok",
+            "skip-color": 3,
+            "game": "Bowling",
+            "ability": "Positivity",
+            "level": "8",
+            "series": "2",
+            "number": "37",
+            "description": "Optimist, happy and calm. Everything in his life is absolutely OK."
+        }, {
+            "name": "Fizer",
+            "skip-color": 1,
+            "game": "Basket",
+            "ability": "Ultimate countdown",
+            "level": "7",
+            "series": "2",
+            "number": "38",
+            "description": "Always ready to get the games started."
+        }, {
+            "name": "Gar-Gar",
+            "skip-color": 4,
+            "game": "Basket",
+            "ability": "Galactic tourist",
+            "level": "12",
+            "series": "2",
+            "number": "39",
+            "description": "Founder of the Gogo&#039;s Aerospace Association. Always searching for new horizons."
+        }, {
+            "name": "Hayori",
+            "skip-color": 2,
+            "game": "Basket",
+            "ability": "Hair styling",
+            "level": "4",
+            "series": "2",
+            "number": "40",
+            "description": "Evolution hasn&#039;t changed her vanity. Her hair must always be perfect."
+        }, {
+            "name": "Migu",
+            "skip-color": 1,
+            "game": "K.O.",
+            "ability": "Object thrower",
+            "level": "8",
+            "series": "2",
+            "number": "41",
+            "description": "The tough guy in the troop. He can throw a Gogo higher than anyone else."
+        }, {
+            "name": "Jitty",
+            "skip-color": 1,
+            "game": "In flight",
+            "ability": "Cooling ears",
+            "level": "11",
+            "series": "2",
+            "number": "42",
+            "description": "Keeps himself cool by flapping his big ears."
+        }, {
+            "name": "Velop",
+            "skip-color": 1,
+            "game": "On Line",
+            "ability": "Speed gun",
+            "level": "9",
+            "series": "2",
+            "number": "43",
+            "description": "He can measure his speed and that of any approaching Gogo."
+        }, {
+            "name": "Trike",
+            "skip-color": 4,
+            "game": "Battle",
+            "ability": "Crushing hands",
+            "level": "10",
+            "series": "2",
+            "number": "44",
+            "description": "Very happy with his evolution. He has great pride in himself."
+        }, {
+            "name": "Boki",
+            "skip-color": 2,
+            "game": "Basket",
+            "ability": "Potbellied punctuality",
+            "level": "10",
+            "series": "2",
+            "number": "45",
+            "description": "A big tummy and a big appetite. This is one Gogo who is always on time for a meal."
+        }, {
+            "name": "Chimu",
+            "skip-color": 3,
+            "game": "On Line",
+            "ability": "Rubber Stop",
+            "level": "6",
+            "series": "2",
+            "number": "46",
+            "description": "Never afraid to get hurt. This is one Gogo who is ready for any daring challenge."
+        }, {
+            "name": "Duop",
+            "skip-color": 1,
+            "game": "Bowling",
+            "ability": "Two-Face",
+            "level": "5",
+            "series": "2",
+            "number": "47",
+            "description": "A real split personality. You&#039;d better be careful with how much you trust him."
+        }, {
+            "name": "Tubor",
+            "skip-color": 4,
+            "game": "On Line",
+            "ability": "Hyper Attention",
+            "level": "7",
+            "series": "2",
+            "number": "48",
+            "description": "Always alert and always aware. His senses are even higher when he sleeps."
+        }, {
+            "name": "Cupix",
+            "skip-color": 2,
+            "game": "K.O.",
+            "ability": "Game Player",
+            "level": "8",
+            "series": "2",
+            "number": "49",
+            "description": "Uses his screen-face to play Gogo-games with his friends."
+        }, {
+            "name": "B-Kori",
+            "skip-color": 5,
+            "game": "Battle",
+            "ability": "Makes friends",
+            "level": "7",
+            "series": "2",
+            "number": "50",
+            "description": "He&#039;s so friendly that his horns don&#039;t scare anybody."
+        }, {
+            "name": "Crooki",
+            "skip-color": 3,
+            "game": "Scoring",
+            "ability": "Electro-smile",
+            "level": "6",
+            "series": "2",
+            "number": "51",
+            "description": "An electric shock has left him fully charged."
+        }, {
+            "name": "Fuso",
+            "skip-color": 1,
+            "game": "Scoring",
+            "ability": "Music fever",
+            "level": "6",
+            "series": "2",
+            "number": "52",
+            "description": "A wild dancer. He makes moves that others couldn&#039;t even imagine."
+        }, {
+            "name": "Egor",
+            "skip-color": 4,
+            "game": "Basket",
+            "ability": "Ultimate eating",
+            "level": "7",
+            "series": "2",
+            "number": "53",
+            "description": "The hungriest Gogo of all. Keeps his mouth wide open for instant snacking."
+        }, {
+            "name": "Tari",
+            "skip-color": 2,
+            "game": "K.O.",
+            "ability": "Bionic eye",
+            "level": "9",
+            "series": "2",
+            "number": "54",
+            "description": "Never play hide and seek with Taki. He wins every time."
+        }, {
+            "name": "E-Flo",
+            "skip-color": 5,
+            "game": "K.O.",
+            "ability": "Exploration",
+            "level": "10",
+            "series": "2",
+            "number": "55",
+            "description": "This Gogo loves nature, wildlife and outdoor adventures."
+        }, {
+            "name": "Balu",
+            "skip-color": 3,
+            "game": "Basket",
+            "ability": "Explosive rivalry",
+            "level": "6",
+            "series": "2",
+            "number": "56",
+            "description": "He&#039;s fascinated with head-to-head challenges. A real thrill seeker."
+        }, {
+            "name": "Yonozi",
+            "skip-color": 1,
+            "game": "K.O.",
+            "ability": "Organisation",
+            "level": "7",
+            "series": "2",
+            "number": "57",
+            "description": "Likes to get everything arranged in perfect order. Every detail is double checked."
+        }, {
+            "name": "Eken",
+            "skip-color": 4,
+            "game": "Basket",
+            "ability": "Solid stance",
+            "level": "8",
+            "series": "2",
+            "number": "58",
+            "description": "He&#039;s got a anti-bump position which makes him extra hard to tumble down."
+        }, {
+            "name": "Kalin",
+            "skip-color": 2,
+            "game": "In flight",
+            "ability": "Gogo",
+            "level": "13",
+            "series": "2",
+            "number": "59",
+            "description": "An important Gogo who carries news and information to the others."
+        }, {
+            "name": "Kingo",
+            "skip-color": 5,
+            "game": "Battle",
+            "ability": "Body-face",
+            "level": "6",
+            "series": "2",
+            "number": "60",
+            "description": "A body that looks like a face, a face that looks like a body... some Gogo&#039;s don&#039;t know what to make of him."
+        }, {
+            "name": "Fawa",
+            "skip-color": 1,
+            "game": "K.O.",
+            "ability": "Photographic vision",
+            "level": "6",
+            "series": "2",
+            "number": "61",
+            "description": "The official photographer. Always ready to capture a key moment."
+        }, {
+            "name": "Fantu",
+            "skip-color": 3,
+            "game": "Basket",
+            "ability": "Restless eye",
+            "level": "3",
+            "series": "2",
+            "number": "62",
+            "description": "When it&#039;s time for him to play, he&#039;s so happy that his eye starts dancing."
+        }, {
+            "name": "Tucor",
+            "skip-color": 3,
+            "game": "K.O.",
+            "ability": "Grumpy smiles",
+            "level": "8",
+            "series": "2",
+            "number": "63",
+            "description": "A sore loser but really he has a kind heart."
+        }, {
+            "name": "Sut",
+            "skip-color": 2,
+            "game": "In flight",
+            "ability": "Zombie trance",
+            "level": "9",
+            "series": "2",
+            "number": "64",
+            "description": "Sometimes he walks like a zombie. Sleeping problems maybe?"
+        }, {
+            "name": "Taki",
+            "skip-color": 1,
+            "game": "On Line",
+            "ability": "Canine sense of smell",
+            "level": "10",
+            "series": "2",
+            "number": "65",
+            "description": "Covers his eyes to train his sense of smell, he&#039;s always right!"
+        }, {
+            "name": "Skimy",
+            "skip-color": 4,
+            "game": "K.O.",
+            "ability": "Happy smile",
+            "level": "14",
+            "series": "2",
+            "number": "66",
+            "description": "He just wants to play games all day long. Never too tired to play."
+        }, {
+            "name": "Kam",
+            "skip-color": 2,
+            "game": "Scoring",
+            "ability": "Musical ear",
+            "level": "7",
+            "series": "2",
+            "number": "67",
+            "description": "Obsessed with his music. Talk loudly if you want his attention."
+        }, {
+            "name": "Flick",
+            "skip-color": 4,
+            "game": "In flight",
+            "ability": "Hypnosis",
+            "level": "9",
+            "series": "2",
+            "number": "68",
+            "description": "It&#039;s impossible to knock him down if you look straight into his eyes."
+        }, {
+            "name": "Sip",
+            "skip-color": 3,
+            "game": "Bowling",
+            "ability": "Hitting the target",
+            "level": "6",
+            "series": "2",
+            "number": "69",
+            "description": "Looks like he has bad eyesight but his aim is perfect every time."
+        }, {
+            "name": "Triku",
+            "skip-color": 1,
+            "game": "Bowling",
+            "ability": "Triple vision",
+            "level": "7",
+            "series": "2",
+            "number": "70",
+            "description": "Pays good attention to the game... from the front, left and right."
+        }, {
+            "name": "Mizu",
+            "skip-color": 4,
+            "game": "On Line",
+            "ability": "Mizu Straight throw",
+            "level": "7",
+            "series": "2",
+            "number": "71",
+            "description": "Locks the target with his eyes and fires straight down the middle."
+        }, {
+            "name": "Vatco",
+            "skip-color": 4,
+            "game": "Battle",
+            "ability": "Unknown appetite",
+            "level": "10",
+            "series": "2",
+            "number": "72",
+            "description": "Wants to eat something... but doesn&#039;t know what."
+        }, {
+            "name": "Maka",
+            "skip-color": 4,
+            "game": "Scoring",
+            "ability": "Paints clouds",
+            "level": "14",
+            "series": "2",
+            "number": "73",
+            "description": "A true individual. Happy with his unusual looks."
+        }, {
+            "name": "Femo",
+            "skip-color": 1,
+            "game": "Scoring",
+            "ability": "UFO Detector",
+            "level": "13",
+            "series": "2",
+            "number": "74",
+            "description": "He can&#039;t wait to join GAR-GAR&#039;s Aerospace Association"
+        }, {
+            "name": "Cruser",
+            "skip-color": 5,
+            "game": "Scoring",
+            "ability": "Transparent magic tricks",
+            "level": "8",
+            "series": "2",
+            "number": "75",
+            "description": "Performs great magic tricks, even though he can&#039;t hide anything!"
+        }, {
+            "name": "Misori",
+            "skip-color": 4,
+            "game": "Scoring",
+            "ability": "Ear-Antenna",
+            "level": "9",
+            "series": "2",
+            "number": "76",
+            "description": "Lacking in confidence but always plays better than expected."
+        }, {
+            "name": "Zuy",
+            "skip-color": 5,
+            "game": "K.O.",
+            "ability": "Winning spirit",
+            "level": "11",
+            "series": "2",
+            "number": "77",
+            "description": "He thinks that he&#039;ll win every game... unfortunately, he suffers a lot of disappointment."
+        }, {
+            "name": "Tin-Chu",
+            "skip-color": 1,
+            "game": "Battle",
+            "ability": "Tin-Chu Chop",
+            "level": "6",
+            "series": "2",
+            "number": "78",
+            "description": "Always proposing some foul play. Loves wrestling."
+        }, {
+            "name": "Snok",
+            "skip-color": 4,
+            "game": "Bowling",
+            "ability": "Deep breathing",
+            "level": "12",
+            "series": "2",
+            "number": "79",
+            "description": "Spends long hours under water. Everybody goes crazy looking for him."
+        }, {
+            "name": "Kivu",
+            "skip-color": 2,
+            "game": "In flight",
+            "ability": "Concentration",
+            "level": "11",
+            "series": "2",
+            "number": "80",
+            "description": "Carefully concentrates his thoughts before any attack."
+        }, {
+            "name": "Fantic",
+            "game": "",
+            "ability": "",
+            "level": "",
+            "series": "le",
+            "number": "1",
+            "skip-color": 5
+        }, {
+            "name": "Gibly",
+            "game": "",
+            "ability": "",
+            "level": "",
+            "series": "le",
+            "number": "2",
+            "skip-color": 2
+        }, {
+            "name": "Haro",
+            "game": "",
+            "ability": "",
+            "level": "",
+            "series": "le",
+            "number": "3",
+            "skip-color": 3
+        }, {
+            "name": "Badcat",
+            "game": "",
+            "ability": "",
+            "level": "",
+            "series": "le",
+            "number": "4",
+            "skip-color": 4
+        }, {
+            "name": "UFO",
+            "game": "",
+            "ability": "",
+            "level": "",
+            "series": "le",
+            "number": "5",
+            "skip-color": 2
+        }, {
+            "name": "Titan",
+            "game": "",
+            "ability": "",
+            "level": "",
+            "series": "le",
+            "number": "6",
+            "skip-color": 1
+        }, {
+            "name": "Pow",
+            "game": "",
+            "ability": "",
+            "level": "",
+            "series": "le",
+            "number": "7",
+            "skip-color": 1
+        }, {
+            "name": "Tiko",
+            "game": "",
+            "ability": "",
+            "level": "",
+            "series": "le",
+            "number": "8",
+            "skip-color": 2
+        }, {
+            "name": "Kemo",
+            "game": "",
+            "ability": "",
+            "level": "",
+            "series": "le",
+            "number": "9",
+            "skip-color": 1
+        }, {
+            "name": "Totem",
+            "game": "",
+            "ability": "",
+            "level": "",
+            "series": "le",
+            "number": "10",
+            "skip-color": 3
+        }, {
+            "name": "Gold Mosh",
+            "game": "",
+            "ability": "",
+            "level": "",
+            "series": "gs1",
+            "number": "11",
+            "description": "",
+            "colorCount": 1
+        }, {
+            "name": "Gold Nasako",
+            "game": "",
+            "ability": "",
+            "level": "",
+            "series": "gs1",
+            "number": "12",
+            "description": "",
+            "colorCount": 1
+        }, {
+            "name": "Gold Sato",
+            "game": "",
+            "ability": "",
+            "level": "",
+            "series": "gs1",
+            "number": "13",
+            "description": "",
+            "colorCount": 1
+        }, {
+            "name": "Gold Molly",
+            "game": "",
+            "ability": "",
+            "level": "",
+            "series": "gs1",
+            "number": "14",
+            "description": "",
+            "colorCount": 1
+        }, {
+            "name": "Gold Hiroki",
+            "game": "",
+            "ability": "",
+            "level": "",
+            "series": "gs1",
+            "number": "15",
+            "description": "",
+            "colorCount": 1
+        }, {
+            "name": "Gold Lessei",
+            "game": "",
+            "ability": "",
+            "level": "",
+            "series": "gs1",
+            "number": "16",
+            "description": "",
+            "colorCount": 1
+        }, {
+            "name": "Gold Boki",
+            "game": "",
+            "ability": "",
+            "level": "",
+            "series": "gs1",
+            "number": "17",
+            "description": "",
+            "colorCount": 1
+        }, {
+            "name": "Gold Targy",
+            "game": "",
+            "ability": "",
+            "level": "",
+            "series": "gs1",
+            "number": "18",
+            "description": "",
+            "colorCount": 1
+        }, {
+            "name": "Gold Gondo",
+            "game": "",
+            "ability": "",
+            "level": "",
+            "series": "gs1",
+            "number": "19",
+            "description": "",
+            "colorCount": 1
+        }, {
+            "name": "Gold Jato",
+            "game": "",
+            "ability": "",
+            "level": "",
+            "series": "gs1",
+            "number": "20",
+            "description": "",
+            "colorCount": 1
+        }, {
+            "name": "Gold Helly",
+            "game": "",
+            "ability": "",
+            "level": "",
+            "series": "gs2",
+            "number": "21",
+            "description": "",
+            "colorCount": 1
+        }, {
+            "name": "Gold Umu",
+            "game": "",
+            "ability": "",
+            "level": "",
+            "series": "gs2",
+            "number": "22",
+            "description": "",
+            "colorCount": 1
+        }, {
+            "name": "Gold Ichiro",
+            "game": "",
+            "ability": "",
+            "level": "",
+            "series": "gs2",
+            "number": "23",
+            "description": "",
+            "colorCount": 1
+        }, {
+            "name": "Gold Hiraku",
+            "game": "",
+            "ability": "",
+            "level": "",
+            "series": "gs2",
+            "number": "24",
+            "description": "",
+            "colorCount": 1
+        }, {
+            "name": "Gold Frug-w",
+            "game": "",
+            "ability": "",
+            "level": "",
+            "series": "gs2",
+            "number": "25",
+            "description": "",
+            "colorCount": 1
+        }, {
+            "name": "Gold Forolin",
+            "game": "",
+            "ability": "",
+            "level": "",
+            "series": "gs2",
+            "number": "26",
+            "description": "",
+            "colorCount": 1
+        }, {
+            "name": "Gold Hilbo",
+            "game": "",
+            "ability": "",
+            "level": "",
+            "series": "gs2",
+            "number": "27",
+            "description": "",
+            "colorCount": 1
+        }, {
+            "name": "Gold Mori",
+            "game": "",
+            "ability": "",
+            "level": "",
+            "series": "gs2",
+            "number": "28",
+            "description": "",
+            "colorCount": 1
+        }, {
+            "name": "Gold Diro",
+            "game": "",
+            "ability": "",
+            "level": "",
+            "series": "gs2",
+            "number": "29",
+            "description": "",
+            "colorCount": 1
+        }, {
+            "name": "Gold Ilo",
+            "game": "",
+            "ability": "",
+            "level": "",
+            "series": "gs2",
+            "number": "30",
+            "description": "",
+            "colorCount": 1
+        }, {
+            "name": "Miro-K",
+            "game": "",
+            "ability": "",
+            "level": "",
+            "series": "wle",
+            "number": "31",
+            "description": "An expert survivalist and noble ancient, Miro-K&#039;s masked visage beams wisdom and strength. One of the few remaining ancient Gogo&#039;s, he has re-emerged to unite all the Gogo clans.",
+            "colorCount": 1
+        }, {
+            "name": "Flamer",
+            "game": "Basket",
+            "ability": "Chimney mouth",
+            "level": "",
+            "series": "3",
+            "number": "1",
+            "skip-color": 2,
+            "description": "Keeps the other Gogos warm, even in the coldest places."
+        }, {
+            "name": "Eydo",
+            "game": "In flight",
+            "ability": "Dodges looks",
+            "level": "",
+            "series": "3",
+            "number": "2",
+            "skip-color": 1,
+            "description": "Hides amongst the shadows and discovers secret places."
+        }, {
+            "name": "Tivi",
+            "game": "Scoring",
+            "ability": "Screen jumping",
+            "level": "",
+            "series": "3",
+            "number": "3",
+            "skip-color": 3,
+            "description": "King of the Virtual World – can master a whole load of videogames."
+        }, {
+            "name": "Xar",
+            "game": "On line",
+            "ability": "Water jokes",
+            "level": "",
+            "series": "3",
+            "number": "4",
+            "skip-color": 2,
+            "description": "Goes under water and has the fish laughing their heads off."
+        }, {
+            "name": "Raylo",
+            "game": "Battle",
+            "ability": "Walks through storms",
+            "level": "",
+            "series": "3",
+            "number": "5",
+            "skip-color": 4,
+            "description": "Can find its way around, even if it&#039;s pouring with rain."
+        }, {
+            "name": "Tork",
+            "game": "Bowling",
+            "ability": "Road runner",
+            "level": "",
+            "series": "3",
+            "number": "6",
+            "skip-color": 2,
+            "description": "Speed and urban sports are its thing. Rollers, skateboards and bikes."
+        }, {
+            "name": "Birtu",
+            "game": "In flight",
+            "ability": "Birdsong ",
+            "level": "",
+            "series": "3",
+            "number": "7",
+            "skip-color": 3,
+            "description": "Always dreaming up in the trees with the birds, letting its imagination fly."
+        }, {
+            "name": "Mo",
+            "game": "Bowling",
+            "ability": "Energetic Eating",
+            "level": "",
+            "series": "3",
+            "number": "8",
+            "skip-color": 1,
+            "description": "Never stops eating, but always keeps fit : Joins every expedition!"
+        }, {
+            "name": "Zhip",
+            "game": "Scoring",
+            "ability": "Opens everything",
+            "level": "",
+            "series": "3",
+            "number": "9",
+            "skip-color": 1,
+            "description": "Has the ability to open just about anything. A popular companion on Gogo expeditions."
+        }, {
+            "name": "Onikaso",
+            "game": "Bowling",
+            "ability": "Opposite views",
+            "level": "",
+            "series": "3",
+            "number": "10",
+            "skip-color": 3,
+            "description": "Never agrees with the routes Eitor proposes, but always tags along."
+        }, {
+            "name": "Fanbon",
+            "game": "Scoring",
+            "ability": "Happy music",
+            "level": "",
+            "series": "3",
+            "number": "11",
+            "skip-color": 4,
+            "description": "Likes to appear suddenly in the most unexpected places, like a ghost."
+        }, {
+            "name": "Jampa Jampa",
+            "game": "Bowling",
+            "ability": "High jump",
+            "level": "",
+            "series": "3",
+            "number": "12",
+            "skip-color": 1,
+            "description": "Chooses upward paths, so that it can jump along the route."
+        }, {
+            "name": "Lunino",
+            "game": "In flight",
+            "ability": "Double vision",
+            "level": "",
+            "series": "3",
+            "number": "13",
+            "skip-color": 2,
+            "description": "Gets its bearings easily as it has one eye on each side. That&#039;s a real advantage!"
+        }, {
+            "name": "Kato",
+            "game": "Bowling",
+            "ability": "Safe destination",
+            "level": "",
+            "series": "3",
+            "number": "14",
+            "skip-color": 4,
+            "description": "Always seems to pick the best routes. A leader for many Gogo&#039;s."
+        }, {
+            "name": "Boox",
+            "game": "Scoring",
+            "ability": "Square head",
+            "level": "",
+            "series": "3",
+            "number": "15",
+            "skip-color": 4,
+            "description": "Specialises in river crossings, but has also crossed deserts. Wow!"
+        }, {
+            "name": "Saileen",
+            "game": "Bowling",
+            "ability": "Fantasy",
+            "level": "",
+            "series": "3",
+            "number": "16",
+            "skip-color": 3,
+            "description": "Dreams that it is a drop of water that has evaporated and is floating among the clouds."
+        }, {
+            "name": "Harty",
+            "game": "Scoring",
+            "ability": "Antenna head",
+            "level": "",
+            "series": "3",
+            "number": "17",
+            "skip-color": 2,
+            "description": "Its heart beats each time it discovers a new place."
+        }, {
+            "name": "Jaha",
+            "game": "Bowling",
+            "ability": "Gets lost",
+            "level": "",
+            "series": "3",
+            "number": "18",
+            "skip-color": 2,
+            "description": "Gets lost a hundred times, but is always in a good mood."
+        }, {
+            "name": "Shebot",
+            "game": "Bowling",
+            "ability": "Heat resistant",
+            "level": "",
+            "series": "3",
+            "number": "19",
+            "skip-color": 4,
+            "description": "Thanks to its special suit, it can go into really hot caves."
+        }, {
+            "name": "Offon",
+            "game": "Scoring",
+            "ability": "Extra-Power",
+            "level": "",
+            "series": "3",
+            "number": "20",
+            "skip-color": 1,
+            "description": "Doesn&#039;t rest or stop, just keeps on going."
+        }, {
+            "name": "Solfer",
+            "game": "Bowling",
+            "ability": "Songwriting",
+            "level": "",
+            "series": "3",
+            "number": "21",
+            "skip-color": 2,
+            "description": "It makes up a song every time it visits a new place."
+        }, {
+            "name": "Mechi",
+            "game": "K.O.",
+            "ability": "Key Master",
+            "level": "",
+            "series": "3",
+            "number": "22",
+            "skip-color": 3,
+            "description": "Very laid back and a good handyman; able to repair everything."
+        }, {
+            "name": "Enko",
+            "game": "Basket",
+            "ability": "Camouflage",
+            "level": "",
+            "series": "3",
+            "number": "23",
+            "skip-color": 1,
+            "description": "If it doesn&#039;t want to be seen, it takes off its glasses and wears a mask."
+        }, {
+            "name": "Mr. Capi",
+            "game": "Battle",
+            "ability": "Daring decisions",
+            "level": "",
+            "series": "3",
+            "number": "24",
+            "skip-color": 4,
+            "description": "If there&#039;s a new place to explore, it&#039;s the first to step forward."
+        }, {
+            "name": "Amy Nicai",
+            "game": "In flight",
+            "ability": "Dreaming",
+            "level": "",
+            "series": "3",
+            "number": "25",
+            "skip-color": 2,
+            "description": "Closes its eyes slowly and floats away in a dream."
+        }, {
+            "name": "Losty",
+            "game": "Basket",
+            "ability": "Random return",
+            "level": "",
+            "series": "3",
+            "number": "26",
+            "skip-color": 4,
+            "description": "Never remembers the way it came, and has to look for the return route."
+        }, {
+            "name": "RC-K8",
+            "game": "In flight",
+            "ability": "K8+ drive",
+            "level": "",
+            "series": "3",
+            "number": "27",
+            "skip-color": 4,
+            "description": "Slides along really fast, and when it comes across an obstacle, it has to stop and use its aerial drive."
+        }, {
+            "name": "Zabrisky",
+            "game": "On line",
+            "ability": "Great experience",
+            "level": "",
+            "series": "3",
+            "number": "28",
+            "skip-color": 1,
+            "description": "Has been travelling for a long time, particularly by train and knows all the routes."
+        }, {
+            "name": "Oibel",
+            "game": "Battle",
+            "ability": "Punctuality",
+            "level": "",
+            "series": "3",
+            "number": "29",
+            "skip-color": 3,
+            "description": "Different to all the others, it always travels by car and always arrives on time."
+        }, {
+            "name": "Switel",
+            "game": "Battle",
+            "ability": "Shouts loudly",
+            "level": "",
+            "series": "3",
+            "number": "30",
+            "skip-color": 1,
+            "description": "Often loses the group and has to shout loudly to find them."
+        }, {
+            "name": "Scamy",
+            "game": "On line",
+            "ability": "Talks to fish",
+            "level": "",
+            "series": "3",
+            "number": "31",
+            "skip-color": 1,
+            "description": "Spends so much time in the water, that when it comes out, it has to shout “Wait for me!”"
+        }, {
+            "name": "Tar-Tar",
+            "game": "Battle",
+            "ability": "Bravery",
+            "level": "",
+            "series": "3",
+            "number": "32",
+            "skip-color": 3,
+            "description": "Tries to avoid danger so that it can keep on going and travel far."
+        }, {
+            "name": "Flycat",
+            "game": "In flight",
+            "ability": "Enchants butterflies",
+            "level": "",
+            "series": "3",
+            "number": "33",
+            "skip-color": 4,
+            "description": "Butterfly wizard. The butterflies guide it to some amazing places."
+        }, {
+            "name": "Fishino",
+            "game": "On line",
+            "ability": "Cat reflexes",
+            "level": "",
+            "series": "3",
+            "number": "34",
+            "skip-color": 2,
+            "description": "Loves fish, but hates putting its feet in water...even when wearing boots!"
+        }, {
+            "name": "Sarp",
+            "game": "Battle",
+            "ability": "Mysterious secret",
+            "level": "",
+            "series": "3",
+            "number": "35",
+            "skip-color": 1,
+            "description": "Silent and solitary. Accompanies the others, even though they can hardly see it."
+        }, {
+            "name": "Lasly",
+            "game": "K.O.",
+            "ability": "Romantic explorer",
+            "level": "",
+            "series": "3",
+            "number": "36",
+            "skip-color": 4,
+            "description": "Loves the small details in every place."
+        }, {
+            "name": "Lups",
+            "game": "On line",
+            "ability": "Swift sense of smell",
+            "level": "",
+            "series": "3",
+            "number": "37",
+            "skip-color": 3,
+            "description": "Runs around everywhere. Is really fast and can sniff out even the most difficult track to follow."
+        }, {
+            "name": "Dumdum",
+            "game": "Basket",
+            "ability": "Eats peanuts",
+            "level": "",
+            "series": "3",
+            "number": "38",
+            "skip-color": 2,
+            "description": "Likes to be the biggest Gogo, so that it can take giant strides."
+        }, {
+            "name": "Giro",
+            "game": "In flight",
+            "ability": "Leaves footprints",
+            "level": "",
+            "series": "3",
+            "number": "39",
+            "skip-color": 2,
+            "description": "Although it flies, it loves leaving footprints everywhere it goes."
+        }, {
+            "name": "Artix",
+            "game": "On line",
+            "ability": "Joke artist",
+            "level": "",
+            "series": "3",
+            "number": "40",
+            "skip-color": 1,
+            "description": "Travels to art museums and plays standing statues so that visitors look at it."
+        }, {
+            "name": "Uzzle",
+            "game": "In flight",
+            "ability": "Puzzle cracker",
+            "level": "",
+            "series": "3",
+            "number": "41",
+            "skip-color": 3,
+            "description": "Fits in everywhere and is missed when it&#039;s not around."
+        }, {
+            "name": "Gor",
+            "game": "K.O.",
+            "ability": "Strong arm",
+            "level": "",
+            "series": "3",
+            "number": "42",
+            "skip-color": 1,
+            "description": "Big and strong, but its slippery body can slip through small spaces."
+        }, {
+            "name": "Starfu",
+            "game": "K.O.",
+            "ability": "Night explorer",
+            "level": "",
+            "series": "3",
+            "number": "43",
+            "skip-color": 2,
+            "description": "Although it&#039;s scared of exploring in the dark, it can see better at night."
+        }, {
+            "name": "Lampetti",
+            "game": "Bowling",
+            "ability": "Bright light",
+            "level": "",
+            "series": "3",
+            "number": "44",
+            "skip-color": 1,
+            "description": "Long-lasting and low consumption light: the ideal companion for inspecting dark places."
+        }, {
+            "name": "Chenko",
+            "game": "Battle",
+            "ability": "Chenko march",
+            "level": "",
+            "series": "3",
+            "number": "45",
+            "skip-color": 3,
+            "description": "Walks firmly and steadily, at a good pace."
+        }, {
+            "name": "Eitor",
+            "game": "Scoring",
+            "ability": "Explorer memory",
+            "level": "",
+            "series": "3",
+            "number": "46",
+            "skip-color": 3,
+            "description": "Remembers thousands of places, but finds it hard to locate them."
+        }, {
+            "name": "Moky",
+            "game": "Scoring",
+            "ability": "Subtle joker",
+            "level": "",
+            "series": "3",
+            "number": "47",
+            "skip-color": 2,
+            "description": "Likes to play jokes on others, but doesn&#039;t go too far."
+        }, {
+            "name": "Hilbo",
+            "game": "In flight",
+            "ability": "Cookie cravings",
+            "level": "",
+            "series": "3",
+            "number": "48",
+            "skip-color": 2,
+            "description": "Always advises his friends to have a good breakfast before setting out to explore."
+        }, {
+            "name": "Din-Awa",
+            "game": "Battle",
+            "ability": "Happy route",
+            "level": "",
+            "series": "3",
+            "number": "49",
+            "skip-color": 3,
+            "description": "Is always excited, wherever it goes."
+        }, {
+            "name": "Chatt",
+            "game": "Basket",
+            "ability": "Breaks the silence",
+            "level": "",
+            "series": "3",
+            "number": "50",
+            "skip-color": 3,
+            "description": "Doesn&#039;t stop talking the whole way. Some Gogos complain, but nobody gets bored."
+        }, {
+            "name": "Clappy",
+            "game": "On line",
+            "ability": "Quick hands",
+            "level": "",
+            "series": "3",
+            "number": "51",
+            "skip-color": 4,
+            "description": "Wants to touch everything, and when it reaches a new place, it starts to clap."
+        }, {
+            "name": "Lucky Rab",
+            "game": "On line",
+            "ability": "Very lucky",
+            "level": "",
+            "series": "3",
+            "number": "52",
+            "skip-color": 3,
+            "description": "Maybe its just luck, but this Gogo never has any problems and everything always goes well."
+        }, {
+            "name": "Whas",
+            "game": "Basket",
+            "ability": "Detects surprises",
+            "level": "",
+            "series": "3",
+            "number": "53",
+            "skip-color": 4,
+            "description": "Advises other Gogos when there is any danger or when it sees something interesting to explore."
+        }, {
+            "name": "Kichi",
+            "game": "Scoring",
+            "ability": "Sucks sweets",
+            "level": "",
+            "series": "3",
+            "number": "54",
+            "skip-color": 1,
+            "description": "Loves sweets. If it finds one, it forgets about everything else."
+        }, {
+            "name": "Starboro",
+            "game": "On line",
+            "ability": "Guiding star",
+            "level": "",
+            "series": "3",
+            "number": "55",
+            "skip-color": 1,
+            "description": "Can be seen easily from many places, and can be followed from far away."
+        }, {
+            "name": "Zatocat",
+            "game": "On line",
+            "ability": "Detects danger",
+            "level": "",
+            "series": "3",
+            "number": "56",
+            "skip-color": 2,
+            "description": "Has a special sense for detecting any dangers ahead."
+        }, {
+            "name": "Mori",
+            "game": "Basket",
+            "ability": "Ground strength",
+            "level": "",
+            "series": "3",
+            "number": "57",
+            "skip-color": 2,
+            "description": "Very strong when seated, and has already saved several Gogos from trouble!"
+        }, {
+            "name": "Yimo",
+            "game": "K.O.",
+            "ability": "Winking eye",
+            "level": "",
+            "series": "3",
+            "number": "58",
+            "skip-color": 4,
+            "description": "Loves finding places where it can rest quietly."
+        }, {
+            "name": "Ufor",
+            "game": "In flight",
+            "ability": "Appears suddenly",
+            "level": "",
+            "series": "3",
+            "number": "59",
+            "skip-color": 1,
+            "description": "Nobody knows where it comes from, but it is always keen to join every adventure."
+        }, {
+            "name": "Comco",
+            "game": "K.O.",
+            "ability": "Tests games",
+            "level": "",
+            "series": "3",
+            "number": "60",
+            "skip-color": 3,
+            "description": "One of Tivi&#039;s good friends. They spend the whole day playing together."
+        }, {
+            "name": "Doc Spavilander",
+            "game": "Basket",
+            "ability": "Investigation",
+            "level": "",
+            "series": "3",
+            "number": "61",
+            "skip-color": 3,
+            "description": "After years of searching, it has found its favourite exploration site: the laboratory."
+        }, {
+            "name": "Targy",
+            "game": "Basket",
+            "ability": "Easy target",
+            "level": "",
+            "series": "3",
+            "number": "62",
+            "skip-color": 2,
+            "description": "Likes to get to the front of the queue and give the other Gogos something to aim for."
+        }, {
+            "name": "Champer",
+            "game": "Bowling",
+            "ability": "Mushroom camouflage",
+            "level": "",
+            "series": "3",
+            "number": "63",
+            "skip-color": 2,
+            "description": "Loves getting lost in the corners of the forest."
+        }, {
+            "name": "Block",
+            "game": "Scoring",
+            "ability": "Location glasses",
+            "level": "",
+            "series": "3",
+            "number": "64",
+            "skip-color": 4,
+            "description": "If Eitor sends it correct information, it can find anything straight away."
+        }, {
+            "name": "Jowa",
+            "game": "Basket",
+            "ability": "Caring",
+            "level": "",
+            "series": "3",
+            "number": "65",
+            "skip-color": 1,
+            "description": "Very caring. Popular with everyone. "
+        }, {
+            "name": "Divel",
+            "game": "In flight",
+            "ability": "Skateboarding",
+            "level": "",
+            "series": "3",
+            "number": "66",
+            "skip-color": 2,
+            "description": "Bit of an urban hooligan. Even better at skating than Tork."
+        }, {
+            "name": "Doot",
+            "game": "Scoring",
+            "ability": "Board games",
+            "level": "",
+            "series": "3",
+            "number": "67",
+            "skip-color": 1,
+            "description": "Always goes to the most curious and amazing places."
+        }, {
+            "name": "Numbar",
+            "game": "Basket",
+            "ability": "Key code",
+            "level": "",
+            "series": "3",
+            "number": "68",
+            "skip-color": 1,
+            "description": "Has an exploration code that hardly anyone can break. "
+        }, {
+            "name": "Jato",
+            "game": "Battle",
+            "ability": "Runs in straight lines",
+            "level": "",
+            "series": "3",
+            "number": "69",
+            "skip-color": 1,
+            "description": "If the route is a straight line, this Gogo is the best."
+        }, {
+            "name": "Wolo",
+            "game": "K.O.",
+            "ability": "Gets seasick",
+            "level": "",
+            "series": "3",
+            "number": "70",
+            "skip-color": 1,
+            "description": "A little bit strange, because although it gets seasick, it loves travelling by boat."
+        }, {
+            "name": "Linjat",
+            "game": "K.O.",
+            "ability": "Wall climbing",
+            "level": "",
+            "series": "3",
+            "number": "71",
+            "skip-color": 2,
+            "description": "Loves climbing and finds flat ground really boring."
+        }, {
+            "name": "Vladisfor",
+            "game": "On line",
+            "ability": "Plants lettuces",
+            "level": "",
+            "series": "3",
+            "number": "72",
+            "skip-color": 4,
+            "description": "Has more experience than Zabrisky and is cleverer than Doc Spavilander, but specialises in growing vegetables."
+        }, {
+            "name": "Mobot",
+            "game": "Battle",
+            "ability": "Does not rust",
+            "level": "",
+            "series": "3",
+            "number": "73",
+            "skip-color": 4,
+            "description": "Very well preserved robot that also does gymnastics."
+        }, {
+            "name": "Yucan",
+            "game": "Battle",
+            "ability": "Secret eyes",
+            "level": "",
+            "series": "3",
+            "number": "74",
+            "skip-color": 4,
+            "description": "Seems incredible, but many Gogos don&#039;t know if it has three eyes or one."
+        }, {
+            "name": "Dori Midori",
+            "game": "Bowling",
+            "ability": "GPS tummy",
+            "level": "",
+            "series": "3",
+            "number": "75",
+            "skip-color": 3,
+            "description": "Touches its tummy to memorise a place so that it can find it again later."
+        }, {
+            "name": "Gondo",
+            "game": "K.O.",
+            "ability": "Gentle whistle",
+            "level": "",
+            "series": "3",
+            "number": "76",
+            "skip-color": 3,
+            "description": "By whistling and orientating its sensitive ears, it can sense if there is any water nearby."
+        }, {
+            "name": "Min",
+            "game": "In flight",
+            "ability": "Hypnotic repair",
+            "level": "",
+            "series": "3",
+            "number": "77",
+            "skip-color": 3,
+            "description": "Can hypnotise a Gogo to stop it from feeling scared and to give it more energy."
+        }, {
+            "name": "Ghostmander",
+            "game": "In flight",
+            "ability": "Mental truth",
+            "level": "",
+            "series": "3",
+            "number": "78",
+            "skip-color": 4,
+            "description": "Concentrates a lot and is very quiet. If it ever says anything, everyone listens, because it is always right."
+        }, {
+            "name": "Plux",
+            "game": "Bowling",
+            "ability": "Indecisive",
+            "level": "",
+            "series": "3",
+            "number": "79",
+            "skip-color": 3,
+            "description": "Sometimes it can&#039;t decide, but shouts “forward” with its small mouth."
+        }, {
+            "name": "Winflag",
+            "game": "Battle",
+            "ability": "Speed radar",
+            "level": "",
+            "series": "3",
+            "number": "80",
+            "skip-color": 1,
+            "description": "Loves fast machines, like motorbikes, cars or motor boats."
+        },
+        {
+            "name": "Orro",
+            "team": "Spain (Spanje)",
+            "number": 1,
+            "role": "keeper",
+            "description": "Keep a close eye on every rush hour with his eagle eyes. Calculates the speed and trajectory of a ball in a millisecond.",
+            "ability": "eagle eye",
+            "game": "penalty",
+            "fanOf": "HIDU",
+            "powers": {
+                "first": "sprongkracht",
+                "second": "balvastheid",
+                "third": "strafschopstopper"
+            }
+        }, {
+            "name": "Cyro",
+            "team": "Spain (Spanje)",
+            "number": 2,
+            "role": "defender",
+            "description": "mainstay of keeper Orro. Forms an impenetrable block and protect the goal against the most insidious penalties",
+            "ability": "Impervious BLOCK",
+            "game": "ATTACK",
+            "fanOf": "Gule",
+            "powers": {
+                "first": "AFSTOPPEN",
+                "second": "bal veroveren",
+                "third": "TEGENAANVAL"
+            }
+        }, {
+            "name": "Pallis",
+            "team": "Spain (Spanje)",
+            "number": 3,
+            "role": "CAPTAIN",
+            "description": "As a born leader. Strict and demanding of his teammates. Executes the performance of his team to great heights.",
+            "ability": "astute LEADER",
+            "game": "penalty",
+            "fanOf": "RUGR",
+            "powers": {
+                "first": "lef",
+                "second": "MOTIVATIE",
+                "third": "LEIDERSCHAP"
+            }
+        }, {
+            "name": "Ganaz",
+            "team": "Spain (Spanje)",
+            "number": 4,
+            "role": "ATTACKER",
+            "description": "Heartwarming attacker. Often runs to the public as if everyone wants his arms close .",
+            "ability": "AUDIENCE FAVOURITE",
+            "game": "NUMBERS",
+            "fanOf": "ARGH",
+            "powers": {
+                "first": "DRIBBELEN",
+                "second": "CREATIVITEIT",
+                "third": "SCHOTKRACHT"
+            }
+        }, {
+            "name": "Barru",
+            "team": "Spain (Spanje)",
+            "number": 5,
+            "role": "LEGEND",
+            "description": "A former rugby player and football legend. His nickname is \"The Pickpocket\". He makes everybody the ball stealing.",
+            "ability": "steal",
+            "game": "GOAL GOAL 2",
+            "fanOf": "Musta",
+            "powers": {
+                "first": "BEKENDHEID",
+                "second": "INVLOED",
+                "third": "PERFECTIE"
+            }
+        }, {
+            "name": "Bombo",
+            "team": "Spain (Spanje)",
+            "number": 6,
+            "role": "SUPPORTER",
+            "description": "Football fanatic. Not miss a game. Profit or loss: he makes all the fans excited.",
+            "ability": "ENTHUSIASM",
+            "game": "GOAL GOAL 2",
+            "fanOf": "Raby",
+            "powers": {
+                "first": "GANGMAKER",
+                "second": "AANMOEDIGEN",
+                "third": "VOETBALPASSIE"
+            }
+        }, {
+            "name": "Silba",
+            "team": "Spain (Spanje)",
+            "number": 7,
+            "role": "ARBITRATION",
+            "description": "Creates a party of any race. Flute cheerful and honest.",
+            "ability": "loud buzz",
+            "game": "ATTACK",
+            "fanOf": "onca",
+            "powers": {
+                "first": "KRACHT",
+                "second": "GEZAG",
+                "third": "VASTBERADENHEID"
+            }
+        }, {
+            "name": "Bala",
+            "team": "Spain (Spanje)",
+            "number": 8,
+            "role": "FOOTBALL",
+            "description": "Ball with special effects. If he gets a kick, he goes in all directions except the side that the opponent expects.",
+            "ability": "SPECIAL EFFECTS",
+            "game": "NUMBERS",
+            "fanOf": "NICCO",
+            "powers": {
+                "first": "EFFECT",
+                "second": "SNELHEID",
+                "third": "PRECISIE"
+            }
+        }, {
+            "name": "Gaw",
+            "team": "Spain (Spanje)",
+            "number": 9,
+            "role": "COACH",
+            "description": "a nuisance by some players. Yet his yelling gets the best out of each player.",
+            "ability": "DEMANDING",
+            "game": "ATTACK",
+            "fanOf": "Baral",
+            "powers": {
+                "first": "TACTIEK",
+                "second": "TRAINING",
+                "third": "INVLOED"
+            }
+        }, {
+            "name": "Lin",
+            "team": "Spain (Spanje)",
+            "number": 10,
+            "role": "MASCOT",
+            "description": "See more quickly than other hazardous activities during the match and warned his team before.",
+            "ability": "OVERVIEW",
+            "game": "penalty",
+            "fanOf": "Zaya",
+            "powers": {
+                "first": "PLEZIER",
+                "second": "opvallend",
+                "third": "GELUKSBRENGER"
+            }
+        }, {
+            "name": "Bhau",
+            "team": "Germany (Duitsland)",
+            "number": 11,
+            "role": "keeper",
+            "description": "An angry eyes and a face of thunder is. He hunts every rush the fright.",
+            "ability": "terrify",
+            "game": "penalty",
+            "fanOf": "RAUS",
+            "powers": {
+                "first": "sprongkracht",
+                "second": "balvastheid",
+                "third": "strafschopstopper"
+            }
+        }, {
+            "name": "Raus",
+            "team": "Germany (Duitsland)",
+            "number": 12,
+            "role": "DEFENDER",
+            "description": "A wall of a player. Uses his body to throw players in the field. Only very brave opponents a chance.",
+            "ability": "NOT PASS",
+            "game": "GOAL GOAL 2",
+            "fanOf": "BHAU",
+            "powers": {
+                "first": "AFSTOPPEN",
+                "second": "BAL VEROVEREN",
+                "third": "TEGENAANVAL"
+            }
+        }, {
+            "name": "Fro-Zen",
+            "team": "Germany (Duitsland)",
+            "number": 13,
+            "role": "CAPTAIN",
+            "description": "His inspired leadership creates a determined and focused team .",
+            "ability": "unprecedented MOTIVATION",
+            "game": "NUMBERS",
+            "fanOf": "KNIN",
+            "powers": {
+                "first": "LEF",
+                "second": "MOTIVATIE",
+                "third": "LEIDERSCHAP"
+            }
+        }, {
+            "name": "Dyn",
+            "team": "Germany (Duitsland)",
+            "number": 14,
+            "role": "ATTACKER",
+            "description": "Elusive attacker. Passes unnoticed every defender. Moves so fast that her hair on fire.",
+            "ability": "LIGHTNING FAST",
+            "game": "penalty",
+            "fanOf": "LOO",
+            "powers": {
+                "first": "DRIBBELEN",
+                "second": "CREATIVITEIT",
+                "third": "SCHOTKRACHT"
+            }
+        }, {
+            "name": "Kiquen",
+            "team": "Germany (Duitsland)",
+            "number": 15,
+            "role": "LEGEND",
+            "description": "Habitually to suspend play for hours by the ball high. To the annoyance of the opponent.",
+            "ability": "ball up",
+            "game": "ATTACK",
+            "fanOf": "Milar",
+            "powers": {
+                "first": "BEKENDHEID",
+                "second": "INVLOED",
+                "third": "PERFECTIE"
+            }
+        }, {
+            "name": "Buck",
+            "team": "Germany (Duitsland)",
+            "number": 16,
+            "role": "SUPPORTER",
+            "description": "Could the outcome of a game may affect by focusing on the outcome.",
+            "ability": "Illusionist",
+            "game": "ATTACK",
+            "fanOf": "Bilin",
+            "powers": {
+                "first": "GANGMAKER",
+                "second": "AANMOEDIGEN",
+                "third": "VOETBALPASSIE"
+            }
+        }, {
+            "name": "Forf",
+            "team": "Germany (Duitsland)",
+            "number": 17,
+            "role": "divide",
+            "description": "Hank and confident. Speak to him and you get a yellow card or worse ...",
+            "ability": "HARD slice",
+            "game": "NUMBERS",
+            "fanOf": "VUVU",
+            "powers": {
+                "first": "KRACHT",
+                "second": "GEZAG",
+                "third": "VASTBERADENHEID"
+            }
+        }, {
+            "name": "Dowah",
+            "team": "Germany (Duitsland)",
+            "number": 18,
+            "role": "FOOTBALL",
+            "description": "Can themselves into multiple, smaller balls. This makes almost every keeper no chance.",
+            "ability": "Elusive",
+            "game": "penalty",
+            "fanOf": "Bonar",
+            "powers": {
+                "first": "EFFECT",
+                "second": "SNELHEID",
+                "third": "PRECISIE"
+            }
+        }, {
+            "name": "Milar",
+            "team": "Germany (Duitsland)",
+            "number": 19,
+            "role": "COACH",
+            "description": "Looks like an absent-minded scientist. Creates impressive team setups. One \"problem\": nobody understands.",
+            "ability": "GENIAL TACTICS",
+            "game": "GOAL GOAL 2",
+            "fanOf": "KIQUEN",
+            "powers": {
+                "first": "TACTIEK",
+                "second": "TRAINING",
+                "third": "INVLOED"
+            }
+        }, {
+            "name": "Lyu",
+            "team": "Germany (Duitsland)",
+            "number": 20,
+            "role": "MASCOT",
+            "description": "The symbol of perseverance and determination .",
+            "ability": "COURAGE",
+            "game": "ATTACK",
+            "fanOf": "LEFA",
+            "powers": {
+                "first": "PLEZIER",
+                "second": "OPVALLEND",
+                "third": "GELUKSBRENGER"
+            }
+        }, {
+            "name": "Ribas",
+            "team": "Argentina (Argentinie)",
+            "number": 21,
+            "role": "keeper",
+            "description": "Jumps on top of the ball, as if springs in his shoes down.",
+            "ability": "CRICKET JUMP",
+            "game": "GOAL GOAL 2",
+            "fanOf": "GARETY",
+            "powers": {
+                "first": "sprongkracht",
+                "second": "balvastheid",
+                "third": "strafschopstopper"
+            }
+        }, {
+            "name": "Kavuk",
+            "team": "Argentina (Argentinie)",
+            "number": 22,
+            "role": "DEFENDER",
+            "description": "Great tackle technique. Craters in the lawn, but never touched a peak .",
+            "ability": "TACKLES PERFECT",
+            "game": "NUMBERS",
+            "fanOf": "LOTA",
+            "powers": {
+                "first": "AFSTOPPEN",
+                "second": "BAL VEROVEREN",
+                "third": "TEGENAANVAL"
+            }
+        }, {
+            "name": "Litty",
+            "team": "Argentina (Argentinie)",
+            "number": 23,
+            "role": "CAPTAIN",
+            "description": "Striking her compartment. Wherefore, not headlines, but raises unprecedented footwork.",
+            "ability": "Elusive",
+            "game": "ATTACK",
+            "fanOf": "Grog",
+            "powers": {
+                "first": "LEF",
+                "second": "MOTIVATIE",
+                "third": "LEIDERSCHAP"
+            }
+        }, {
+            "name": "Dibre",
+            "team": "Argentina (Argentinie)",
+            "number": 24,
+            "role": "ATTACKER",
+            "description": "moves so deftly that the ball stuck to his shoe looks. Passes defenders like nobody's.",
+            "ability": "100% ball control",
+            "game": "NUMBERS",
+            "fanOf": "FADIGO",
+            "powers": {
+                "first": "DRIBBELEN",
+                "second": "CREATIVITEIT",
+                "third": "SCHOTKRACHT"
+            }
+        }, {
+            "name": "Tiba",
+            "team": "Argentina (Argentinie)",
+            "number": 25,
+            "role": "LEGEND",
+            "description": "Small in size but is a beast when the opponents he would steal the ball .",
+            "ability": "fanatic",
+            "game": "penalty",
+            "fanOf": "Bronc",
+            "powers": {
+                "first": "BEKENDHEID",
+                "second": "INVLOED",
+                "third": "PERFECTIE"
+            }
+        }, {
+            "name": "Wiki",
+            "team": "Argentina (Argentinie)",
+            "number": 26,
+            "role": "SUPPORTER",
+            "description": "Determined to fans and players to boost competition in difficult moments.",
+            "ability": "OPTIMISM",
+            "game": "ATTACK",
+            "fanOf": "CRACK",
+            "powers": {
+                "first": "GANGMAKER",
+                "second": "AANMOEDIGEN",
+                "third": "VOETBALPASSIE"
+            }
+        }, {
+            "name": "Caian",
+            "team": "Argentina (Argentinie)",
+            "number": 27,
+            "role": "ARBITRATION",
+            "description": "Ever footballer, but not good enough. Now referee very hard especially flute. Not popular among players.",
+            "ability": "permeable ALL SOUND",
+            "game": "GOAL GOAL 2",
+            "fanOf": "PITON",
+            "powers": {
+                "first": "KRACHT",
+                "second": "GEZAG",
+                "third": "VASTBERADENHEID"
+            }
+        }, {
+            "name": "Lota-",
+            "team": "Argentina (Argentinie)",
+            "number": 28,
+            "role": "FOOTBALL",
+            "description": "When it needs it's like a cannonball. Through walls and can make the opponent confused.",
+            "ability": "out loud",
+            "game": "penalty",
+            "fanOf": "KAVUK",
+            "powers": {
+                "first": "EFFECT",
+                "second": "SNELHEID",
+                "third": "PRECISIE"
+            }
+        }, {
+            "name": "Onca",
+            "team": "Argentina (Argentinie)",
+            "number": 29,
+            "role": "coach",
+            "description": "Remember only one thing: football. Always keeps his head cool .",
+            "ability": "CONCENTRATION",
+            "game": "NUMBERS",
+            "fanOf": "Silba",
+            "powers": {
+                "first": "TACTIEK",
+                "second": "TRAINING",
+                "third": "INVLOED"
+            }
+        }, {
+            "name": "Nicco",
+            "team": "Argentina (Argentinie)",
+            "number": 30,
+            "role": "MASCOT",
+            "description": "Is so proud of his team. Thinks he's the best and coolest mascot in existence.",
+            "ability": "PRIDE",
+            "game": "ATTACK",
+            "fanOf": "BALA",
+            "powers": {
+                "first": "PLEZIER",
+                "second": "OPVALLEND",
+                "third": "GELUKSBRENGER"
+            }
+        }, {
+            "name": "Zille",
+            "team": "England (Engeland)",
+            "number": 31,
+            "role": "keeper",
+            "description": "notched her entire life. If she touches the ball, let them not let go of the ball .",
+            "ability": "clamp",
+            "game": "NUMBERS",
+            "fanOf": "BALTA",
+            "powers": {
+                "first": "sprongkracht",
+                "second": "balvastheid",
+                "third": "strafschopstopper"
+            }
+        }, {
+            "name": "Hidu",
+            "team": "England (Engeland)",
+            "number": 32,
+            "role": "DEFENDER",
+            "description": "Do not look where the ball is. Before a ball is touched, she already knows what she reaches.",
+            "ability": "FORECAST GIFTS",
+            "game": "penalty",
+            "fanOf": "Orro",
+            "powers": {
+                "first": "AFSTOPPEN",
+                "second": "BAL VEROVEREN",
+                "third": "TEGENAANVAL"
+            }
+        }, {
+            "name": "Shi-U",
+            "team": "England (Engeland)",
+            "number": 33,
+            "role": "CAPTAIN",
+            "description": "is everywhere and nowhere, in the defense and on offense. Always takes his team in tow.",
+            "ability": "WALKING MIRACLE",
+            "game": "ATTACK",
+            "fanOf": "DOINEL",
+            "powers": {
+                "first": "LEF",
+                "second": "MOTIVATIE",
+                "third": "LEIDERSCHAP"
+            }
+        }, {
+            "name": "Rugr",
+            "team": "England (Engeland)",
+            "number": 34,
+            "role": "ATTACKER",
+            "description": "Rock Star and goaltje thief. Excellent player who scores the conveyor.",
+            "ability": "GOALGETTER",
+            "game": "NUMBERS",
+            "fanOf": "PALLIS",
+            "powers": {
+                "first": "DRIBBELEN",
+                "second": "CREATIVITEIT",
+                "third": "SCHOTKRACHT"
+            }
+        }, {
+            "name": "Cassu",
+            "team": "England (Engeland)",
+            "number": 35,
+            "role": "LEGEND",
+            "description": "The story of the ball boy who dreamed of a career as a professional footballer. His dream came.",
+            "ability": "Perseverance",
+            "game": "GOAL GOAL 2",
+            "fanOf": "CaCO",
+            "powers": {
+                "first": "BEKENDHEID",
+                "second": "INVLOED",
+                "third": "PERFECTIE"
+            }
+        }, {
+            "name": "Gram",
+            "team": "England (Engeland)",
+            "number": 36,
+            "role": "SUPPORTER",
+            "description": "One of the grass, where he grew up. Disrupts the play of the opponent.",
+            "ability": "KEEPERS SHOUTING down",
+            "game": "penalty",
+            "fanOf": "PIN GOL",
+            "powers": {
+                "first": "GANGMAKER",
+                "second": "AANMOEDIGEN",
+                "third": "VOETBALPASSIE"
+            }
+        }, {
+            "name": "Whiskey",
+            "team": "England (Engeland)",
+            "number": 37,
+            "role": "ARBITRATION",
+            "description": "Speaks 8 languages ​​and is therefore popular among players. Everyone listens to him .",
+            "ability": "ORIGINAL WHISTLE SOUND",
+            "game": "ATTACK",
+            "fanOf": "DENITI",
+            "powers": {
+                "first": "KRACHT",
+                "second": "GEZAG",
+                "third": "VASTBERADENHEID"
+            }
+        }, {
+            "name": "Flambe",
+            "team": "England (Engeland)",
+            "number": 38,
+            "role": "FOOTBALL",
+            "description": "ball of ice. Fast attackers, difficult to control for defenders and goalies.",
+            "ability": "COOL BLOODY GOALS",
+            "game": "GOAL GOAL 2",
+            "fanOf": "JARUM",
+            "powers": {
+                "first": "EFFECT",
+                "second": "SNELHEID",
+                "third": "PRECISIE"
+            }
+        }, {
+            "name": "Baral",
+            "team": "England (Engeland)",
+            "number": 39,
+            "role": "COACH",
+            "description": "Former pro football player who many claimed. Now a coach who knows how to win .",
+            "ability": "EXPERIENCE",
+            "game": "NUMBERS",
+            "fanOf": "GAW",
+            "powers": {
+                "first": "TACTIEK",
+                "second": "TRAINING",
+                "third": "INVLOED"
+            }
+        }, {
+            "name": "Hapo",
+            "team": "England (Engeland)",
+            "number": 40,
+            "role": "MASCOT",
+            "description": "It has miles traveled to get where she is today. Nobody is smarter than they are therefore.",
+            "ability": "KNOW MUCH",
+            "game": "penalty",
+            "fanOf": "Ceron",
+            "powers": {
+                "first": "PLEZIER",
+                "second": "OPVALLEND",
+                "third": "GELUKSBRENGER"
+            }
+        }, {
+            "name": "Balta",
+            "team": "South Africa (Zuid Afrika)",
+            "number": 41,
+            "role": "keeper",
+            "description": "Secret weapon: her attire. If the ball is not to keep, she puts her hair like a peacock. And covered the whole goal and there is no ball through.",
+            "ability": "PEACOCK DEFENSE",
+            "game": "GOAL GOAL 2",
+            "fanOf": "Zille",
+            "powers": {
+                "first": "sprongkracht",
+                "second": "balvastheid",
+                "third": "strafschopstopper"
+            }
+        }, {
+            "name": "Toddy",
+            "team": "South Africa (Zuid Afrika)",
+            "number": 42,
+            "role": "DEFENDER",
+            "description": "Wider than wide. Do not waste the effort to advocate forcefully overthrow. The only thing that works is a lot of technique .",
+            "ability": "IS LIKE A HOUSE",
+            "game": "penalty",
+            "fanOf": "Litty",
+            "powers": {
+                "first": "AFSTOPPEN",
+                "second": "BAL VEROVEREN",
+                "third": "TEGENAANVAL"
+            }
+        }, {
+            "name": "Fadigo",
+            "team": "South Africa (Zuid Afrika)",
+            "number": 43,
+            "role": "CAPTAIN",
+            "description": "tired and sluggish. Makes his slow passes over well with those nine times out of 10 goals for care.",
+            "ability": "sublime PASSES",
+            "game": "ATTACK",
+            "fanOf": "DIBREL",
+            "powers": {
+                "first": "LEF",
+                "second": "MOTIVATIE",
+                "third": "LEIDERSCHAP"
+            }
+        }, {
+            "name": "Musta-",
+            "team": "South Africa (Zuid Afrika)",
+            "number": 44,
+            "role": "ATTACKER",
+            "description": "feared for his Gogolezo: a dribble with a twist of 360 degrees. Each defender gets completely lost the plot.",
+            "ability": "GOGOLEZO DRIBBLE",
+            "game": "NUMBERS",
+            "fanOf": "BARRU",
+            "powers": {
+                "first": "DRIBBELEN",
+                "second": "CREATIVITEIT",
+                "third": "SCHOTKRACHT"
+            }
+        }, {
+            "name": "Tchiro",
+            "team": "South Africa (Zuid Afrika)",
+            "number": 45,
+            "role": "LEGEND",
+            "description": "His nickname is 'the waiter'. Presents the ball perfectly and with unprecedented mastery.",
+            "ability": "ERROR",
+            "game": "penalty",
+            "fanOf": "Abidi",
+            "powers": {
+                "first": "BEKENDHEID",
+                "second": "INVLOED",
+                "third": "PERFECTIE"
+            }
+        }, {
+            "name": "Oleh",
+            "team": "South Africa (Zuid Afrika)",
+            "number": 46,
+            "role": "SUPPORTER",
+            "description": "Makes a great football party. Is at every game. His team travels around everywhere.",
+            "ability": "DOG WEDDING",
+            "game": "NUMBERS",
+            "fanOf": "MUH",
+            "powers": {
+                "first": "GANGMAKER",
+                "second": "AANMOEDIGEN",
+                "third": "VOETBALPASSIE"
+            }
+        }, {
+            "name": "Bato",
+            "team": "South Africa (Zuid Afrika)",
+            "number": 47,
+            "role": "ARBITRATION",
+            "description": "Is faster than many players. May therefore well see what happens and therefore is almost never wrong.",
+            "ability": "CONDITION",
+            "game": "ATTACK",
+            "fanOf": "Morera",
+            "powers": {
+                "first": "KRACHT",
+                "second": "GEZAG",
+                "third": "VASTBERADENHEID"
+            }
+        }, {
+            "name": "Balita",
+            "team": "South Africa (Zuid Afrika)",
+            "number": 48,
+            "role": "FOOTBALL",
+            "description": "Smart and fast. Miss his sense of precision are rarely objective.",
+            "ability": "GAME INSIGHT",
+            "game": "GOAL GOAL 2",
+            "fanOf": "DESO",
+            "powers": {
+                "first": "EFFECT",
+                "second": "SNELHEID",
+                "third": "PRECISIE"
+            }
+        }, {
+            "name": "Morera",
+            "team": "South Africa (Zuid Afrika)",
+            "number": 49,
+            "role": "COACH",
+            "description": "Have an eye for talented players. His players look up to him .",
+            "ability": "Talent spotting",
+            "game": "penalty",
+            "fanOf": "Bato",
+            "powers": {
+                "first": "TACTIEK",
+                "second": "TRAINING",
+                "third": "INVLOED"
+            }
+        }, {
+            "name": "Muh",
+            "team": "South Africa (Zuid Afrika)",
+            "number": 50,
+            "role": "MASCOT",
+            "description": "Discovered by Oleh on the savannah of South Africa. Brings the team luck and speed.",
+            "ability": "lucky charms",
+            "game": "GOAL",
+            "fanOf": "Oleh",
+            "powers": {
+                "first": "PLEZIER",
+                "second": "OPVALLEND",
+                "third": "GELUKSBRENGER"
+            }
+        }, {
+            "name": "Bonar",
+            "team": "Brazil (Brazilie)",
+            "number": 51,
+            "role": "keeper",
+            "description": "So fanatical that he eats the ball if necessary. Opponents are so scared that they dare not score .",
+            "ability": "Frightening",
+            "game": "penalty",
+            "fanOf": "DOWAH",
+            "powers": {
+                "first": "sprongkracht",
+                "second": "balvastheid",
+                "third": "strafschopstopper"
+            }
+        }, {
+            "name": "Monte",
+            "team": "Brazil (Brazilie)",
+            "number": 52,
+            "role": "DEFENDER",
+            "description": "Also known as \"The Rock\". Rolls the ball and his opponent down",
+            "ability": "ROLLING STONE",
+            "game": "ATTACK",
+            "fanOf": "GUMO",
+            "powers": {
+                "first": "AFSTOPPEN",
+                "second": "BAL VEROVEREN",
+                "third": "TEGENAANVAL"
+            }
+        }, {
+            "name": "Crack",
+            "team": "Brazil (Brazilie)",
+            "number": 53,
+            "role": "CAPTAIN",
+            "description": "A piece of muscle. Threatening a goal for the opponent, he hits so hard on the pitch that a quake occurs .",
+            "ability": "ATTACKERS waylay",
+            "game": "GOAL GOAL 2",
+            "fanOf": "WIKI",
+            "powers": {
+                "first": "LEF",
+                "second": "MOTIVATIE",
+                "third": "LEIDERSCHAP"
+            }
+        }, {
+            "name": "Knin",
+            "team": "Brazil (Brazilie)",
+            "number": 54,
+            "role": "ATTACKER",
+            "description": "lazy. Is only when he really sees a good chance. Never disappoints.",
+            "ability": "ALWAYS SCORES",
+            "game": "NUMBERS",
+            "fanOf": "FRO-ZEN",
+            "powers": {
+                "first": "DRIBBELEN",
+                "second": "CREATIVITEIT",
+                "third": "SCHOTKRACHT"
+            }
+        }, {
+            "name": "Kike",
+            "team": "Brazil (Brazilie)",
+            "number": 55,
+            "role": "LEGEND",
+            "description": "His helicopter fuss is legendary. He floats in the air, turning fast laps ... and gives the ball a powerful kick.",
+            "ability": "HELICOPTER wrap",
+            "game": "ATTACK",
+            "fanOf": "DRICS",
+            "powers": {
+                "first": "BEKENDHEID",
+                "second": "INVLOED",
+                "third": "PERFECTIE"
+            }
+        }, {
+            "name": "Drics",
+            "team": "Brazil (Brazilie)",
+            "number": 56,
+            "role": "SUPPORTER",
+            "description": "Is that so crazy soccer ball on his head grow. If the players see it, they get more confident.",
+            "ability": "GIVES CONFIDENCE",
+            "game": "GOAL GOAL 2",
+            "fanOf": "Kike",
+            "powers": {
+                "first": "GANGMAKER",
+                "second": "AANMOEDIGEN",
+                "third": "VOETBALPASSIE"
+            }
+        }, {
+            "name": "Pito",
+            "team": "Brazil (Brazilie)",
+            "number": 57,
+            "role": "ARBITRATION",
+            "description": "Loves samba and beautiful football. Sometimes attracts players to the technical .",
+            "ability": "THE SAMBA WHISTLE",
+            "game": "penalty",
+            "fanOf": "POMME",
+            "powers": {
+                "first": "KRACHT",
+                "second": "GEZAG",
+                "third": "VASTBERADENHEID"
+            }
+        }, {
+            "name": "Gumo",
+            "team": "Brazil (Brazilie)",
+            "number": 58,
+            "role": "FOOTBALL",
+            "description": "A ball history. Played in major competitions and has so many secrets soccer.",
+            "ability": "KNOW THE SECRETS FOOTBALL",
+            "game": "NUMBERS",
+            "fanOf": "MONTE",
+            "powers": {
+                "first": "EFFECT",
+                "second": "SNELHEID",
+                "third": "PRECISIE"
+            }
+        }, {
+            "name": "Caco",
+            "team": "Brazil (Brazilie)",
+            "number": 59,
+            "role": "coach",
+            "description": "He looks at all the games and know exactly how he must defeat an opponent.",
+            "ability": "TECHNICAL ANALYSIS",
+            "game": "GOAL GOAL 2",
+            "fanOf": "CASSU",
+            "powers": {
+                "first": "TACTIEK",
+                "second": "TRAINING",
+                "third": "INVLOED"
+            }
+        }, {
+            "name": "Zaya",
+            "team": "Brazil (Brazilie)",
+            "number": 60,
+            "role": "MASCOT",
+            "description": "Uses his tail to the ball to juggle. Entertained the audience and will not be popular with some opponents.",
+            "ability": "JUGGLING",
+            "game": "ATTACK",
+            "fanOf": "LIN",
+            "powers": {
+                "first": "PLEZIER",
+                "second": "OPVALLEND",
+                "third": "GELUKSBRENGER"
+            }
+        }, {
+            "name": "Loo",
+            "team": "Italy (Italie)",
+            "number": 61,
+            "role": "keeper",
+            "description": "The largest penalty ever stopper. Has never passed in a penalty shootout.",
+            "ability": "PENALTY KILLER",
+            "game": "GOAL GOAL 2",
+            "fanOf": "DYN",
+            "powers": {
+                "first": "sprongkracht",
+                "second": "balvastheid",
+                "third": "strafschopstopper"
+            }
+        }, {
+            "name": "Gule",
+            "team": "Italy (Italie)",
+            "number": 62,
+            "role": "DEFENDER",
+            "description": "Defends by attacking. Is sometimes invisible to his opponents.",
+            "ability": "INVISIBLE",
+            "game": "penalty",
+            "fanOf": "Cyro",
+            "powers": {
+                "first": "AFSTOPPEN",
+                "second": "BAL VEROVEREN",
+                "third": "TEGENAANVAL"
+            }
+        }, {
+            "name": "R-San",
+            "team": "Italy (Italie)",
+            "number": 63,
+            "role": "CAPTAIN",
+            "description": "Secret weapon Scarpo. Gets through his headphones direct instructions of his coach .",
+            "ability": "STRATEGIC AND FAST",
+            "game": "NUMBERS",
+            "fanOf": "SCARPO",
+            "powers": {
+                "first": "LEF",
+                "second": "MOTIVATIE",
+                "third": "LEIDERSCHAP"
+            }
+        }, {
+            "name": "Argh",
+            "team": "Italy (Italie)",
+            "number": 64,
+            "role": "ATTACKER",
+            "description": "Loves scoring ... and cheer. Will be welcomed by the team winning.",
+            "ability": "WINNER OF MIND",
+            "game": "ATTACK",
+            "fanOf": "GANAZ",
+            "powers": {
+                "first": "DRIBBELEN",
+                "second": "CREATIVITEIT",
+                "third": "SCHOTKRACHT"
+            }
+        }, {
+            "name": "Tiopo",
+            "team": "Italy (Italie)",
+            "number": 65,
+            "role": "LEGEND",
+            "description": "talk too much and therefore sometimes forget how good she is. Only when her mouth was taped, she is one of the best players in the world.",
+            "ability": "rounder",
+            "game": "GOAL TO GOAL",
+            "fanOf": "BURI-GO",
+            "powers": {
+                "first": "BEKENDHEID",
+                "second": "INVLOED",
+                "third": "PERFECTIE"
+            }
+        }, {
+            "name": "Dalle",
+            "team": "Italy (Italie)",
+            "number": 66,
+            "role": "SUPPORTER",
+            "description": "Laughs and is always cheerful. Loves soccer and creates a good atmosphere in the stands.",
+            "ability": "PACIFIC",
+            "game": "NUMBERS",
+            "fanOf": "BOLERAGE",
+            "powers": {
+                "first": "GANGMAKER",
+                "second": "AANMOEDIGEN",
+                "third": "VOETBALPASSIE"
+            }
+        }, {
+            "name": "Piton",
+            "team": "Italy (Italie)",
+            "number": 67,
+            "role": "ARBITRATION",
+            "description": "Have a keen eye for everything that happens. Often sends players on the field.",
+            "ability": "NOISE CAUSE",
+            "game": "penalty",
+            "fanOf": "CAIAN",
+            "powers": {
+                "first": "KRACHT",
+                "second": "GEZAG",
+                "third": "VASTBERADENHEID"
+            }
+        }, {
+            "name": "Pomm",
+            "team": "Italy (Italie)",
+            "number": 68,
+            "role": "FOOTBALL",
+            "description": "Changes of form immediately if he gets a kick from the opponent. Soft, hard, flexible, heavy, light, it will never recognize .",
+            "ability": "Metamorphosis",
+            "game": "ATTACK",
+            "fanOf": "Pito",
+            "powers": {
+                "first": "EFFECT",
+                "second": "SNELHEID",
+                "third": "PRECISIE"
+            }
+        }, {
+            "name": "Scarpo",
+            "team": "Italy (Italie)",
+            "number": 69,
+            "role": "COACH",
+            "description": "You know everything about football and its players. Is strict and sends its players in the field.",
+            "ability": "Leadership",
+            "game": "NUMBERS",
+            "fanOf": "R-SAN",
+            "powers": {
+                "first": "TACTIEK",
+                "second": "TRAINING",
+                "third": "INVLOED"
+            }
+        }, {
+            "name": "Ceron",
+            "team": "Italy (Italie)",
+            "number": 70,
+            "role": "MASCOT",
+            "description": "Has a nose for goal. Can not score himself, but gives the team a lot of scoring power .",
+            "ability": "GIVES STRENGTH RATING",
+            "game": "GOAL GOAL 2",
+            "fanOf": "Hapo",
+            "powers": {
+                "first": "PLEZIER",
+                "second": "OPVALLEND",
+                "third": "GELUKSBRENGER"
+            }
+        }, {
+            "name": "Deso",
+            "team": "France (Frankrijk)",
+            "number": 71,
+            "role": "keeper",
+            "description": "No. 1 in the world. Keep balls, but is also known as excellent penalty taker.",
+            "ability": "KEEPER Scoring",
+            "game": "penalty",
+            "fanOf": "Balita",
+            "powers": {
+                "first": "sprongkracht",
+                "second": "balvastheid",
+                "third": "strafschopstopper"
+            }
+        }, {
+            "name": "Capot",
+            "team": "France (Frankrijk)",
+            "number": 72,
+            "role": "DEFENDER",
+            "description": "Always Walks with his head bandaged. Notorious for his relentlessly hard .",
+            "ability": "HARD HEAD",
+            "game": "ATTACK",
+            "fanOf": "Bessat",
+            "powers": {
+                "first": "AFSTOPPEN",
+                "second": "BAL VEROVEREN",
+                "third": "TEGENAANVAL"
+            }
+        }, {
+            "name": "Doinel",
+            "team": "France (Frankrijk)",
+            "number": 73,
+            "role": "CAPTAIN",
+            "description": "The seventh son of a professional footballer, who is also the seventh son of a professional footballer. Ever scored seven times in a match .",
+            "ability": "FAMILY TALENT",
+            "game": "ATTACK",
+            "fanOf": "SHI-U",
+            "powers": {
+                "first": "LEF",
+                "second": "MOTIVATIE",
+                "third": "LEIDERSCHAP"
+            }
+        }, {
+            "name": "Garety",
+            "team": "France (Frankrijk)",
+            "number": 74,
+            "role": "ATTACKER",
+            "description": "Dribbles everywhere in between, even between the legs. Everyone is trying too quickly to even the dividing.",
+            "ability": "PANNA KING",
+            "game": "NUMBERS",
+            "fanOf": "RIBAS",
+            "powers": {
+                "first": "DRIBBELEN",
+                "second": "CREATIVITEIT",
+                "third": "SCHOTKRACHT"
+            }
+        }, {
+            "name": "Bessat",
+            "team": "France (Frankrijk)",
+            "number": 75,
+            "role": "LEGEND",
+            "description": "An artist with the ball. Plays mostly with his head. Can hundred meters far .",
+            "ability": "KOPARTIEST",
+            "game": "GOAL GOAL 2",
+            "fanOf": "Capot",
+            "powers": {
+                "first": "BEKENDHEID",
+                "second": "INVLOED",
+                "third": "PERFECTIE"
+            }
+        }, {
+            "name": "Raby",
+            "team": "France (Frankrijk)",
+            "number": 76,
+            "role": "SUPPORTER",
+            "description": "Popular for its dance, the Tango! The infectious rhythm brings everyone in a festive mood.",
+            "ability": "Exciting DANCE",
+            "game": "penalty",
+            "fanOf": "Bombo",
+            "powers": {
+                "first": "GANGMAKER",
+                "second": "AANMOEDIGEN",
+                "third": "VOETBALPASSIE"
+            }
+        }, {
+            "name": "Fifuh",
+            "team": "France (Frankrijk)",
+            "number": 77,
+            "role": "ARBITRATION",
+            "description": "Has its own rules and making jokes. His sporting events, are always .",
+            "ability": "CREATING HARMONY",
+            "game": "GOAL GOAL 2",
+            "fanOf": "Of Par",
+            "powers": {
+                "first": "KRACHT",
+                "second": "GEZAG",
+                "third": "VASTBERADENHEID"
+            }
+        }, {
+            "name": "Asfer",
+            "team": "France (Frankrijk)",
+            "number": 78,
+            "role": "FOOTBALL",
+            "description": "A ball accelerates as his coach wants. Therefore unpredictable for opponents.",
+            "ability": "Remote Control",
+            "game": "NUMBERS",
+            "fanOf": "Dudi",
+            "powers": {
+                "first": "EFFECT",
+                "second": "SNELHEID",
+                "third": "PRECISIE"
+            }
+        }, {
+            "name": "Dudi",
+            "team": "France (Frankrijk)",
+            "number": 79,
+            "role": "COACH",
+            "description": "Changes always good player at the right time. Wins so often in the last minute.",
+            "ability": "TACTICAL BILLS",
+            "game": "ATTACK",
+            "fanOf": "ASFER",
+            "powers": {
+                "first": "TACTIEK",
+                "second": "TRAINING",
+                "third": "INVLOED"
+            }
+        }, {
+            "name": "Lefa",
+            "team": "France (Frankrijk)",
+            "number": 80,
+            "role": "MASCOT",
+            "description": "Brings happiness, but also cooling. With his trunk he provides a refreshing fountain.",
+            "ability": "good luck",
+            "game": "GOAL GOAL 2",
+            "fanOf": "LYU",
+            "powers": {
+                "first": "PLEZIER",
+                "second": "OPVALLEND",
+                "third": "GELUKSBRENGER"
+            }
+        }, {
+            "name": "Of par",
+            "team": "Holland",
+            "number": 81,
+            "role": "keeper",
+            "description": "Keeper of high caliber. Always keeps his cool. Has many high-speed rescues to his credit.",
+            "ability": "FAST RESCUE OPERATIONS",
+            "game": "GOAL GOAL 2",
+            "fanOf": "FIFUH",
+            "powers": {
+                "first": "sprongkracht",
+                "second": "balvastheid",
+                "third": "strafschopstopper"
+            }
+        }, {
+            "name": "Deniti",
+            "team": "Holland",
+            "number": 82,
+            "role": "DEFENDER",
+            "description": "very strong in defense, but dreams of a position as a central midfielder. As two-legged play it often shines on the offensive.",
+            "ability": "bipedalism",
+            "game": "NUMBERS",
+            "fanOf": "WHISE",
+            "powers": {
+                "first": "AFSTOPPEN",
+                "second": "BAL VEROVEREN",
+                "third": "TEGENAANVAL"
+            }
+        }, {
+            "name": "Bolerage",
+            "team": "Holland",
+            "number": 83,
+            "role": "CAPTAIN",
+            "description": "Let many hearts beat faster. With its beautiful hakballetjes he gets the audience on the benches.",
+            "ability": "HAKBALLETJES",
+            "game": "ATTACK",
+            "fanOf": "DALLE",
+            "powers": {
+                "first": "LEF",
+                "second": "MOTIVATIE",
+                "third": "LEIDERSCHAP"
+            }
+        }, {
+            "name": "Buri-Go",
+            "team": "Holland",
+            "number": 84,
+            "role": "ATTACKER",
+            "description": "Headers given added impetus and impact through his great head of hair. Sometimes they disappear just as hard in his hair and then disappearing into the goal.",
+            "ability": "DISAPPEARING TRICKS",
+            "game": "ATTACK",
+            "fanOf": "TIOPO",
+            "powers": {
+                "first": "DRIBBELEN",
+                "second": "CREATIVITEIT",
+                "third": "SCHOTKRACHT"
+            }
+        }, {
+            "name": "Abidi",
+            "team": "Holland",
+            "number": 85,
+            "role": "LEGEND",
+            "description": "Let the most impossible tricks seen on the field. This is the most technical player on the planet .",
+            "ability": "TRUCENDOOS",
+            "game": "penalty",
+            "fanOf": "TCHIRO",
+            "powers": {
+                "first": "BEKENDHEID",
+                "second": "INVLOED",
+                "third": "PERFECTIE"
+            }
+        }, {
+            "name": "Bilin",
+            "team": "Holland",
+            "number": 86,
+            "role": "SUPPORTER",
+            "description": "Aanvalluh! She is captain of the best fans in the world: the Orange fans. Builds parties like no other that can .",
+            "ability": "ATMOSPHERE MAKER",
+            "game": "penalty",
+            "fanOf": "BOK",
+            "powers": {
+                "first": "GANGMAKER",
+                "second": "AANMOEDIGEN",
+                "third": "VOETBALPASSIE"
+            }
+        }, {
+            "name": "Vuvu",
+            "team": "Holland",
+            "number": 87,
+            "role": "ARBITRATION",
+            "description": "his whistle echoes through the stadium. Has so much experience that everyone has respect for him .",
+            "ability": "STORMY SOUND",
+            "game": "NUMBERS",
+            "fanOf": "FORF",
+            "powers": {
+                "first": "KRACHT",
+                "second": "GEZAG",
+                "third": "VASTBERADENHEID"
+            }
+        }, {
+            "name": "Pin-Gol",
+            "team": "Holland",
+            "number": 88,
+            "role": "FOOTBALL",
+            "description": "ball so quickly that no player can change the opponent can follow .",
+            "ability": "Match",
+            "game": "GOAL GOAL 2",
+            "fanOf": "GRAM",
+            "powers": {
+                "first": "EFFECT",
+                "second": "SNELHEID",
+                "third": "PRECISIE"
+            }
+        }, {
+            "name": "Bronc",
+            "team": "Holland",
+            "number": 89,
+            "role": "COACH",
+            "description": "The best coach you can have: have all won prizes. Will always keep winning.",
+            "ability": "WINNER OF MIND",
+            "game": "NUMBERS",
+            "fanOf": "TIBA",
+            "powers": {
+                "first": "TACTIEK",
+                "second": "TRAININGS",
+                "third": "INVLOED"
+            }
+        }, {
+            "name": "Jarum",
+            "team": "Holland",
+            "number": 90,
+            "role": "MASCOT",
+            "description": "Strongest of all the mascots. Does everything a team needs, strength, speed and luck. Roars the players to gain.",
+            "ability": "BRULE PROFIT",
+            "game": "ATTACK",
+            "fanOf": "Flambe",
+            "powers": {
+                "first": "PLEZIER",
+                "second": "OPVALLEND",
+                "third": "GELUKSBRENGER"
+            }
+        }
+    ],
+    "teams": [
+        "Spain (Spanje)",
+        "Germany (Duitsland)",
+        "Argentina (Argentinie)",
+        "England (Engeland)",
+        "South Africa (Zuid Afrika)",
+        "Brazil (Brazilie)", "Italy (Italie)",
+        "France (Frankrijk)",
+        "Holland"
+    ],
+    "powers": {
+        "first": "verdedigen",
+        "second": "aanvallen",
+        "third": "samenspel",
+        "fourth": "kracht",
+        "fifth": "techniek"
+    }
+}

@@ -1,0 +1,59 @@
+/* JSHint Resource Config .jshintrc */
+{
+	// Enforcing options
+	"bitwise": false,			// true: forbid use of bitwise operators
+	"camelcase": true,		// true: force all variables to camelCase or UPPER_CASE
+	"curly": true,			// true: force using curly braces around loops and conditionals
+	"eqeqeq": true,			// prohibit the use of ==, !=
+	"forin": false,			// true: require hasOwnProperty check on for in loops
+	"immed": true,			// true: force use of parens around immediate function invocations
+	"indent": 4,				// tab width is 4
+	"latedef": true,			// true: force declaration of variable before use
+	"newcap": true,			// true: capitalize the names of constructor functions
+	"noarg": false,			// true: prohibit arguments.caller and arguments.callee
+	"noempty": false,			// true: prohibit empty blocks
+	"nonew": true,			// true: prohibit use of new w/o assignment
+	"plusplus": false,		// true: prohibit ++ and --
+	"quotmark": true,			// true: enforce one style or the other (i.e. pick it and stick it)
+	"undef": true,			// true: prohibit use of undefined vars
+	"unused": false,			// true: warns when unused variables are defined
+	"strict": false,			// true: force use of strict mode
+	"trailing": true,			// true: prohibit trailing whitespace
+	"maxlen": 100,				// maximum length of line in chars
+
+	// Relaxing options
+	"asi": false,				// false: require semicolons
+	"boss": true,				// true: allow assignments where comparisons are expected
+	"debug": true,			// allow debugger statements
+	"eqnull": false,			// don't allow == null (which eq also on undefined)
+	"es5": false,				// true: code uses es5 syntax
+	"esnext": false,			// true: code uses es6 syntax
+	"evil": true,				// true: allow eval
+	"funcscope": false,		// false: warn about declaring vars inside of control structures
+	"globalstrict": false,	// true: suppress warnings about global strict mode
+	"iterator": false,		// true: suppress warning about __iterator__ property
+	"smarttabs": true,		// suppress warnings about mixed tabs and spaces for alignment
+	"shadow": true,			// suppress warnings about redeclaring variable that has been declared in outer scope
+	"sub": true,				// relax warnings about using [] notation where . notation could be used
+
+	// Environments:
+	"browser": true,			// assume browser objects
+	"devel": true,			// assume console, alert, etc.
+	"jquery": true,			// assume $, jQuery objects
+	"nonstandard": true,		// assume non-standard but accepted such as escape and unescape
+
+	// Undocumented Options
+
+	"maxerr": 100,			// maximum errors to report before stopping
+	"predef": [				// predefined globals
+		"org",				// for namespacing
+		"com",
+		"net",
+		"define",			// requirejs stuff
+		"require",
+		"requirejs",
+		"_",				// underscore
+		"backbone",			// backbone
+		"ko", "kb"			// knockout, knockback
+	]
+}
