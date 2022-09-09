@@ -111,10 +111,11 @@ define([
 				var app = org.Collectist.app,
 					target = event.target,
 					$logo = $('header .logo'),
-					$img = $(target).parent().children('img'),
-					aniDupe, offset, logoOffset, logoDimensions;
+					$imgs = $(target).parent().children('img'),
+					$img, aniDupe, offset, logoOffset, logoDimensions;
 
-				if ($img.size() > 0) {
+				if ($imgs.size() > 0) {
+                    $img = $imgs.get(0);
 					aniDupe = $img.clone();
 					offset = $img.offset();
 					logoOffset = $logo.offset();
