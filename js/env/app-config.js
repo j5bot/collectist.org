@@ -23,6 +23,7 @@ define([
 
 		// get the hostname for the site, so we show the right one :)
 		app.sitehost = alias(window.location.hostname.split('.')[0]);
+        app.domain = `${app.sitehost}.collectist.org`;
 
 		/**
 		 * update things in the head of the document: the title and

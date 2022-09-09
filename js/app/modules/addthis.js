@@ -57,12 +57,12 @@ define([
 
 				if (!event) {
 					addthis_share.url = addthis_share
-						.url.replace(/\/collectist\/[^\/]*\//i, '/collectist/' + user + '/');
+						.url.replace(/\/collectist\/[^\/]*\//i, '/' + app.domain + '/' + user + '/');
 				} else {
 					if (typeof event.url !== 'string') {
 						event.url = event.collection.series.transformer.call(event.collection);
 					}
-					addthis_share.url = host + '/collectist/' + user + '/' + event.url;
+					addthis_share.url = host + '/' + app.domain + '/' + user + '/' + event.url;
 				}
 				addthis.update('share', 'url', addthis_share.url);
 			}

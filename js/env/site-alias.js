@@ -5,9 +5,13 @@ define([], function () {
 		switch (hostname) {
 		case 'www':
 		case 'collectist':
-		case 'localhost':
 			hostname = 'www';
 			break;
+        case 'localhost':
+        case 'gogos':
+        default:
+            hostname = "gogos";
+            break;
 		}
 
 		return hostname;
